@@ -1,32 +1,23 @@
 {
-    "name": "filmalbum",
-	"version": "0.0.0",
-	"author": "Phoscur",
-	"dependencies": {
-		"webpack": "0.7.x",
-		"enhanced-require": "0.3.x",
-		"jade-loader": "0.2.x",
-		"json-loader": "0.2.x",
-		"raw-loader": "0.2.x",
-		"i18n-loader": "0.3.x",
-		"jshint-loader": "0.1.x"
-	},
-	"jam": {
-		"dependencies": {
-			"bootstrap": "2.1.x",
-			"jquery": "1.8.x",
-            "backbone": "0.9.x"
-		}
-	},
-	"licenses": [
-		{
-			"type": "MIT",
-			"url": "http://www.opensource.org/licenses/mit-license.php"
-		}
-	],
-	"engines": {
-		"node":  ">=0.6.0"
-	},
-	"homepage": "http://github.com/sokra/modules-webpack-example",
-	"license": "MIT"
+  "name": "Filmalbum",
+  "version": "0.0.1",
+  "description": "Managing a film collection",
+  "main": "server.js",
+  "repository": "",
+  "author": "Phoscur phoscur@pheelgood.net",
+  "license": "MIT",
+  "dependencies": {
+  	"express": "3.x",
+  	"async": "0.2.x",
+  	"underscore": "1.4.x"
+  },
+  "jam": {
+    "packageDir": "web_modules",
+    "dependencies": {
+      "bootstrap": "2.1.x",
+      "jquery": "1.8.x",
+      "backbone": "0.9.x",
+      "underscore": null
+    }
+  }
 }

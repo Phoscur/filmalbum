@@ -1,14 +1,14 @@
 "use strict";
 
 var fs = require("fs")
-  ,	_ = require("underscore");
+  , _ = require("underscore");
 
 function Film(file) {
   _.extend(this, file);
 }
 
-Film.prototype.getHash = function() {
-  return this.title;
+Film.prototype.getHash = function () {
+  return this.title + "=" + this.name;
 };
 
 Film.prototype.getFilename = function getFilename() {
@@ -18,7 +18,7 @@ Film.prototype.getFilename = function getFilename() {
   return this.title + " (" + this.year + ", " + this.quality + ")." + this.format;
 };
 
-Film.prototype.rename = function() {
+Film.prototype.rename = function () {
   this.oldname = this.name;
   fs.renameSync(this.dir + '/' + this.name, this.dir + '/' + this.getFilename());
   this.name = this.getFilename();

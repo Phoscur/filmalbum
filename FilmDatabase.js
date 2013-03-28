@@ -1,17 +1,17 @@
 "use strict";
 
 var fs = require("fs"),
-    EventEmitter = require("events").EventEmitter,
-    util = require("util"),
-    async = require("async"),
-    _ = require("underscore"),
+  EventEmitter = require("events").EventEmitter,
+  util = require("util"),
+  async = require("async"),
+  _ = require("underscore"),
 
-    Film = require('./Film'),
+  Film = require('./Film'),
 
-    formatRegex = /^[a-zA-Z\.\- 0-9üöä]+ \([a-zA-Z\.\-\+, 0-9]+\)\.(mkv|m2ts|ts|mp4)$/,
-    yearRegex = /((19|20)[0-9]{2})/, //\(?((19|20)[0-9][0-9])[^a-z0-9]?/
-    blackListRegex = /^(Thumbs\.db|films\.js)$/,
-    qualitiesRegex = /(720p|1080p|1080i|1920x800|1920x816|bdrip|dvdrip|xvid|divx)/i;
+  formatRegex = /^[a-zA-Z\.\- 0-9üöä]+ \([a-zA-Z\.\-\+, 0-9]+\)\.(mkv|m2ts|ts|mp4)$/,
+  yearRegex = /((19|20)[0-9]{2})/, //\(?((19|20)[0-9][0-9])[^a-z0-9]?/
+  blackListRegex = /^(Thumbs\.db|films\.js)$/,
+  qualitiesRegex = /(720p|1080p|1080i|1920x800|1920x816|bdrip|dvdrip|xvid|divx)/i;
 
 function FilmDatabase(films) {
   EventEmitter.call(this);
@@ -20,15 +20,15 @@ function FilmDatabase(films) {
 
 util.inherits(FilmDatabase, EventEmitter);
 
-FilmDatabase.prototype.import = function(filename, overwrite) {
+FilmDatabase.prototype.import = function (filename, overwrite) {
   var films = JSON.parse(fs.readFileSync(filename, "utf8"));
-  _.forEach(films, function(film) {
+  _.forEach(films, function (film) {
     this.save(film, overwrite);
   }, this);
   return this;
 };
 
-FilmDatabase.prototype.export = function(filename) {
+FilmDatabase.prototype.export = function (filename) {
   fs.writeFileSync(filename, JSON.stringify(this.films));
 };
 
@@ -37,28 +37,42 @@ FilmDatabase.prototype.export = function(filename) {
  * @param {Array} directories
  * @param {Function} callbackWithDatabase async callback
  */
-FilmDatabase.prototype.scan = function(directories, callbackWithDatabase) {
-  var self = this;
-  async.map(directories, function(dir, callback) {
-    fs.readdir(dir, function(err, files) {
+FilmDatabase.prototype.scan = function (directories, callbackWithDatabase) {
+  var self = this, allFiles = [];
+  async.map(directories, function readDir(dir, callback) {
+    fs.readdir(dir, function (err, files) {
       if (err) {
         return callback(err);
       }
-      callback(err, _.compact(files.map(function(fileName) {
-        return fileName.match(blackListRegex)
-          ? null
-          : {name: fileName, dir: dir};
-      })));
+      async.map(files, function (fileName, callback) {
+        fs.stat(dir + '/' + fileName, function (err, stats) {
+          if (err) {
+            callback(err);
+          }
+          if (stats.isDirectory()) {
+            readDir(dir + '/' + fileName, callback);
+          } else {
+            if (!fileName.match(blackListRegex)) {
+              allFiles.push({name: fileName, dir: dir});
+            }
+            callback(null);
+          }
+        });
+      }, function () {
+        callback(null, allFiles);
+      });
     });
   }, function (err, files) {
+    var films;
     if (!files) {
-      console.log("Failed to read diretories", err);
+      console.log("Failed to read directories", err);
       return callbackWithDatabase(self);
     }
-    callbackWithDatabase(self, _.flatten(files).map(function(file) {
-      self.analyse(file);
-      self.save(file);
-    }));
+    films = _.flatten(files).map(function (file) {
+      return self.save(self.analyse(file));
+    });
+    self.emit('scanned', films);
+    callbackWithDatabase(self, films);
   });
   return this;
 };
@@ -68,7 +82,7 @@ FilmDatabase.prototype.scan = function(directories, callbackWithDatabase) {
  * @param file
  * @returns file with more attributes
  */
-FilmDatabase.prototype.analyse = function(file) {
+FilmDatabase.prototype.analyse = function (file) {
   var titleLength, tokens, title;
   if (file.name.match(formatRegex)) { // well formated can be recognised more easily
     file.title = file.name.split("(")[0].replace(qualitiesRegex, "").replace(yearRegex, "").trim();
@@ -77,7 +91,7 @@ FilmDatabase.prototype.analyse = function(file) {
   // replace points between words with spaces
   tokens = file.name.replace(/([^\.])(\.|_)([^\.])/g, '$1 $3').split(" ");
   titleLength = tokens.length - 1; // title ends before first recognisable token
-  tokens.forEach(function(token, i) {
+  tokens.forEach(function (token, i) {
     var known = false;
     token = token.replace(/\(|\[|\]|,|\)/g, "");
     if (token.match(qualitiesRegex)) {
@@ -96,17 +110,13 @@ FilmDatabase.prototype.analyse = function(file) {
   if (!file.wellFormated) {
     file.title = title;
   }
-  file.tags = tokens.splice(0, tokens.length-1).join(" ").replace(qualitiesRegex, "").replace(yearRegex, "").trim();
+  file.tags = tokens.splice(0, tokens.length - 1).join(" ").replace(qualitiesRegex, "").replace(yearRegex, "").trim();
   file.format = tokens[0];
-  if (!file.quality) {
-    console.log("warning no quality found for", file.title); //, "using default", defaultQuality);
-    //	file.quality = defaultQuality;
-  }
   return file;
 };
 
 
-FilmDatabase.prototype.get = function(hash) {
+FilmDatabase.prototype.get = function (hash) {
   return this.films[hash];
 };
 
@@ -117,17 +127,17 @@ FilmDatabase.prototype.get = function(hash) {
  * @param {Boolean} [overwrite] optional force overwrite on hashcollision
  * @returns {Film}
  */
-FilmDatabase.prototype.save = function(file, overwrite) {
+FilmDatabase.prototype.save = function (file, overwrite) {
   var film = new Film(file);
   if (!overwrite && this.get(film.getHash())) {
-    throw new Error("hashcollision", film, this.get(film.getHash()));
+    throw new Error("hashcollision[" + film.getHash() + "]: " + film.name + " and " + this.get(film.getHash()).name);
   }
   this.films[film.getHash()] = film;
   this.emit('newFilm', film);
-  return this;
+  return film;
 };
 
-FilmDatabase.prototype.getLength = function() {
+FilmDatabase.prototype.getLength = function () {
   return Object.keys(this.films).length;
 };
 

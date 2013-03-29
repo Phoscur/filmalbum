@@ -118,7 +118,12 @@ FilmDatabase.prototype.analyse = function (file) {
 
 FilmDatabase.prototype.get = function (hash) {
   return this.films[hash];
+}
+
+FilmDatabase.prototype.getAll = function (asArray) {
+  return asArray ? _.toArray(this.films) : this.films;
 };
+
 
 /**
  * Saves file, creates film

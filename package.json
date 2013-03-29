@@ -10,6 +10,9 @@
     "express": "3.x",
     "async": "~0.2.6",
     "underscore": "1.4.x",
-    "optimist": "~0.3.5"
+    "optimist": "~0.3.5",
+    "request": "~2.16.6",
+    "domino": "~1.0.9",
+    "zepto-node": "~1.0.0"
   }
 }

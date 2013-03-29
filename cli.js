@@ -5,6 +5,7 @@ var fs = require("fs")
   , readline = require("readline")
   , async = require("async")
   , _ = require("underscore")
+  , getIMDbInformation = require('./scraper')
   , FilmDatabase = require("./FilmDatabase");
 
 var optimist = require('optimist')
@@ -21,6 +22,9 @@ var optimist = require('optimist')
     .alias('r', 'rename')
     .boolean('r')
     .describe('r', 'enables rename mode')
+    .alias('s', 'scrape')
+    .boolean('s')
+    .describe('s', 'search corresponding imdb data')
     .argv
   ;
 var dbFile = argv.file
@@ -32,15 +36,42 @@ var rl = readline.createInterface({
   output: process.stdout
 });
 
-function exit() {
-  console.log("Database currently has", database.getLength(), "films stored. Quitting CLI...");
+function exit(hard) {
+  if (!hard) {
+    databaseExport(function () {
+      console.log("Goodbye!");
+      process.exit(0);
+    });
+  }
+  console.log("Goodbye!");
   process.exit(0);
+}
+function databaseExport(cb) {
+  rl.question("Do you want to export the database? Chose a filename or hit Enter to exit", function (answer) {
+    if (answer.length > 0) {
+      database.export(answer);
+      console.log("database exported");
+    }
+    cb();
+  });
+}
+
+function scrape(cb) {
+  if (argv.scrape) {
+    async.map(database.getAll(true), getIMDbInformation, function (films) {
+      console.log("scraping complete");
+      cb();
+    });
+  } else {
+    cb();
+  }
 }
 
 if (!dbFile && !directories) {
   console.log(optimist.help());
   process.exit(1);
 }
+
 
 if (argv.list || !argv.rename) {
   database.on('newFilm', function (film) {
@@ -66,13 +97,12 @@ if (dbFile) {
 if (directories) {
   database.scan(directories, function (database, films) {
     console.log("Scanned", directories, "added", database.getLength(), "to database");
-    rl.question("Do you want to export the database? Chose a filename or hit Enter to exit", function (answer) {
-      if (answer.length > 0) {
-        database.export(answer);
-      }
+    scrape(function () {
       exit();
     });
   });
-} else exit();
-
-
+} else {
+  scrape(function () {
+    exit();
+  });
+}

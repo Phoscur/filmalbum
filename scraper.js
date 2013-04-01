@@ -20,11 +20,13 @@ var knownFilms = {
  * @param {Function} callback{$, uri, redirected}
  */
 function $request(url, callback) {
+  console.log("fired request", url);
   request(url, function (error, response, body) {
     if (error) {
-      console.log(error);
+      return callback(error);
     }
     callback(
+      null,
       Zepto(
         domino.createWindow(
           body.replace('</head>', '</head><body>').replace(/<script[\s\S]*?<\/script>/gi, '')
@@ -44,17 +46,23 @@ function $request(url, callback) {
 function getIMDbInformation(file, callback) {
   if (knownFilms[file.title.toLowerCase()]) {
     file.imdbUrl = knownFilms[file.title.toLowerCase()];
-    $request(knownFilms[file.title.toLowerCase()], function ($) {
+    $request(knownFilms[file.title.toLowerCase()], function (error, $) {
+      if (error) {
+        return callback(error, file);
+      }
       scrapeIMDbTitleSite(file, $);
-      callback(file);
+      callback(null, file);
     });
     return;
   }
-  $request("http://www.imdb.com/find?s=tt&q=" + file.title, function ($, uri, redirected) {
+  $request("http://www.imdb.com/find?s=tt&q=" + file.title, function (error, $, uri, redirected) {
+    if (error) {
+      return callback(error, file);
+    }
     if (redirected) { // search has been redirected = HIT we already found the corresponding imdbfilm
       file.imdbUrl = uri;
       scrapeIMDbTitleSite(file, $);
-      callback(file);
+      return callback(null, file);
     } else {
       var found = false;
       var titles = $("#main td a");
@@ -79,16 +87,15 @@ function getIMDbInformation(file, callback) {
 
 
       if (file.imdbUrl) {
-        request(file.imdbUrl, function (error, response, body) {
+        $request(file.imdbUrl, function (error, $) {
           if (error) {
             return callback(error, file);
           }
-          scrapeIMDbTitleSite(file, body);
-          callback(file);
+          scrapeIMDbTitleSite(file, $);
+          return callback(null, file);
         });
       } else {
-        console.log("couldn't find any matching title for ".yellow, file.title)
-        callback(file);
+        callback("couldn't find any matching title", file);
       }
     }
   });
@@ -104,6 +111,19 @@ function titlesMatch(imdbTitle, fileTitle) {
   return match;
 }
 
+function getCover(href, film) {
+  $request("http://www.imdb.com" + href, function ($) {
+    console.log("getting cover", href, "for", film.title);
+    var src = $("img#primary-img").attr("src");
+
+    if (src) {
+      request(src).pipe(fs.createWriteStream(coversDir + film.title + ".jpg"));
+    } else {
+      console.log("cover img not found", film.title, src);
+    }
+
+  });
+}
 function scrapeIMDbTitleSite(film, $) {
   var movieHead;
   console.log("scraping", film.title, film.imdbUrl);
@@ -122,17 +142,7 @@ function scrapeIMDbTitleSite(film, $) {
   }
 
   var href = $("#img_primary a").attr("href")
-  $request("http://www.imdb.com" + href, function ($) {
-    console.log("getting cover", href, "for", film.title);
-    var src = $("img#primary-img").attr("src");
-
-    if (src) {
-      request(src).pipe(fs.createWriteStream(coversDir + film.title + ".jpg"));
-    } else {
-      console.log("cover img not found", film.title, src);
-    }
-
-  });
+  //getCover(href, film);
 }
 
 // request("http://www.imdb.com/title/tt0367710/", function(error, response, body) {  

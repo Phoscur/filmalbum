@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 "use strict";
 
+var defaultImport = 'filme.json';
+
 var fs = require("fs")
   , readline = require("readline")
   , async = require("async")
@@ -58,16 +60,23 @@ function databaseExport(cb) {
 
 function scrape(cb) {
   if (argv.scrape) {
-    async.map(database.getAll(true), getIMDbInformation, function (films) {
-      console.log("scraping complete");
-      cb();
+    async.map(database.getAll(true), function (film, callback) {
+      getIMDbInformation(film, function(error, film) {
+        console.log("imdb info", error, film.title, film.imdbUrl);
+        callback(null, film); // returning an error will stop the scraping
+      });
+    }, function (error, films) {
+        console.log("scraping complete", films.length);
+        cb();
     });
   } else {
     cb();
   }
 }
 
-if (!dbFile && !directories) {
+if (fs.existsSync(defaultImport)) {
+  database.import(defaultImport);
+} else if (!dbFile && !directories) {
   console.log(optimist.help());
   process.exit(1);
 }

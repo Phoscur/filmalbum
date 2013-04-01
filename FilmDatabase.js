@@ -1,17 +1,17 @@
 "use strict";
 
-var fs = require("fs"),
-  EventEmitter = require("events").EventEmitter,
-  util = require("util"),
-  async = require("async"),
-  _ = require("underscore"),
+var fs = require("fs")
+  , EventEmitter = require("events").EventEmitter
+  , util = require("util")
+  , async = require("async")
+  , _ = require("underscore")
 
-  Film = require('./Film'),
+  , Film = require('./Film')
 
-  formatRegex = /^[a-zA-Z\.\- 0-9üöä]+ \([a-zA-Z\.\-\+, 0-9]+\)\.(mkv|m2ts|ts|mp4)$/,
-  yearRegex = /((19|20)[0-9]{2})/, //\(?((19|20)[0-9][0-9])[^a-z0-9]?/
-  blackListRegex = /^(Thumbs\.db|films\.js)$/,
-  qualitiesRegex = /(720p|1080p|1080i|1920x800|1920x816|bdrip|dvdrip|xvid|divx)/i;
+  , formatRegex = /^[a-zA-Z\.\- 0-9üöä]+ \([a-zA-Z\.\-\+, 0-9]+\)\.(mkv|m2ts|ts|mp4)$/
+  , yearRegex = /((19|20)[0-9]{2})/ //\(?((19|20)[0-9][0-9])[^a-z0-9]?/
+  , blackListRegex = /^(Thumbs\.db|films\.js)$/
+  , qualitiesRegex = /(720p|1080p|1080i|1920x800|1920x816|bdrip|dvdrip|xvid|divx)/i;
 
 function FilmDatabase(films) {
   EventEmitter.call(this);
@@ -30,6 +30,7 @@ FilmDatabase.prototype.import = function (filename, overwrite) {
 
 FilmDatabase.prototype.export = function (filename) {
   fs.writeFileSync(filename, JSON.stringify(this.films));
+  return this;
 };
 
 /**
@@ -112,6 +113,10 @@ FilmDatabase.prototype.analyse = function (file) {
   }
   file.tags = tokens.splice(0, tokens.length - 1).join(" ").replace(qualitiesRegex, "").replace(yearRegex, "").trim();
   file.format = tokens[0];
+  if (!file.title) {
+    console.log('warning title not recognised', file);
+    file.title = file.name;
+  }
   return file;
 };
 
@@ -134,10 +139,10 @@ FilmDatabase.prototype.getAll = function (asArray) {
  */
 FilmDatabase.prototype.save = function (file, overwrite) {
   var film = new Film(file);
-  if (!overwrite && this.get(film.getHash())) {
-    throw new Error("hashcollision[" + film.getHash() + "]: " + film.name + " and " + this.get(film.getHash()).name);
+  if (!overwrite && this.get(film.hash())) {
+    throw new Error("hashcollision[" + film.hash() + "]: " + film.name + " and " + this.get(film.hash()).name);
   }
-  this.films[film.getHash()] = film;
+  this.films[film.hash()] = film;
   this.emit('newFilm', film);
   return film;
 };

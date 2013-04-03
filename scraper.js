@@ -21,15 +21,24 @@ var knownFilms = {
  */
 function $request(url, callback) {
   console.log("fired request", url);
-  request(url, function (error, response, body) {
+  request(url, function (error, response, site) {
+    var body;
     if (error) {
       return callback(error);
     }
+    if (!site) {
+      return callback("site body not defined: "+url);
+    }
+    body = site.replace(/<head>.*<\/head>/, '')
+      .replace(/<iframe.*<\/iframe>/gi, '')
+      .replace(/<noscript.*<\/noscript>/gi, '')
+      .replace(/<script[\s\S]*?<\/script>/gi, '');
+    //console.log(url, body);
     callback(
       null,
       Zepto(
         domino.createWindow(
-          body.replace('</head>', '</head><body>').replace(/<script[\s\S]*?<\/script>/gi, '')
+          body
         )
       ),
       response.request.uri.href.split("?")[0],
@@ -66,9 +75,10 @@ function getIMDbInformation(file, callback) {
     } else {
       var found = false;
       var titles = $("#main td a");
+      console.log('titles', titles);
       $.each(titles, function (e) {
         var title = $(this);
-        //console.log("t", title.text());
+        console.log("t", title.text());
         if (title.text().trim().toLowerCase() == file.title.trim().toLowerCase()) { // exact match
           file.imdbUrl = 'http://www.imdb.com' + title.attr("href");
           return false;

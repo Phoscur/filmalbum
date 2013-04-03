@@ -125,6 +125,11 @@ FilmDatabase.prototype.get = function (hash) {
   return this.films[hash];
 }
 
+/**
+ * Return all entries
+ * @param {Boolean} asArray
+ * @returns {Array|Object} entries
+ */
 FilmDatabase.prototype.getAll = function (asArray) {
   return asArray ? _.toArray(this.films) : this.films;
 };

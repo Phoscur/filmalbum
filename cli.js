@@ -60,7 +60,7 @@ function databaseExport(cb) {
 
 function scrape(cb) {
   if (argv.scrape) {
-    async.map(database.getAll(true), function (film, callback) {
+    async.map(database.getAll(true).slice(0, 5), function (film, callback) {
       getIMDbInformation(film, function(error, film) {
         console.log("imdb info", error, film.title, film.imdbUrl);
         callback(null, film); // returning an error will stop the scraping

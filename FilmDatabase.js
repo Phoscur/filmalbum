@@ -152,7 +152,7 @@ FilmDatabase.prototype.save = function (file, overwrite) {
   return film;
 };
 
-FilmDatabase.prototype.getLength = function () {
+FilmDatabase.prototype.size = function () {
   return Object.keys(this.films).length;
 };
 

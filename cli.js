@@ -37,24 +37,31 @@ var rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout
 });
-
-function exit(hard) {
-  if (!hard) {
-    databaseExport(function () {
-      console.log("Goodbye!");
-      process.exit(0);
-    });
-  }
+rl.on("close", function() {
   console.log("Goodbye!");
   process.exit(0);
-}
+});
+
+/**
+ * Ask for a filename to export the database
+ * @param {Function} cb callback, will close readline and exit if omitted
+ */
 function databaseExport(cb) {
-  rl.question("Do you want to export the database? Chose a filename or hit Enter to exit", function (answer) {
+  rl.question("Do you want to export the database? Chose a filename: ", function (answer) {
     if (answer.length > 0) {
-      database.export(answer);
+      try {
+        database.export(answer);
+      } catch (e) {
+        console.log("error", e);
+        return databaseExport(cb); // retry
+      }
       console.log("database exported");
     }
-    cb();
+    if (!cb) {
+      rl.close();
+    } else {
+      cb(answer);
+    }
   });
 }
 
@@ -76,21 +83,20 @@ function scrape(cb) {
 
 if (fs.existsSync(defaultImport)) {
   database.import(defaultImport);
+  console.log("Imported", database.size(), "films from default import:", defaultImport);
 } else if (!dbFile && !directories) {
   console.log(optimist.help());
   process.exit(1);
 }
 
 
-if (argv.list || !argv.rename) {
-  database.on('newFilm', function (film) {
-    console.log("+ ", film.title, "(", film.year, film.quality, ")");
-  });
-}
+database.on('newFilm', function (film) {
+  console.log("+ ", film.title, "(", film.year, film.quality, ")");
+});
 
 if (argv.rename) {
   database.on('newFilm', function (film) {
-    rl.question('Rename file ' + film.name + " to " + film.getFilename() + "? (y/n)", function (answer) {
+    rl.question('Rename file ' + film.name + " to " + film.filename() + "? (y/n): ", function (answer) {
       if (answer == "y") {
         film.rename();
         console.log('Film renamed!');
@@ -101,17 +107,18 @@ if (argv.rename) {
 
 if (dbFile) {
   database.import(dbFile);
-  console.log("Imported", database.getLength(), "films from file", dbFile);
+  console.log("Imported", database.size(), "films from file", dbFile);
 }
-if (directories) {
+
+function scan(directories, cb) {
   database.scan(directories, function (database, films) {
-    console.log("Scanned", directories, "added", database.getLength(), "to database");
-    scrape(function () {
-      exit();
-    });
+    console.log("Scanned", directories, "added", database.size(), "to database");
+    cb();
   });
+}
+
+if (directories) {
+  scan(directories, scrape(databaseExport))
 } else {
-  scrape(function () {
-    exit();
-  });
+  scrape(databaseExport);
 }

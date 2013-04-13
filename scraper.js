@@ -74,25 +74,27 @@ function getIMDbInformation(file, callback) {
       return callback(null, file);
     } else {
       var found = false;
-      var titles = $("#main td a");
-      console.log('titles', titles);
-      $.each(titles, function (e) {
+      var titles = $(".result_text a");
+      console.log("titles", titles.length, titles.map(function(i) {
+        return $(this).text();
+      }));
+      titles.filter(function (e) {
         var title = $(this);
         console.log("t", title.text());
         if (title.text().trim().toLowerCase() == file.title.trim().toLowerCase()) { // exact match
           file.imdbUrl = 'http://www.imdb.com' + title.attr("href");
-          return false;
+          return true;
         }
         if (titlesMatch(title.text(), file.title)) {
           var year = title.parent().text().match(yearRegex);
           if (file.year && year && year.indexOf(file.year) == -1) {
             console.log("year didn't match", file.title, file.year, title.parent().text())
-            return true; // continue chose more precisely
+            return false; // continue chose more precisely
           }
           file.imdbUrl = 'http://www.imdb.com' + title.attr("href");
           found = true;
         }
-        return !found;
+        return false;
       });
 
 

@@ -13,6 +13,12 @@ var fs = require("fs")
   , blackListRegex = /^(Thumbs\.db|films\.js)$/
   , qualitiesRegex = /(720p|1080p|1080i|1920x800|1920x816|bdrip|dvdrip|xvid|divx)/i;
 
+/**
+ * Simple JSON database operating with files
+ * @param {Array} [films]
+ * @constructor
+ * @inherits EventEmitter
+ */
 function FilmDatabase(films) {
   EventEmitter.call(this);
   this.films = films || {};
@@ -20,6 +26,12 @@ function FilmDatabase(films) {
 
 util.inherits(FilmDatabase, EventEmitter);
 
+/**
+ * Import films from JSON file
+ * @param {String} filename target file to import from
+ * @param {Boolean} [overwrite] overwrite on hashcollision default false
+ * @return {FilmDatabase} self
+ */
 FilmDatabase.prototype.importFromFile = function (filename, overwrite) {
   var films = JSON.parse(fs.readFileSync(filename, "utf8"));
   _.forEach(films, function (film) {
@@ -28,6 +40,11 @@ FilmDatabase.prototype.importFromFile = function (filename, overwrite) {
   return this;
 };
 
+/**
+ * Export films to JSON file
+ * @param {String} filename target file to export to
+ * @return {FilmDatabase} self
+ */
 FilmDatabase.prototype.exportFromFile = function (filename) {
   fs.writeFileSync(filename, JSON.stringify(this.films), "utf8");
   return this;
@@ -120,10 +137,13 @@ FilmDatabase.prototype.analyse = function (file) {
   return file;
 };
 
-
+/**
+ * Get an entry by hash
+ * @return {Film} film
+ */
 FilmDatabase.prototype.get = function (hash) {
   return this.films[hash];
-}
+};
 
 /**
  * Return all entries
@@ -152,6 +172,10 @@ FilmDatabase.prototype.save = function (file, overwrite) {
   return film;
 };
 
+/**
+ * Get the current size of the database
+ * @return {Number} size
+ */
 FilmDatabase.prototype.size = function () {
   return Object.keys(this.films).length;
 };

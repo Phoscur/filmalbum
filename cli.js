@@ -118,7 +118,7 @@ function scan(directories, cb) {
 }
 
 if (directories) {
-  scan(directories, scrape(databaseExport))
+  scan(directories, scrape(databaseExport));
 } else {
   scrape(databaseExport);
 }

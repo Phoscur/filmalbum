@@ -42,6 +42,34 @@ rl.on("close", function() {
   process.exit(0);
 });
 
+function main() {
+	if (fs.existsSync(defaultImport)) {
+	  database.importFromFile(defaultImport);
+	  console.log("Imported", database.size(), "films from default import:", defaultImport);
+	} else if (!dbFile && !directories) {
+	  console.log(optimist.help());
+	  process.exit(1);
+	}
+
+
+	database.on('newFilm', function (film) {
+	  console.log("+ ", film.title, "(", film.year, film.quality, ")");
+	});
+	
+	if (argv.rename) {
+	  database.on('newFilm', function (film) {
+	    rl.question('Rename file ' + film.name + " to " + film.filename() + "? (y/n): ", function (answer) {
+	      if (answer == "y") {
+	        film.rename();
+	        console.log('Film renamed!');
+	      }
+	    });
+	  });
+	}
+	
+	scan(directories, scrape(databaseExport));	
+}
+
 /**
  * Ask for a filename to export the database
  * @param {Function} cb callback, will close readline and exit if omitted
@@ -81,44 +109,21 @@ function scrape(cb) {
   }
 }
 
-if (fs.existsSync(defaultImport)) {
-  database.importFromFile(defaultImport);
-  console.log("Imported", database.size(), "films from default import:", defaultImport);
-} else if (!dbFile && !directories) {
-  console.log(optimist.help());
-  process.exit(1);
-}
 
-
-database.on('newFilm', function (film) {
-  console.log("+ ", film.title, "(", film.year, film.quality, ")");
-});
-
-if (argv.rename) {
-  database.on('newFilm', function (film) {
-    rl.question('Rename file ' + film.name + " to " + film.filename() + "? (y/n): ", function (answer) {
-      if (answer == "y") {
-        film.rename();
-        console.log('Film renamed!');
-      }
-    });
-  });
-}
-
-if (dbFile) {
-  database.importFromFile(dbFile);
-  console.log("Imported", database.size(), "films from file", dbFile);
+function databaseImport(dbFile) {
+	if (dbFile) {
+	  database.importFromFile(dbFile);
+	  console.log("Imported", database.size(), "films from file", dbFile);
+	}
 }
 
 function scan(directories, cb) {
-  database.scan(directories, function (database, films) {
-    console.log("Scanned", directories, "added", database.size(), "to database");
-    cb();
-  });
+	if (directories) {
+	  database.scan(directories, function (database, films) {
+	    console.log("Scanned", directories, "added", database.size(), "to database");
+	    cb();
+	  });
+  }
 }
 
-if (directories) {
-  scan(directories, scrape(databaseExport));
-} else {
-  scrape(databaseExport);
-}
+main();

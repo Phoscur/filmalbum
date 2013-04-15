@@ -20,7 +20,7 @@ function FilmDatabase(films) {
 
 util.inherits(FilmDatabase, EventEmitter);
 
-FilmDatabase.prototype.import = function (filename, overwrite) {
+FilmDatabase.prototype.importFromFile = function (filename, overwrite) {
   var films = JSON.parse(fs.readFileSync(filename, "utf8"));
   _.forEach(films, function (film) {
     this.save(film, overwrite);
@@ -28,8 +28,8 @@ FilmDatabase.prototype.import = function (filename, overwrite) {
   return this;
 };
 
-FilmDatabase.prototype.export = function (filename) {
-  fs.writeFileSync(filename, JSON.stringify(this.films));
+FilmDatabase.prototype.exportFromFile = function (filename) {
+  fs.writeFileSync(filename, JSON.stringify(this.films), "utf8");
   return this;
 };
 

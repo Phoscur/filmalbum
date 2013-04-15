@@ -50,7 +50,7 @@ function databaseExport(cb) {
   rl.question("Do you want to export the database? Chose a filename: ", function (answer) {
     if (answer.length > 0) {
       try {
-        database.export(answer);
+        database.exportFromFile(answer);
       } catch (e) {
         console.log("error", e);
         return databaseExport(cb); // retry
@@ -82,7 +82,7 @@ function scrape(cb) {
 }
 
 if (fs.existsSync(defaultImport)) {
-  database.import(defaultImport);
+  database.importFromFile(defaultImport);
   console.log("Imported", database.size(), "films from default import:", defaultImport);
 } else if (!dbFile && !directories) {
   console.log(optimist.help());
@@ -106,7 +106,7 @@ if (argv.rename) {
 }
 
 if (dbFile) {
-  database.import(dbFile);
+  database.importFromFile(dbFile);
   console.log("Imported", database.size(), "films from file", dbFile);
 }
 

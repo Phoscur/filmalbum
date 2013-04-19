@@ -104,11 +104,11 @@ function getIMDbInformation(file, callback) {
 
 
       if (file.imdbUrl) {
-        $request(file.imdbUrl, function (error, $) {
+        $request(file.imdbUrl, function (error, window) {
           if (error) {
             return callback(error, file);
           }
-          scrapeIMDbTitleSite(file, $);
+          scrapeIMDbTitleSite(file, window.$);
           return callback(null, file);
         });
       } else {

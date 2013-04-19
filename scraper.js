@@ -3,8 +3,7 @@ var fs = require("fs")
   , _ = require("underscore")
 
   , request = require("request")
-  , domino = require("domino")
-  , Zepto = require("zepto-node")
+  , jsdom = require('jsdom')
 
   , yearRegex = /((19|20)[0-9]{2})/;
 
@@ -15,34 +14,40 @@ var knownFilms = {
 };
 
 /**
- * Request url, strip it, init dom jQuery-esque Zepto
+ * Request url, strip it, init jsdom and jQuery
  * @param {String} url to scrape
  * @param {Function} callback{$, uri, redirected}
  */
 function $request(url, callback) {
   console.log("fired request", url);
   request(url, function (error, response, site) {
-    var body;
+    var body, window;
     if (error) {
       return callback(error);
     }
     if (!site) {
-      return callback("site body not defined: "+url);
+      return callback("site body not defined: " + url);
     }
-    body = site.replace(/<head>.*<\/head>/, '')
-      .replace(/<iframe.*<\/iframe>/gi, '')
-      .replace(/<noscript.*<\/noscript>/gi, '')
-      .replace(/<script[\s\S]*?<\/script>/gi, '');
-    //console.log(url, body);
-    callback(
-      null,
-      Zepto(
-        domino.createWindow(
-          body
-        )
-      ),
-      response.request.uri.href.split("?")[0],
-      response.request.redirects.length > 0
+    body = site;
+    /*.replace(/<head>.*<\/head>/, '')
+     .replace(/<iframe.*<\/iframe>/gi, '')
+     .replace(/<noscript[\s\S]*?<\/noscript>/gi, '')
+     .replace(/<script[\s\S]*?<\/script>/gi, '');
+     *///console.log(url, body);
+    jsdom.env(
+      body,
+      ["http://code.jquery.com/jquery.js"],
+      function (errors, window) {
+        if (errors) {
+          return callback(errors);
+        }
+        callback(
+          null,
+          window,
+          response.request.uri.href.split("?")[0],
+          response.request.redirects.length > 0
+        );
+      }
     );
   });
 }
@@ -64,23 +69,23 @@ function getIMDbInformation(file, callback) {
     });
     return;
   }
-  $request("http://www.imdb.com/find?s=tt&q=" + file.title, function (error, $, uri, redirected) {
+  $request("http://www.imdb.com/find?s=tt&q=" + file.title, function (error, window, uri, redirected) {
+    var $;
     if (error) {
       return callback(error, file);
     }
+    $ = window.jQuery;
     if (redirected) { // search has been redirected = HIT we already found the corresponding imdbfilm
       file.imdbUrl = uri;
       scrapeIMDbTitleSite(file, $);
       return callback(null, file);
     } else {
-      var found = false;
-      var titles = $(".result_text a");
-      console.log("titles", titles.length, titles.map(function(i) {
-        return $(this).text();
-      }));
+      var titles = $('a[href^="/title/tt"]');
+
+      //console.log("titles", titles.length, titles.map( function(i) {return $(this).text(); }));
       titles.filter(function (e) {
         var title = $(this);
-        console.log("t", title.text());
+        //console.log("t", title.text());
         if (title.text().trim().toLowerCase() == file.title.trim().toLowerCase()) { // exact match
           file.imdbUrl = 'http://www.imdb.com' + title.attr("href");
           return true;
@@ -88,11 +93,11 @@ function getIMDbInformation(file, callback) {
         if (titlesMatch(title.text(), file.title)) {
           var year = title.parent().text().match(yearRegex);
           if (file.year && year && year.indexOf(file.year) == -1) {
-            console.log("year didn't match", file.title, file.year, title.parent().text())
+            //console.log("year didn't match", file.title, file.year, title.parent().text())
             return false; // continue chose more precisely
           }
           file.imdbUrl = 'http://www.imdb.com' + title.attr("href");
-          found = true;
+          return true;
         }
         return false;
       });

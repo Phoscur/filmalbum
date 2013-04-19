@@ -37,37 +37,36 @@ var rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout
 });
-rl.on("close", function() {
+rl.on("close", function () {
   console.log("Goodbye!");
   process.exit(0);
 });
 
 function main() {
-	if (fs.existsSync(defaultImport)) {
-	  database.importFromFile(defaultImport);
-	  console.log("Imported", database.size(), "films from default import:", defaultImport);
-	} else if (!dbFile && !directories) {
-	  console.log(optimist.help());
-	  process.exit(1);
-	}
+  if (fs.existsSync(defaultImport)) {
+    database.importFromFile(defaultImport);
+    console.log("Imported", database.size(), "films from default import:", defaultImport);
+  } else if (!dbFile && !directories) {
+    console.log(optimist.help());
+    process.exit(1);
+  }
 
+  database.on('newFilm', function (film) {
+    console.log("+ ", film.title, "(", film.year, film.quality, ")");
+  });
 
-	database.on('newFilm', function (film) {
-	  console.log("+ ", film.title, "(", film.year, film.quality, ")");
-	});
-	
-	if (argv.rename) {
-	  database.on('newFilm', function (film) {
-	    rl.question('Rename file ' + film.name + " to " + film.filename() + "? (y/n): ", function (answer) {
-	      if (answer == "y") {
-	        film.rename();
-	        console.log('Film renamed!');
-	      }
-	    });
-	  });
-	}
-	
-	scan(directories, scrape(databaseExport));	
+  if (argv.rename) {
+    database.on('newFilm', function (film) {
+      rl.question('Rename file ' + film.name + " to " + film.filename() + "? (y/n): ", function (answer) {
+        if (answer == "y") {
+          film.rename();
+          console.log('Film renamed!');
+        }
+      });
+    });
+  }
+
+  scan(directories, scrape(databaseExport));
 }
 
 /**
@@ -75,7 +74,7 @@ function main() {
  * @param {Function} cb callback, will close readline and exit if omitted
  */
 function databaseExport(cb) {
-  rl.question("Do you want to export the database? Chose a filename: ", function (answer) {
+  rl.question("Do you want to export the database?\n Chose a filename or continue with Enter: ", function (answer) {
     if (answer.length > 0) {
       try {
         database.exportFromFile(answer);
@@ -95,14 +94,17 @@ function databaseExport(cb) {
 
 function scrape(cb) {
   if (argv.scrape) {
-    async.map(database.getAll(true).slice(0, 5), function (film, callback) {
-      getIMDbInformation(film, function(error, film) {
+    async.map(database.getAll(true), function (film, callback) {
+      getIMDbInformation(film, function (error, film) {
         console.log("imdb info", error, film.title, film.imdbUrl);
         callback(null, film); // returning an error will stop the scraping
       });
     }, function (error, films) {
-        console.log("scraping complete", films.length);
-        cb();
+      console.log("scraping complete", films.filter(function (f) {
+        return !!f.imdbUrl;
+      }).length,
+        "of", films.length, "with imdb url");
+      cb();
     });
   } else {
     cb();
@@ -111,18 +113,18 @@ function scrape(cb) {
 
 
 function databaseImport(dbFile) {
-	if (dbFile) {
-	  database.importFromFile(dbFile);
-	  console.log("Imported", database.size(), "films from file", dbFile);
-	}
+  if (dbFile) {
+    database.importFromFile(dbFile);
+    console.log("Imported", database.size(), "films from file", dbFile);
+  }
 }
 
 function scan(directories, cb) {
-	if (directories) {
-	  database.scan(directories, function (database, films) {
-	    console.log("Scanned", directories, "added", database.size(), "to database");
-	    cb();
-	  });
+  if (directories) {
+    database.scan(directories, function (database, films) {
+      console.log("Scanned", directories, "added", database.size(), "to database");
+      cb();
+    });
   }
 }
 

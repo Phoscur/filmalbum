@@ -46,7 +46,7 @@ FilmDatabase.prototype.importFromFile = function (filename, overwrite) {
  * @return {FilmDatabase} self
  */
 FilmDatabase.prototype.exportFromFile = function (filename) {
-  fs.writeFileSync(filename, JSON.stringify(this.films), "utf8");
+  fs.writeFileSync(filename, JSON.stringify(this.films, null, 2), "utf8");
   return this;
 };
 
@@ -146,7 +146,7 @@ FilmDatabase.prototype.get = function (hash) {
 };
 
 /**
- * Return all entries
+ * Return all entries as hashmap per default
  * @param {Boolean} asArray
  * @returns {Array|Object} entries
  */

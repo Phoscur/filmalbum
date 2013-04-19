@@ -1,26 +1,27 @@
 "use strict";
 var fs = require("fs");
-var express = require('express');
-var getFilms = //require('./readfilms');
-    function(cb) {
-        fs.readFile()
-    };
-getFilms(function(err, films) {
-//console.log(Object.keys(films));
-if (err) {
-	console.log(err);
-	process.exit(1);
-}
+var express = require("express");
+var FilmDatabase = require("./FilmDatabase");
+var webpack = require("webpack");
+var webpackMiddleware = require("webpack-dev-middleware");
+
 var app = express();
+var database = new FilmDatabase();
 
-app.get('/films', function(req, res) {
-	res.send(films);
-});
-app.get('/films/:id', function(req, res) {
-	res.send(films[req.params.id]);
-});
- 
-app.listen(3000);
-console.log('Listening on port 3000...');
+database.importFromFile("filme.json");
 
+console.log("Database composes", database.size(), "films");
+
+app.use(express.logger());
+app.use(express.directory('./app'));
+app.use(express['static']('./app'));
+
+app.get('/films', function (req, res) {
+  res.send(database.getAll());
 });
+app.get('/films/:id', function (req, res) {
+  res.send(database.get(req.params.id));
+});
+
+app.listen(8000);
+console.log('Listening on port 8000...');

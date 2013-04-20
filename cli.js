@@ -2,6 +2,7 @@
 "use strict";
 
 var defaultImport = 'filme.json';
+var parallelLimit = 13;
 
 var fs = require("fs")
   , readline = require("readline")
@@ -9,6 +10,7 @@ var fs = require("fs")
   , _ = require("underscore")
   , getIMDbInformation = require('./scraper')
   , FilmDatabase = require("./FilmDatabase");
+require("colors");
 
 var optimist = require('optimist')
   , argv = optimist
@@ -38,11 +40,16 @@ var rl = readline.createInterface({
   output: process.stdout
 });
 rl.on("close", function () {
-  console.log("Goodbye!");
+  console.log("\nGoodbye!");
   process.exit(0);
 });
 
 function main() {
+  if (argv.l) {
+    database.on('add', function (film) {
+      console.log("+ ", film.title, "(", film.year, film.quality, ")");
+    });
+  }
   if (fs.existsSync(defaultImport)) {
     database.importFromFile(defaultImport);
     console.log("Imported", database.size(), "films from default import:", defaultImport);
@@ -50,13 +57,10 @@ function main() {
     console.log(optimist.help());
     process.exit(1);
   }
-
-  database.on('newFilm', function (film) {
-    console.log("+ ", film.title, "(", film.year, film.quality, ")");
-  });
+  databaseImport(dbFile);
 
   if (argv.rename) {
-    database.on('newFilm', function (film) {
+    database.on('add', function (film) {
       rl.question('Rename file ' + film.name + " to " + film.filename() + "? (y/n): ", function (answer) {
         if (answer == "y") {
           film.rename();
@@ -66,9 +70,18 @@ function main() {
     });
   }
 
-  scan(directories, scrape(databaseExport));
+  scan(directories, function () {
+    scrape(databaseExport);
+  });
 }
 
+
+function databaseImport(dbFile) {
+  if (dbFile) {
+    database.importFromFile(dbFile);
+    console.log("Imported", database.size(), "films from file", dbFile);
+  }
+}
 /**
  * Ask for a filename to export the database
  * @param {Function} cb callback, will close readline and exit if omitted
@@ -94,37 +107,41 @@ function databaseExport(cb) {
 
 function scrape(cb) {
   if (argv.scrape) {
-    async.map(database.getAll(true), function (film, callback) {
-      getIMDbInformation(film, function (error, film) {
-        console.log("imdb info", error, film.title, film.imdbUrl);
-        callback(null, film); // returning an error will stop the scraping
+    async.parallelLimit(
+      database.getAll(true).map(function (film) {
+        return function (callback) {
+          getIMDbInformation(film, function (error, film) {
+            console.log("imdb info", error ? error : "retrieved", film.title, film.imdbUrl);
+            callback(null, film);
+          });
+        };
+      }),
+      parallelLimit,
+      function (error, films) {
+        console.log(
+          "scraping complete",
+          films.filter(function (f) {
+            return !!f.imdbUrl;
+          }).length,
+          "of",
+          films.length,
+          "with imdb url");
+        cb();
       });
-    }, function (error, films) {
-      console.log("scraping complete", films.filter(function (f) {
-        return !!f.imdbUrl;
-      }).length,
-        "of", films.length, "with imdb url");
-      cb();
-    });
   } else {
     cb();
   }
 }
 
-
-function databaseImport(dbFile) {
-  if (dbFile) {
-    database.importFromFile(dbFile);
-    console.log("Imported", database.size(), "films from file", dbFile);
-  }
-}
-
 function scan(directories, cb) {
   if (directories) {
+    console.log("Reading directories", directories);
     database.scan(directories, function (database, films) {
-      console.log("Scanned", directories, "added", database.size(), "to database");
+      console.log("Finished Scan:", directories, "added", database.size(), "to database");
       cb();
     });
+  } else {
+    cb();
   }
 }
 

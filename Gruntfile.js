@@ -10,6 +10,9 @@ module.exports = function (grunt) {
         //timeout: 3000,
         ignoreLeaks: true
       },
+      scraper: {
+        src: "test/scraper.js"
+      },
       server: {
         src: "test/server.js"
       }
@@ -95,10 +98,10 @@ module.exports = function (grunt) {
 
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks('grunt-testacular');
+  grunt.loadNpmTasks('grunt-karma');
   grunt.loadNpmTasks('grunt-simple-mocha');
 
-  grunt.registerTask('test', ['jshint', 'testacular']);
+  grunt.registerTask('test', ['jshint', 'karma']);
 
-  grunt.registerTask('default', ['jshint', ]);
+  grunt.registerTask('default', ['jshint', 'simplemocha:scraper']);
 };

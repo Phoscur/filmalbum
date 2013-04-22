@@ -8,8 +8,8 @@ var fs = require("fs")
   , readline = require("readline")
   , async = require("async")
   , _ = require("underscore")
-  , getIMDbInformation = require('./scraper')
-  , FilmDatabase = require("./FilmDatabase");
+  , getIMDbInformation = require('./lib/scraper')
+  , FilmDatabase = require("./lib/FilmDatabase");
 require("colors");
 
 var optimist = require('optimist')

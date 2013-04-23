@@ -2,8 +2,6 @@
 var fs = require("fs");
 var express = require("express");
 var FilmDatabase = require("./lib/FilmDatabase");
-var webpack = require("webpack");
-var webpackMiddleware = require("webpack-dev-middleware");
 
 var app = express();
 var database = new FilmDatabase();
@@ -19,7 +17,7 @@ app.use(express['static']('./app'));
 app.get('/films', function (req, res) {
   res.send(database.getAll(true));
 });
-app.get('/films/:id', function (req, res) {
+app.get('/film/:id', function (req, res) {
   res.send(database.get(req.params.id));
 });
 

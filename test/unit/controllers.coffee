@@ -19,7 +19,7 @@ describe 'FilmAlbum', ->
     $httpBackend.expectGET('/film/' + film.id).respond(film)
     controller = $controller 'FilmCtrl',
       $scope: scope
-      $routeparams:
+      $routeParams:
         filmID: film.id
       database: database
     $httpBackend.flush()

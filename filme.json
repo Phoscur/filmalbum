@@ -14,7 +14,15 @@
       "http://www.imdb.com/title/tt1480483/"
     ],
     "year": "2009",
-    "cover": "/media/rm2350025728/tt1022603"
+    "cover": "/media/rm2350025728/tt1022603?ref_=tt_ov_i",
+    "id": "(500) Days of Summer=(500) Days of Summer (1080p).m2ts",
+    "yearConfirmed": true,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": "7.8"
   },
   "21=21.2008.BluRay.DTS.mkv": {
     "name": "21.2008.BluRay.DTS.mkv",
@@ -26,13 +34,19 @@
     "imdbUrl": "http://www.imdb.com/title/tt0478087/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0478087/",
-      "http://www.imdb.com/title/tt2294449/",
       "http://www.imdb.com/title/tt1277975/",
       "http://www.imdb.com/title/tt0929441/",
-      "http://www.imdb.com/title/tt1310630/"
+      "http://www.imdb.com/title/tt1310630/",
+      "http://www.imdb.com/title/tt1259825/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2843055616/tt0478087"
+    "cover": "/media/rm2843055616/tt0478087?ref_=tt_ov_i",
+    "id": "21=21.2008.BluRay.DTS.mkv",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": "6.7"
   },
   "30 Minutes or Less=30.Minutes.or.Less.2011.1080p.MKV.x264.AC3.DTS.NL.Subs.mkv": {
     "name": "30.Minutes.or.Less.2011.1080p.MKV.x264.AC3.DTS.NL.Subs.mkv",
@@ -42,14 +56,19 @@
     "title": "30 Minutes or Less",
     "tags": "MKV x264 AC3 DTS NL Subs",
     "format": "mkv",
-    "imdbUrl": "http://www.imdb.com/title/tt2141140/",
+    "imdbUrl": "http://www.imdb.com/title/tt2742460/",
     "imdbUrls": [
-      "http://www.imdb.com/title/tt2141140/",
       "http://www.imdb.com/title/tt2742460/",
+      "http://www.imdb.com/title/tt2141140/",
       "http://www.imdb.com/title/tt2305403/",
       "http://www.imdb.com/title/tt2051623/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "30 Minutes or Less=30.Minutes.or.Less.2011.1080p.MKV.x264.AC3.DTS.NL.Subs.mkv",
+    "genres": [
+      "Comedy"
+    ],
+    "imdbRating": ""
   },
   "300=300 1080p.mkv": {
     "name": "300 1080p.mkv",
@@ -61,13 +80,21 @@
     "imdbUrl": "http://www.imdb.com/title/tt0416449/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0416449/",
-      "http://www.imdb.com/title/tt0524939/",
-      "http://www.imdb.com/title/tt2329673/",
-      "http://www.imdb.com/title/tt1253863/",
-      "http://www.imdb.com/title/tt0096740/"
+      "http://www.imdb.com/title/tt2589572/",
+      "http://www.imdb.com/title/tt2287357/",
+      "http://www.imdb.com/title/tt0766205/",
+      "http://www.imdb.com/title/tt1330307/"
     ],
     "year": "2006",
-    "cover": "/media/rm1056741632/tt0416449"
+    "cover": "/media/rm1056741632/tt0416449?ref_=tt_ov_i",
+    "id": "300=300 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "History"
+    ],
+    "imdbRating": "7.7"
   },
   "American Gangster=American Gangster 720p.mkv": {
     "name": "American Gangster 720p.mkv",
@@ -79,13 +106,21 @@
     "imdbUrl": "http://www.imdb.com/title/tt0765429/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0765429/",
-      "http://www.imdb.com/title/tt0960157/",
-      "http://www.imdb.com/title/tt2287126/",
-      "http://www.imdb.com/title/tt1186641/",
-      "http://www.imdb.com/title/tt1548886/"
+      "http://www.imdb.com/title/tt1262257/",
+      "http://www.imdb.com/title/tt1100941/",
+      "http://www.imdb.com/title/tt1136296/",
+      "http://www.imdb.com/title/tt1179364/"
     ],
     "year": "2007",
-    "cover": "/media/rm3369244416/tt0765429"
+    "cover": "/media/rm3369244416/tt0765429?ref_=tt_ov_i",
+    "id": "American Gangster=American Gangster 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": "7.8"
   },
   "Another Earth=Another.Earth.2011.LIMITED.1080p.BluRay.X264-AMIABLE.mkv": {
     "name": "Another.Earth.2011.LIMITED.1080p.BluRay.X264-AMIABLE.mkv",
@@ -101,7 +136,13 @@
       "http://www.imdb.com/title/tt2257857/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2813378304/tt1549572"
+    "cover": "/media/rm2813378304/tt1549572?ref_=tt_ov_i",
+    "id": "Another Earth=Another.Earth.2011.LIMITED.1080p.BluRay.X264-AMIABLE.mkv",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "imdbRating": "7.0"
   },
   "Apocalypto=Apocalypto 720p.mkv": {
     "name": "Apocalypto 720p.mkv",
@@ -113,12 +154,18 @@
     "imdbUrl": "http://www.imdb.com/title/tt0472043/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0472043/",
-      "http://www.imdb.com/title/tt1274417/",
-      "http://www.imdb.com/title/tt0980298/",
-      "http://www.imdb.com/title/tt2430196/"
+      "http://www.imdb.com/title/tt0980298/"
     ],
     "year": "2006",
-    "cover": "/media/rm3249967616/tt0472043"
+    "cover": "/media/rm3249967616/tt0472043?ref_=tt_ov_i",
+    "id": "Apocalypto=Apocalypto 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": "7.8"
   },
   "Attack The Block=Attack.The.Block.2011.720p.mkv": {
     "name": "Attack.The.Block.2011.720p.mkv",
@@ -134,7 +181,14 @@
       "http://www.imdb.com/title/tt2324797/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2458042112/tt1478964"
+    "cover": "/media/rm2458042112/tt1478964?ref_=tt_ov_i",
+    "id": "Attack The Block=Attack.The.Block.2011.720p.mkv",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "imdbRating": "6.6"
   },
   "Astronaut Farmer=Astronaut Farmer 720p.mkv": {
     "name": "Astronaut Farmer 720p.mkv",
@@ -149,7 +203,15 @@
       "http://www.imdb.com/title/tt2135136/"
     ],
     "year": "2006",
-    "cover": "/media/rm2737803776/tt0469263"
+    "cover": "/media/rm2737803776/tt0469263?ref_=tt_ov_i",
+    "id": "Astronaut Farmer=Astronaut Farmer 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "imdbRating": "6.3"
   },
   "8 Mile=8 Mile 720p.mkv": {
     "name": "8 Mile 720p.mkv",
@@ -161,13 +223,17 @@
     "imdbUrl": "http://www.imdb.com/title/tt0298203/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0298203/",
-      "http://www.imdb.com/title/tt0928293/",
-      "http://www.imdb.com/title/tt0361871/",
-      "http://www.imdb.com/title/tt1799076/",
-      "http://www.imdb.com/title/tt1220029/"
+      "http://www.imdb.com/title/tt0928293/"
     ],
     "year": "2002",
-    "cover": "/media/rm2429853184/tt0298203"
+    "cover": "/media/rm2429853184/tt0298203?ref_=tt_ov_i",
+    "id": "8 Mile=8 Mile 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "imdbRating": "6.8"
   },
   "Bad Boys - Harte Jungs=Bad Boys - Harte Jungs 720p (1995).German.mkv": {
     "name": "Bad Boys - Harte Jungs 720p (1995).German.mkv",
@@ -179,7 +245,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0112442/",
     "yearConfirmed": true,
-    "cover": "/media/rm3308164608/tt0112442"
+    "cover": "/media/rm3308164608/tt0112442?ref_=tt_ov_i",
+    "id": "Bad Boys - Harte Jungs=Bad Boys - Harte Jungs 720p (1995).German.mkv",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "imdbRating": "6.7"
   },
   "Bad Boys II=Bad.Boys.II.720p.AC3.x264.mkv": {
     "name": "Bad.Boys.II.720p.AC3.x264.mkv",
@@ -191,11 +264,18 @@
     "imdbUrl": "http://www.imdb.com/title/tt0172156/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0172156/",
-      "http://www.imdb.com/title/tt0594815/",
-      "http://www.imdb.com/title/tt0957604/"
+      "http://www.imdb.com/title/tt0594815/"
     ],
     "year": "2003",
-    "cover": "/media/rm3529742592/tt0172156"
+    "cover": "/media/rm3529742592/tt0172156?ref_=tt_ov_i",
+    "id": "Bad Boys II=Bad.Boys.II.720p.AC3.x264.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "imdbRating": "6.3"
   },
   "Bank Job=Bank Job 720p (2008).mkv": {
     "name": "Bank Job 720p (2008).mkv",
@@ -214,7 +294,14 @@
       "http://www.imdb.com/title/tt1291599/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1173261568/tt0200465"
+    "cover": "/media/rm1173261568/tt0200465?ref_=tt_ov_i",
+    "id": "Bank Job=Bank Job 720p (2008).mkv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": "7.3"
   },
   "Battle for Terra=Battle for Terra 1080p.mkv": {
     "name": "Battle for Terra 1080p.mkv",
@@ -228,7 +315,15 @@
       "http://www.imdb.com/title/tt2023864/",
       "http://www.imdb.com/title/tt1470493/"
     ],
-    "year": "2011"
+    "year": "2011",
+    "id": "Battle for Terra=Battle for Terra 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbRating": ""
   },
   "Black Hawk Down=Black Hawk Down 2001 720p.mkv": {
     "name": "Black Hawk Down 2001 720p.mkv",
@@ -240,7 +335,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0265086/",
     "yearConfirmed": true,
-    "cover": "/media/rm800693248/tt0265086"
+    "cover": "/media/rm800693248/tt0265086?ref_=tt_ov_i",
+    "id": "Black Hawk Down=Black Hawk Down 2001 720p.mkv",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "imdbRating": "7.7"
   },
   "Bellflower=Bellflower.2011.1080p.MKV.x264.AC3.DTS.Eng.NL.Subs.mkv": {
     "name": "Bellflower.2011.1080p.MKV.x264.AC3.DTS.Eng.NL.Subs.mkv",
@@ -252,7 +354,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt1242599/",
     "yearConfirmed": true,
-    "cover": "/media/rm1693957120/tt1242599"
+    "cover": "/media/rm1693957120/tt1242599?ref_=tt_ov_i",
+    "id": "Bellflower=Bellflower.2011.1080p.MKV.x264.AC3.DTS.Eng.NL.Subs.mkv",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": "6.2"
   },
   "Blade=Blade.1998.BluRay.1080p.x264.DTS-WiKi.mkv": {
     "name": "Blade.1998.BluRay.1080p.x264.DTS-WiKi.mkv",
@@ -268,10 +377,17 @@
       "http://www.imdb.com/title/tt1856101/",
       "http://www.imdb.com/title/tt0159693/",
       "http://www.imdb.com/title/tt0154238/",
-      "http://www.imdb.com/title/tt0398937/"
+      "http://www.imdb.com/title/tt0399458/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2806483712/tt0120611"
+    "cover": "/media/rm2806483712/tt0120611?ref_=tt_ov_i",
+    "id": "Blade=Blade.1998.BluRay.1080p.x264.DTS-WiKi.mkv",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror"
+    ],
+    "imdbRating": "7.0"
   },
   "Blade Trinity=Blade.Trinity.2004.BluRay.1080p.x264.DTS-WiKi.mkv": {
     "name": "Blade.Trinity.2004.BluRay.1080p.x264.DTS-WiKi.mkv",
@@ -283,7 +399,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0359013/",
     "yearConfirmed": true,
-    "cover": "/media/rm3753549056/tt0359013"
+    "cover": "/media/rm3753549056/tt0359013?ref_=tt_ov_i",
+    "id": "Blade Trinity=Blade.Trinity.2004.BluRay.1080p.x264.DTS-WiKi.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": "5.8"
   },
   "battlestar galactica razor=battlestar.galactica.razor.1080p.Extended.mkv": {
     "name": "battlestar.galactica.razor.1080p.Extended.mkv",
@@ -300,7 +423,13 @@
       "http://www.imdb.com/title/tt1334430/",
       "http://www.imdb.com/title/tt1334430/"
     ],
-    "year": "2007"
+    "year": "2007",
+    "id": "battlestar galactica razor=battlestar.galactica.razor.1080p.Extended.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "imdbRating": "7.2"
   },
   "Brügge sehen… und sterben=Brügge sehen… und sterben (2008, 1080p, deutsch+sub).mkv": {
     "name": "Brügge sehen… und sterben (2008, 1080p, deutsch+sub).mkv",
@@ -309,7 +438,8 @@
     "quality": "1080p",
     "title": "Brügge sehen… und sterben",
     "tags": "(, , deutsch+sub)",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Brügge sehen… und sterben=Brügge sehen… und sterben (2008, 1080p, deutsch+sub).mkv"
   },
   "Bunraku=Bunraku.2010.1080p.x264.mkv": {
     "name": "Bunraku.2010.1080p.x264.mkv",
@@ -321,7 +451,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt1181795/",
     "yearConfirmed": true,
-    "cover": "/media/rm891534336/tt1181795"
+    "cover": "/media/rm891534336/tt1181795?ref_=tt_ov_i",
+    "id": "Bunraku=Bunraku.2010.1080p.x264.mkv",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": "6.0"
   },
   "Cat Run=Cat.Run.2011.1080p.mkv": {
     "name": "Cat.Run.2011.1080p.mkv",
@@ -333,7 +470,13 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt1446147/",
     "yearConfirmed": true,
-    "cover": "/media/rm520468992/tt1446147"
+    "cover": "/media/rm520468992/tt1446147?ref_=tt_ov_i",
+    "id": "Cat Run=Cat.Run.2011.1080p.mkv",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "imdbRating": "5.3"
   },
   "Blow=Blow (2001, 1080p, deutsch+sub, englisch+sub, DTS).mkv": {
     "name": "Blow (2001, 1080p, deutsch+sub, englisch+sub, DTS).mkv",
@@ -353,7 +496,14 @@
       "http://www.imdb.com/title/tt1167906/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3688929536/tt0221027"
+    "cover": "/media/rm3688929536/tt0221027?ref_=tt_ov_i",
+    "id": "Blow=Blow (2001, 1080p, deutsch+sub, englisch+sub, DTS).mkv",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": "7.5"
   },
   "Captain America The First Avenger=Captain America The First Avenger (2011) x264 1080P DTS.mkv": {
     "name": "Captain America The First Avenger (2011) x264 1080P DTS.mkv",
@@ -367,12 +517,19 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt0458339/",
       "http://www.imdb.com/title/tt1998278/",
+      "http://www.imdb.com/title/tt2026351/",
       "http://www.imdb.com/title/tt2141146/",
-      "http://www.imdb.com/title/tt1978239/",
-      "http://www.imdb.com/title/tt2026351/"
+      "http://www.imdb.com/title/tt1978239/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2438905344/tt0458339"
+    "cover": "/media/rm2438905344/tt0458339?ref_=tt_ov_i",
+    "id": "Captain America The First Avenger=Captain America The First Avenger (2011) x264 1080P DTS.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": "6.8"
   },
   "Chain Reaction=Chain.Reaction.1996.BluRay.1080p.DTS.mkv": {
     "name": "Chain.Reaction.1996.BluRay.1080p.DTS.mkv",
@@ -384,7 +541,12 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0537201/",
     "yearConfirmed": true,
-    "cover": "/media/rm2606928384/tt0537201"
+    "cover": "/media/rm2606928384/tt0537201",
+    "id": "Chain Reaction=Chain.Reaction.1996.BluRay.1080p.DTS.mkv",
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": ""
   },
   "City Of God=City.Of.God.2002.1080p.BluRay.x264-CiNEFiLE.mkv": {
     "name": "City.Of.God.2002.1080p.BluRay.x264-CiNEFiLE.mkv",
@@ -400,7 +562,13 @@
       "http://www.imdb.com/title/tt1622277/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3536558336/tt0317248"
+    "cover": "/media/rm3536558336/tt0317248?ref_=tt_ov_i",
+    "id": "City Of God=City.Of.God.2002.1080p.BluRay.x264-CiNEFiLE.mkv",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": "8.7"
   },
   "Cloverfield=Cloverfield 720p.mkv": {
     "name": "Cloverfield 720p.mkv",
@@ -412,13 +580,21 @@
     "imdbUrl": "http://www.imdb.com/title/tt1060277/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1060277/",
-      "http://www.imdb.com/title/tt1708785/",
       "http://www.imdb.com/title/tt1644155/",
+      "http://www.imdb.com/title/tt1708785/",
       "http://www.imdb.com/title/tt1179933/",
       "http://www.imdb.com/title/tt1424759/"
     ],
     "year": "2008",
-    "cover": "/media/rm3062796288/tt1060277"
+    "cover": "/media/rm3062796288/tt1060277?ref_=tt_ov_i",
+    "id": "Cloverfield=Cloverfield 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "imdbRating": "7.2"
   },
   "Collateral=Collateral (2004, 720p, deutsch, OAR.HDTV.x264.5.1.AC3).mkv": {
     "name": "Collateral (2004, 720p, deutsch, OAR.HDTV.x264.5.1.AC3).mkv",
@@ -432,13 +608,20 @@
     "imdbUrl": "http://www.imdb.com/title/tt0369339/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0369339/",
-      "http://www.imdb.com/title/tt0594829/",
       "http://www.imdb.com/title/tt0440210/",
       "http://www.imdb.com/title/tt0859634/",
+      "http://www.imdb.com/title/tt0594829/",
       "http://www.imdb.com/title/tt1159428/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2971635456/tt0369339"
+    "cover": "/media/rm2971635456/tt0369339?ref_=tt_ov_i",
+    "id": "Collateral=Collateral (2004, 720p, deutsch, OAR.HDTV.x264.5.1.AC3).mkv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": "7.6"
   },
   "Blade II=Blade.II.2002.BluRay.1080p.x264.DTS-WiKi.mkv": {
     "name": "Blade.II.2002.BluRay.1080p.x264.DTS-WiKi.mkv",
@@ -455,7 +638,14 @@
       "http://www.imdb.com/title/tt0398784/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2197397248/tt0187738"
+    "cover": "/media/rm2197397248/tt0187738?ref_=tt_ov_i",
+    "id": "Blade II=Blade.II.2002.BluRay.1080p.x264.DTS-WiKi.mkv",
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "imdbRating": "6.6"
   },
   "Catch 44=Catch 44 1080p.mkv": {
     "name": "Catch 44 1080p.mkv",
@@ -469,7 +659,14 @@
       "http://www.imdb.com/title/tt0477590/",
       "http://www.imdb.com/title/tt1886493/"
     ],
-    "year": "2004"
+    "year": "2004",
+    "id": "Catch 44=Catch 44 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Short",
+      "Drama"
+    ],
+    "imdbRating": "4.3"
   },
   "Contagion=Contagion.2011.1080p.BluRay.X264-AMIABLE.mkv": {
     "name": "Contagion.2011.1080p.BluRay.X264-AMIABLE.mkv",
@@ -482,13 +679,20 @@
     "imdbUrl": "http://www.imdb.com/title/tt1598778/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1598778/",
-      "http://www.imdb.com/title/tt2050002/",
       "http://www.imdb.com/title/tt2125923/",
+      "http://www.imdb.com/title/tt2050002/",
       "http://www.imdb.com/title/tt2360125/",
       "http://www.imdb.com/title/tt2692754/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3544235008/tt1598778"
+    "cover": "/media/rm3544235008/tt1598778?ref_=tt_ov_i",
+    "id": "Contagion=Contagion.2011.1080p.BluRay.X264-AMIABLE.mkv",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "imdbRating": "6.7"
   },
   "Conan The Barbarian=Conan.The.Barbarian.2011.BluRay.1080p.DTS.x264-CHD.mkv": {
     "name": "Conan.The.Barbarian.2011.BluRay.1080p.DTS.x264-CHD.mkv",
@@ -498,15 +702,20 @@
     "title": "Conan The Barbarian",
     "tags": "BluRay  DTS x264-CHD",
     "format": "mkv",
-    "imdbUrl": "http://www.imdb.com/title/tt2314264/",
+    "imdbUrl": "http://www.imdb.com/title/tt1757713/",
     "imdbUrls": [
-      "http://www.imdb.com/title/tt2314264/",
       "http://www.imdb.com/title/tt1757713/",
-      "http://www.imdb.com/title/tt2021068/",
+      "http://www.imdb.com/title/tt2314264/",
       "http://www.imdb.com/title/tt2006503/",
+      "http://www.imdb.com/title/tt2021068/",
       "http://www.imdb.com/title/tt2360127/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "Conan The Barbarian=Conan.The.Barbarian.2011.BluRay.1080p.DTS.x264-CHD.mkv",
+    "genres": [
+      "Action"
+    ],
+    "imdbRating": "6.8"
   },
   "Dark City=Dark City (1998.720p.eng+sub.BR).mkv": {
     "name": "Dark City (1998.720p.eng+sub.BR).mkv",
@@ -522,7 +731,13 @@
       "http://www.imdb.com/title/tt0761130/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1194759936/tt0118929"
+    "cover": "/media/rm1194759936/tt0118929?ref_=tt_ov_i",
+    "id": "Dark City=Dark City (1998.720p.eng+sub.BR).mkv",
+    "genres": [
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "imdbRating": "7.8"
   },
   "Das Vermächtnis des geheimen Buches=Das Vermächtnis des geheimen Buches 720p.mkv": {
     "name": "Das Vermächtnis des geheimen Buches 720p.mkv",
@@ -533,7 +748,15 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0465234/",
     "year": "2007",
-    "cover": "/media/rm1075614464/tt0465234"
+    "cover": "/media/rm1075614464/tt0465234?ref_=tt_ov_i",
+    "id": "Das Vermächtnis des geheimen Buches=Das Vermächtnis des geheimen Buches 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "imdbRating": "6.5"
   },
   "cowboys and aliens=cowboys.and.aliens.2011.extended.1080p.bluray.mkv": {
     "name": "cowboys.and.aliens.2011.extended.1080p.bluray.mkv",
@@ -543,14 +766,19 @@
     "title": "cowboys and aliens",
     "tags": "extended  bluray",
     "format": "mkv",
-    "imdbUrl": "http://www.imdb.com/title/tt1998696/",
+    "imdbUrl": "http://www.imdb.com/title/tt2360123/",
     "imdbUrls": [
-      "http://www.imdb.com/title/tt1998696/",
       "http://www.imdb.com/title/tt2360123/",
+      "http://www.imdb.com/title/tt1998696/",
       "http://www.imdb.com/title/tt2676292/",
       "http://www.imdb.com/title/tt2010509/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "cowboys and aliens=cowboys.and.aliens.2011.extended.1080p.bluray.mkv",
+    "genres": [
+      "Comedy"
+    ],
+    "imdbRating": ""
   },
   "Der Herr der Ringe - Die Gefährten=Der Herr der Ringe - Die Gefährten (2001, 1080p, deutsch, englisch, SSE, HDTVRip.x264.DTS-ES-6.1).mkv": {
     "name": "Der Herr der Ringe - Die Gefährten (2001, 1080p, deutsch, englisch, SSE, HDTVRip.x264.DTS-ES-6.1).mkv",
@@ -563,7 +791,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0120737/",
     "yearConfirmed": true,
-    "cover": "/media/rm896831232/tt0120737"
+    "cover": "/media/rm896831232/tt0120737?ref_=tt_ov_i",
+    "id": "Der Herr der Ringe - Die Gefährten=Der Herr der Ringe - Die Gefährten (2001, 1080p, deutsch, englisch, SSE, HDTVRip.x264.DTS-ES-6.1).mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": "8.8"
   },
   "Death Race=Death Race (2008, 1080p, deutsch, englisch+sub, Unrated.BluRay.DTS.x264.ac3).mkv": {
     "name": "Death Race (2008, 1080p, deutsch, englisch+sub, Unrated.BluRay.DTS.x264.ac3).mkv",
@@ -582,7 +817,14 @@
       "http://www.imdb.com/title/tt1657646/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm175150848/tt0452608"
+    "cover": "/media/rm175150848/tt0452608?ref_=tt_ov_i",
+    "id": "Death Race=Death Race (2008, 1080p, deutsch, englisch+sub, Unrated.BluRay.DTS.x264.ac3).mkv",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "imdbRating": "6.4"
   },
   "Date Night=Date.Night.2010.1080p.BluRay.x264.DTS-WiKi.mkv": {
     "name": "Date.Night.2010.1080p.BluRay.x264.DTS-WiKi.mkv",
@@ -596,12 +838,19 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt1279935/",
       "http://www.imdb.com/title/tt2015369/",
-      "http://www.imdb.com/title/tt1828301/",
       "http://www.imdb.com/title/tt1641098/",
-      "http://www.imdb.com/title/tt1701100/"
+      "http://www.imdb.com/title/tt1617418/",
+      "http://www.imdb.com/title/tt1809664/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm450202624/tt1279935"
+    "cover": "/media/rm450202624/tt1279935?ref_=tt_ov_i",
+    "id": "Date Night=Date.Night.2010.1080p.BluRay.x264.DTS-WiKi.mkv",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Romance"
+    ],
+    "imdbRating": "6.3"
   },
   "Der Herr der Ringe - Die zwei Türme=Der Herr der Ringe - Die zwei Türme (2002, 1080p, deutsch, englisch, SSE,DTS).mkv": {
     "name": "Der Herr der Ringe - Die zwei Türme (2002, 1080p, deutsch, englisch, SSE,DTS).mkv",
@@ -614,7 +863,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0167261/",
     "yearConfirmed": true,
-    "cover": "/media/rm1064868096/tt0167261"
+    "cover": "/media/rm1064868096/tt0167261?ref_=tt_ov_i",
+    "id": "Der Herr der Ringe - Die zwei Türme=Der Herr der Ringe - Die zwei Türme (2002, 1080p, deutsch, englisch, SSE,DTS).mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": "8.7"
   },
   "Der Herr der Ringe - Die Rückkehr des Königs=Der Herr der Ringe - Die Rückkehr des Königs (2003, 1080p, deutsch, englisch, SSE, HDTVRip.x264.DTS-ES-6.1).mkv": {
     "name": "Der Herr der Ringe - Die Rückkehr des Königs (2003, 1080p, deutsch, englisch, SSE, HDTVRip.x264.DTS-ES-6.1).mkv",
@@ -627,7 +883,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0167260/",
     "yearConfirmed": true,
-    "cover": "/media/rm3623329024/tt0167260"
+    "cover": "/media/rm3623329024/tt0167260?ref_=tt_ov_i",
+    "id": "Der Herr der Ringe - Die Rückkehr des Königs=Der Herr der Ringe - Die Rückkehr des Königs (2003, 1080p, deutsch, englisch, SSE, HDTVRip.x264.DTS-ES-6.1).mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": "8.9"
   },
   "Der Tag, an dem die Erde stillstand=Der Tag, an dem die Erde stillstand (2008, 1080p, deutsch+sub, englisch, DTS).mkv": {
     "name": "Der Tag, an dem die Erde stillstand (2008, 1080p, deutsch+sub, englisch, DTS).mkv",
@@ -639,7 +902,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0970416/",
     "yearConfirmed": true,
-    "cover": "/media/rm15832320/tt0970416"
+    "cover": "/media/rm15832320/tt0970416?ref_=tt_ov_i",
+    "id": "Der Tag, an dem die Erde stillstand=Der Tag, an dem die Erde stillstand (2008, 1080p, deutsch+sub, englisch, DTS).mkv",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "imdbRating": "5.4"
   },
   "Despicable Me=Despicable Me 1080p.mkv": {
     "name": "Despicable Me 1080p.mkv",
@@ -653,10 +923,16 @@
       "http://www.imdb.com/title/tt1822208/",
       "http://www.imdb.com/title/tt2184789/",
       "http://www.imdb.com/title/tt2129997/",
-      "http://www.imdb.com/title/tt2755518/",
-      "http://www.imdb.com/title/tt1790874/"
+      "http://www.imdb.com/title/tt1790874/",
+      "http://www.imdb.com/title/tt1701911/"
     ],
-    "year": "2010"
+    "year": "2010",
+    "id": "Despicable Me=Despicable Me 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Adventure"
+    ],
+    "imdbRating": "7.4"
   },
   "Die Chroniken von Narnia  Der König von Narnia=Die Chroniken von Narnia_ Der König von Narnia (2005, 1080p, 1920x816, deutsch, englisch, DTS).mkv": {
     "name": "Die Chroniken von Narnia_ Der König von Narnia (2005, 1080p, 1920x816, deutsch, englisch, DTS).mkv",
@@ -668,8 +944,15 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0363771/",
     "yearConfirmed": true,
-    "cover": "/media/rm3252194560/tt0363771",
-    "coverLoaded": true
+    "cover": "/media/rm3252194560/tt0363771?ref_=tt_ov_i",
+    "coverLoaded": true,
+    "id": "Die Chroniken von Narnia  Der König von Narnia=Die Chroniken von Narnia_ Der König von Narnia (2005, 1080p, 1920x816, deutsch, englisch, DTS).mkv",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "imdbRating": "6.9"
   },
   "Die Chroniken von Narnia  Prinz Kaspian von Narnia=Die Chroniken von Narnia_ Prinz Kaspian von Narnia (2008, 1080p, 1920x800, deutsch, englisch, DTS).mkv": {
     "name": "Die Chroniken von Narnia_ Prinz Kaspian von Narnia (2008, 1080p, 1920x800, deutsch, englisch, DTS).mkv",
@@ -681,8 +964,15 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0499448/",
     "yearConfirmed": true,
-    "cover": "/media/rm3891435008/tt0499448",
-    "coverLoaded": true
+    "cover": "/media/rm3891435008/tt0499448?ref_=tt_ov_i",
+    "coverLoaded": true,
+    "id": "Die Chroniken von Narnia  Prinz Kaspian von Narnia=Die Chroniken von Narnia_ Prinz Kaspian von Narnia (2008, 1080p, 1920x800, deutsch, englisch, DTS).mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "imdbRating": "6.6"
   },
   "Donnie Darko=Donnie.Darko.2001.BluRay.1080p.DTS.x264-HDChina.mkv": {
     "name": "Donnie.Darko.2001.BluRay.1080p.DTS.x264-HDChina.mkv",
@@ -698,7 +988,14 @@
       "http://www.imdb.com/title/tt0512166/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm463517696/tt0246578"
+    "cover": "/media/rm463517696/tt0246578?ref_=tt_ov_i",
+    "id": "Donnie Darko=Donnie.Darko.2001.BluRay.1080p.DTS.x264-HDChina.mkv",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "imdbRating": "8.1"
   },
   "Die Mumie=Die Mumie 720p.mkv": {
     "name": "Die Mumie 720p.mkv",
@@ -716,7 +1013,15 @@
       "http://www.imdb.com/title/tt0888663/"
     ],
     "year": "1999",
-    "cover": "/media/rm1384685056/tt0120616"
+    "cover": "/media/rm1384685056/tt0120616?ref_=tt_ov_i",
+    "id": "Die Mumie=Die Mumie 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": "6.9"
   },
   "Die Fälscher=Die Fälscher 720p.mkv": {
     "name": "Die Fälscher 720p.mkv",
@@ -733,7 +1038,15 @@
       "http://www.imdb.com/title/tt1441097/"
     ],
     "year": "2007",
-    "cover": "/media/rm4273444352/tt0813547"
+    "cover": "/media/rm4273444352/tt0813547?ref_=tt_ov_i",
+    "id": "Die Fälscher=Die Fälscher 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Crime",
+      "Drama",
+      "War"
+    ],
+    "imdbRating": "7.6"
   },
   "Dschungelkind=Dschungelkind.mkv": {
     "name": "Dschungelkind.mkv",
@@ -744,11 +1057,17 @@
     "imdbUrl": "http://www.imdb.com/title/tt1242543/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1242543/",
-      "http://www.imdb.com/title/tt2069759/",
-      "http://www.imdb.com/title/tt0965014/",
-      "http://www.imdb.com/title/tt2073684/"
+      "http://www.imdb.com/title/tt2073684/",
+      "http://www.imdb.com/title/tt2069759/"
     ],
-    "year": "2011"
+    "year": "2011",
+    "id": "Dschungelkind=Dschungelkind.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "imdbRating": "7.0"
   },
   "Drive Angry=Drive.Angry.2011.BluRay.1080p.DTS.x264-CHD.mkv": {
     "name": "Drive.Angry.2011.BluRay.1080p.DTS.x264-CHD.mkv",
@@ -762,12 +1081,19 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt1502404/",
       "http://www.imdb.com/title/tt1886281/",
+      "http://www.imdb.com/title/tt2395131/",
       "http://www.imdb.com/title/tt2362101/",
-      "http://www.imdb.com/title/tt2135157/",
-      "http://www.imdb.com/title/tt2395131/"
+      "http://www.imdb.com/title/tt2135157/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3508569600/tt1502404"
+    "cover": "/media/rm3508569600/tt1502404?ref_=tt_ov_i",
+    "id": "Drive Angry=Drive.Angry.2011.BluRay.1080p.DTS.x264-CHD.mkv",
+    "genres": [
+      "Action",
+      "Crime",
+      "Fantasy"
+    ],
+    "imdbRating": "5.5"
   },
   "Die Wiege der Sonne=Die Wiege der Sonne 1080p.mkv": {
     "name": "Die Wiege der Sonne 1080p.mkv",
@@ -778,7 +1104,15 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0107969/",
     "year": "1993",
-    "cover": "/media/rm1861718016/tt0107969"
+    "cover": "/media/rm1861718016/tt0107969?ref_=tt_ov_i",
+    "id": "Die Wiege der Sonne=Die Wiege der Sonne 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "imdbRating": "6.1"
   },
   "Domino=Domino 720p.mkv": {
     "name": "Domino 720p.mkv",
@@ -790,13 +1124,21 @@
     "imdbUrl": "http://www.imdb.com/title/tt0421054/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0421054/",
-      "http://www.imdb.com/title/tt0097224/",
-      "http://www.imdb.com/title/tt0075950/",
-      "http://www.imdb.com/title/tt1418380/",
-      "http://www.imdb.com/title/tt1045032/"
+      "http://www.imdb.com/title/tt0446683/",
+      "http://www.imdb.com/title/tt0593202/",
+      "http://www.imdb.com/title/tt0490898/",
+      "http://www.imdb.com/title/tt1408156/"
     ],
     "year": "2005",
-    "cover": "/media/rm2033556736/tt0421054"
+    "cover": "/media/rm2033556736/tt0421054?ref_=tt_ov_i",
+    "id": "Domino=Domino 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Biography",
+      "Crime"
+    ],
+    "imdbRating": "5.9"
   },
   "District 9=District 9 (2009, 1080p, deutsch, englisch+sub).mkv": {
     "name": "District 9 (2009, 1080p, deutsch, englisch+sub).mkv",
@@ -816,7 +1158,14 @@
       "http://www.imdb.com/title/tt1555196/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2398193664/tt1136608"
+    "cover": "/media/rm2398193664/tt1136608?ref_=tt_ov_i",
+    "id": "District 9=District 9 (2009, 1080p, deutsch, englisch+sub).mkv",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "imdbRating": "8.0"
   },
   "Die Welle=Die Welle 720p.mkv": {
     "name": "Die Welle 720p.mkv",
@@ -828,13 +1177,17 @@
     "imdbUrl": "http://www.imdb.com/title/tt1063669/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1063669/",
-      "http://www.imdb.com/title/tt2087738/",
-      "http://www.imdb.com/title/tt0290257/",
-      "http://www.imdb.com/title/tt0755305/",
-      "http://www.imdb.com/title/tt1293127/"
+      "http://www.imdb.com/title/tt1325230/"
     ],
     "year": "2008",
-    "cover": "/media/rm3471545344/tt1063669"
+    "cover": "/media/rm3471545344/tt1063669?ref_=tt_ov_i",
+    "id": "Die Welle=Die Welle 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": "7.5"
   },
   "Faces in the Crowd=Faces in the Crowd (2011, 1080p, eng).mkv": {
     "name": "Faces in the Crowd (2011, 1080p, eng).mkv",
@@ -847,7 +1200,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt1536410/",
     "yearConfirmed": true,
-    "cover": "/media/rm2518465792/tt1536410"
+    "cover": "/media/rm2518465792/tt1536410?ref_=tt_ov_i",
+    "id": "Faces in the Crowd=Faces in the Crowd (2011, 1080p, eng).mkv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "imdbRating": "5.5"
   },
   "Elevenfourteen=Elevenfourteen (1080p).mkv": {
     "name": "Elevenfourteen (1080p).mkv",
@@ -858,7 +1218,15 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0331811/",
     "year": "2003",
-    "cover": "/media/rm467833344/tt0331811"
+    "cover": "/media/rm467833344/tt0331811?ref_=tt_ov_i",
+    "id": "Elevenfourteen=Elevenfourteen (1080p).mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": "7.2"
   },
   "Fantastic Four - The Rise of the Silver Surfer=Fantastic Four - The Rise of the Silver Surfer 720p.mkv": {
     "name": "Fantastic Four - The Rise of the Silver Surfer 720p.mkv",
@@ -866,7 +1234,8 @@
     "quality": "720p",
     "title": "Fantastic Four - The Rise of the Silver Surfer",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Fantastic Four - The Rise of the Silver Surfer=Fantastic Four - The Rise of the Silver Surfer 720p.mkv"
   },
   "Equilibrium=Equilibrium 1080p.mkv": {
     "name": "Equilibrium 1080p.mkv",
@@ -884,7 +1253,15 @@
       "http://www.imdb.com/title/tt1912385/"
     ],
     "year": "2002",
-    "cover": "/media/rm4126777088/tt0238380"
+    "cover": "/media/rm4126777088/tt0238380?ref_=tt_ov_i",
+    "id": "Equilibrium=Equilibrium 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "imdbRating": "7.6"
   },
   "Exit Through The Gift Shop=Exit Through The Gift Shop (1080p).mkv": {
     "name": "Exit Through The Gift Shop (1080p).mkv",
@@ -899,7 +1276,14 @@
       "http://www.imdb.com/title/tt1644956/"
     ],
     "year": "2010",
-    "cover": "/media/rm3664743424/tt1587707"
+    "cover": "/media/rm3664743424/tt1587707?ref_=tt_ov_i",
+    "id": "Exit Through The Gift Shop=Exit Through The Gift Shop (1080p).mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Documentary",
+      "Comedy"
+    ],
+    "imdbRating": "8.0"
   },
   "Fantastic Four=Fantastic Four 1080p.mkv": {
     "name": "Fantastic Four 1080p.mkv",
@@ -911,13 +1295,20 @@
     "imdbUrl": "http://www.imdb.com/title/tt0120667/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0120667/",
-      "http://www.imdb.com/title/tt0830298/",
-      "http://www.imdb.com/title/tt0187635/",
-      "http://www.imdb.com/title/tt1502712/",
-      "http://www.imdb.com/title/tt0486576/"
+      "http://www.imdb.com/title/tt0476458/",
+      "http://www.imdb.com/title/tt0816199/",
+      "http://www.imdb.com/title/tt0875961/"
     ],
     "year": "2005",
-    "cover": "/media/rm2021170432/tt0120667"
+    "cover": "/media/rm2021170432/tt0120667?ref_=tt_ov_i",
+    "id": "Fantastic Four=Fantastic Four 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": "5.7"
   },
   "Fast Five=Fast Five.mkv": {
     "name": "Fast Five.mkv",
@@ -934,7 +1325,15 @@
       "http://www.imdb.com/title/tt2324811/"
     ],
     "year": "2011",
-    "cover": "/media/rm1398323968/tt1596343"
+    "cover": "/media/rm1398323968/tt1596343?ref_=tt_ov_i",
+    "id": "Fast Five=Fast Five.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdbRating": "7.3"
   },
   "Eiskalte Engel - Cruel Intentions=Eiskalte Engel - Cruel Intentions 720p.mkv": {
     "name": "Eiskalte Engel - Cruel Intentions 720p.mkv",
@@ -942,7 +1341,8 @@
     "quality": "720p",
     "title": "Eiskalte Engel - Cruel Intentions",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Eiskalte Engel - Cruel Intentions=Eiskalte Engel - Cruel Intentions 720p.mkv"
   },
   "Flightplan=Flightplan 720p.mkv": {
     "name": "Flightplan 720p.mkv",
@@ -954,11 +1354,18 @@
     "imdbUrl": "http://www.imdb.com/title/tt0408790/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0408790/",
-      "http://www.imdb.com/title/tt0828403/",
       "http://www.imdb.com/title/tt0827522/"
     ],
     "year": "2005",
-    "cover": "/media/rm1541049344/tt0408790"
+    "cover": "/media/rm1541049344/tt0408790?ref_=tt_ov_i",
+    "id": "Flightplan=Flightplan 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": "6.1"
   },
   "Fright Night=Fright.Night.2011.1080p.BluRay.X264-AMIABLE.mkv": {
     "name": "Fright.Night.2011.1080p.BluRay.X264-AMIABLE.mkv",
@@ -971,13 +1378,19 @@
     "imdbUrl": "http://www.imdb.com/title/tt1438176/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1438176/",
-      "http://www.imdb.com/title/tt2031291/",
       "http://www.imdb.com/title/tt2232152/",
       "http://www.imdb.com/title/tt2036001/",
+      "http://www.imdb.com/title/tt2031291/",
       "http://www.imdb.com/title/tt2305425/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm546420992/tt1438176"
+    "cover": "/media/rm546420992/tt1438176?ref_=tt_ov_i",
+    "id": "Fright Night=Fright.Night.2011.1080p.BluRay.X264-AMIABLE.mkv",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "imdbRating": "6.4"
   },
   "Flatliners=Flatliners 720p.mkv": {
     "name": "Flatliners 720p.mkv",
@@ -989,11 +1402,18 @@
     "imdbUrl": "http://www.imdb.com/title/tt0099582/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0099582/",
-      "http://www.imdb.com/title/tt2039338/",
-      "http://www.imdb.com/title/tt0695418/"
+      "http://www.imdb.com/title/tt2039338/"
     ],
     "year": "1990",
-    "cover": "/media/rm727162112/tt0099582"
+    "cover": "/media/rm727162112/tt0099582?ref_=tt_ov_i",
+    "id": "Flatliners=Flatliners 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "imdbRating": "6.5"
   },
   "Futurama 1 - Bender's Big Score=Futurama 1 - Bender's Big Score [1080p].mkv": {
     "name": "Futurama 1 - Bender's Big Score [1080p].mkv",
@@ -1001,7 +1421,8 @@
     "quality": "1080p",
     "title": "Futurama 1 - Bender's Big Score",
     "tags": "[]",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Futurama 1 - Bender's Big Score=Futurama 1 - Bender's Big Score [1080p].mkv"
   },
   "Fight Club=Fight Club (1080p).mkv": {
     "name": "Fight Club (1080p).mkv",
@@ -1013,13 +1434,16 @@
     "imdbUrl": "http://www.imdb.com/title/tt0137523/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0137523/",
-      "http://www.imdb.com/title/tt0415800/",
-      "http://www.imdb.com/title/tt1979539/",
-      "http://www.imdb.com/title/tt1196197/",
-      "http://www.imdb.com/title/tt1042453/"
+      "http://www.imdb.com/title/tt0664347/"
     ],
     "year": "1999",
-    "cover": "/media/rm414231552/tt0137523"
+    "cover": "/media/rm414231552/tt0137523?ref_=tt_ov_i",
+    "id": "Fight Club=Fight Club (1080p).mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": "8.9"
   },
   "Futurama 2 - The Beast With a Billion Backs=Futurama 2 - The Beast With a Billion Backs [1080p].mkv": {
     "name": "Futurama 2 - The Beast With a Billion Backs [1080p].mkv",
@@ -1027,7 +1451,8 @@
     "quality": "1080p",
     "title": "Futurama 2 - The Beast With a Billion Backs",
     "tags": "[]",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Futurama 2 - The Beast With a Billion Backs=Futurama 2 - The Beast With a Billion Backs [1080p].mkv"
   },
   "Green Lantern Emerald Knights=Green Lantern Emerald Knights [2011] 1080p BRRiP x264 - ExtraTorrentRG.mp4": {
     "name": "Green Lantern Emerald Knights [2011] 1080p BRRiP x264 - ExtraTorrentRG.mp4",
@@ -1039,7 +1464,14 @@
     "format": "mp4",
     "imdbUrl": "http://www.imdb.com/title/tt1683043/",
     "yearConfirmed": true,
-    "cover": "/media/rm368752640/tt1683043"
+    "cover": "/media/rm368752640/tt1683043?ref_=tt_ov_i",
+    "id": "Green Lantern Emerald Knights=Green Lantern Emerald Knights [2011] 1080p BRRiP x264 - ExtraTorrentRG.mp4",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "imdbRating": "6.8"
   },
   "Hangover=Hangover (2009, 1080p, deutsch, englisch).mkv": {
     "name": "Hangover (2009, 1080p, deutsch, englisch).mkv",
@@ -1054,12 +1486,17 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt1119646/",
       "http://www.imdb.com/title/tt2153878/",
+      "http://www.imdb.com/title/tt1609789/",
       "http://www.imdb.com/title/tt2301475/",
-      "http://www.imdb.com/title/tt2354709/",
-      "http://www.imdb.com/title/tt1522490/"
+      "http://www.imdb.com/title/tt2354709/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3120597760/tt1119646"
+    "cover": "/media/rm3120597760/tt1119646?ref_=tt_ov_i",
+    "id": "Hangover=Hangover (2009, 1080p, deutsch, englisch).mkv",
+    "genres": [
+      "Comedy"
+    ],
+    "imdbRating": "7.8"
   },
   "Futurama 3 - Bender's Game=Futurama 3 - Bender's Game [1080p].mkv": {
     "name": "Futurama 3 - Bender's Game [1080p].mkv",
@@ -1067,7 +1504,8 @@
     "quality": "1080p",
     "title": "Futurama 3 - Bender's Game",
     "tags": "[]",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Futurama 3 - Bender's Game=Futurama 3 - Bender's Game [1080p].mkv"
   },
   "Half Baked=Half.Baked.1998.720p.avi": {
     "name": "Half.Baked.1998.720p.avi",
@@ -1083,7 +1521,13 @@
       "http://www.imdb.com/title/tt1776454/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1353554176/tt0120693"
+    "cover": "/media/rm1353554176/tt0120693?ref_=tt_ov_i",
+    "id": "Half Baked=Half.Baked.1998.720p.avi",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "imdbRating": "6.5"
   },
   "Futurama 4 - Into the Wild Green Yonder=Futurama 4 - Into the Wild Green Yonder [1080p].mkv": {
     "name": "Futurama 4 - Into the Wild Green Yonder [1080p].mkv",
@@ -1091,7 +1535,8 @@
     "quality": "1080p",
     "title": "Futurama 4 - Into the Wild Green Yonder",
     "tags": "[]",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Futurama 4 - Into the Wild Green Yonder=Futurama 4 - Into the Wild Green Yonder [1080p].mkv"
   },
   "Gran Torino=Gran Torino (1080p).mkv": {
     "name": "Gran Torino (1080p).mkv",
@@ -1109,7 +1554,13 @@
       "http://www.imdb.com/title/tt2396693/"
     ],
     "year": "2008",
-    "cover": "/media/rm1047104256/tt1205489"
+    "cover": "/media/rm1047104256/tt1205489?ref_=tt_ov_i",
+    "id": "Gran Torino=Gran Torino (1080p).mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": "8.2"
   },
   "Hanna=Hanna.2011.1080p.BluRay.X264-AMIABLE.mkv": {
     "name": "Hanna.2011.1080p.BluRay.X264-AMIABLE.mkv",
@@ -1122,13 +1573,20 @@
     "imdbUrl": "http://www.imdb.com/title/tt0993842/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0993842/",
-      "http://www.imdb.com/title/tt2058626/",
       "http://www.imdb.com/title/tt2058627/",
-      "http://www.imdb.com/title/tt2077905/",
+      "http://www.imdb.com/title/tt2058626/",
+      "http://www.imdb.com/title/tt2058628/",
       "http://www.imdb.com/title/tt2069695/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm827753728/tt0993842"
+    "cover": "/media/rm827753728/tt0993842?ref_=tt_ov_i",
+    "id": "Hanna=Hanna.2011.1080p.BluRay.X264-AMIABLE.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "imdbRating": "6.9"
   },
   "Hannibal=Hannibal (2001, 1080p, deutsch, DTS.BluRay).mkv": {
     "name": "Hannibal (2001, 1080p, deutsch, DTS.BluRay).mkv",
@@ -1148,7 +1606,14 @@
       "http://www.imdb.com/title/tt0411465/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2293472768/tt0212985"
+    "cover": "/media/rm2293472768/tt0212985?ref_=tt_ov_i",
+    "id": "Hannibal=Hannibal (2001, 1080p, deutsch, DTS.BluRay).mkv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": "6.6"
   },
   "Hangover 2=Hangover 2 1080p.mkv": {
     "name": "Hangover 2 1080p.mkv",
@@ -1159,7 +1624,8 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt1411697/",
     "year": "2011",
-    "cover": "/media/rm3944266496/tt1411697"
+    "cover": "/media/rm3944266496/tt1411697",
+    "id": "Hangover 2=Hangover 2 1080p.mkv"
   },
   "Harry Potter and the Deathly Hallows Part 1=Harry Potter and the Deathly Hallows Part 1.mkv": {
     "name": "Harry Potter and the Deathly Hallows Part 1.mkv",
@@ -1167,13 +1633,17 @@
     "title": "Harry Potter and the Deathly Hallows Part 1",
     "tags": "",
     "format": "mkv",
-    "imdbUrl": "http://www.imdb.com/title/tt2026353/",
+    "imdbUrl": "http://www.imdb.com/title/tt2291999/",
     "imdbUrls": [
-      "http://www.imdb.com/title/tt2026353/",
       "http://www.imdb.com/title/tt2291999/",
-      "http://www.imdb.com/title/tt1761689/"
+      "http://www.imdb.com/title/tt1761689/",
+      "http://www.imdb.com/title/tt2026353/"
     ],
-    "year": "2010"
+    "year": "2010",
+    "id": "Harry Potter and the Deathly Hallows Part 1=Harry Potter and the Deathly Hallows Part 1.mkv",
+    "yearConfirmed": true,
+    "genres": [],
+    "imdbRating": ""
   },
   "Green Lantern=Green Lantern 2011 720p.mkv": {
     "name": "Green Lantern 2011 720p.mkv",
@@ -1192,7 +1662,14 @@
       "http://www.imdb.com/title/tt1724587/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3148265728/tt1133985"
+    "cover": "/media/rm3148265728/tt1133985?ref_=tt_ov_i",
+    "id": "Green Lantern=Green Lantern 2011 720p.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": "5.8"
   },
   "Harry Potter and the Deathly Hallows Part 2=Harry Potter and the Deathly Hallows Part 2.mkv": {
     "name": "Harry Potter and the Deathly Hallows Part 2.mkv",
@@ -1203,12 +1680,18 @@
     "imdbUrl": "http://www.imdb.com/title/tt2026354/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt2026354/",
-      "http://www.imdb.com/title/tt2141150/",
       "http://www.imdb.com/title/tt1994655/",
+      "http://www.imdb.com/title/tt2141150/",
       "http://www.imdb.com/title/tt1975575/",
-      "http://www.imdb.com/title/tt2805006/"
+      "http://www.imdb.com/title/tt1993162/"
     ],
-    "year": "2011"
+    "year": "2011",
+    "id": "Harry Potter and the Deathly Hallows Part 2=Harry Potter and the Deathly Hallows Part 2.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Talk-Show"
+    ],
+    "imdbRating": ""
   },
   "Harsh Times=Harsh Times 1080p (2005).wmv": {
     "name": "Harsh Times 1080p (2005).wmv",
@@ -1220,7 +1703,14 @@
     "format": "wmv",
     "imdbUrl": "http://www.imdb.com/title/tt0433387/",
     "yearConfirmed": true,
-    "cover": "/media/rm1768986880/tt0433387"
+    "cover": "/media/rm1768986880/tt0433387?ref_=tt_ov_i",
+    "id": "Harsh Times=Harsh Times 1080p (2005).wmv",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": "6.9"
   },
   "Highlander=Highlander.1986.DC.720p.BluRay.x264-SiNNERS.mkv": {
     "name": "Highlander.1986.DC.720p.BluRay.x264-SiNNERS.mkv",
@@ -1235,11 +1725,18 @@
       "http://www.imdb.com/title/tt0091203/",
       "http://www.imdb.com/title/tt1235529/",
       "http://www.imdb.com/title/tt0217517/",
-      "http://www.imdb.com/title/tt0345905/",
-      "http://www.imdb.com/title/tt2288532/"
+      "http://www.imdb.com/title/tt0218309/",
+      "http://www.imdb.com/title/tt0219778/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm429429248/tt0091203"
+    "cover": "/media/rm429429248/tt0091203?ref_=tt_ov_i",
+    "id": "Highlander=Highlander.1986.DC.720p.BluRay.x264-SiNNERS.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": "7.2"
   },
   "Harry Potter und der Halbblutprinz=Harry Potter und der Halbblutprinz (2009, 1080p, 1920x800, deutsch, englisch, BluRay).mkv": {
     "name": "Harry Potter und der Halbblutprinz (2009, 1080p, 1920x800, deutsch, englisch, BluRay).mkv",
@@ -1252,7 +1749,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0417741/",
     "yearConfirmed": true,
-    "cover": "/media/rm282560512/tt0417741"
+    "cover": "/media/rm282560512/tt0417741?ref_=tt_ov_i",
+    "id": "Harry Potter und der Halbblutprinz=Harry Potter und der Halbblutprinz (2009, 1080p, 1920x800, deutsch, englisch, BluRay).mkv",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "imdbRating": "7.4"
   },
   "Hitman=Hitman 1080p.mkv": {
     "name": "Hitman 1080p.mkv",
@@ -1264,13 +1768,21 @@
     "imdbUrl": "http://www.imdb.com/title/tt0465494/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0465494/",
-      "http://www.imdb.com/title/tt2261633/",
-      "http://www.imdb.com/title/tt2061712/",
-      "http://www.imdb.com/title/tt0102045/",
-      "http://www.imdb.com/title/tt2071475/"
+      "http://www.imdb.com/title/tt1464220/",
+      "http://www.imdb.com/title/tt1423382/",
+      "http://www.imdb.com/title/tt2268467/",
+      "http://www.imdb.com/title/tt1691120/"
     ],
     "year": "2007",
-    "cover": "/media/rm702519552/tt0465494"
+    "cover": "/media/rm702519552/tt0465494?ref_=tt_ov_i",
+    "id": "Hitman=Hitman 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": "6.2"
   },
   "Hugo=Hugo 2011 AC3 720p BRRip XviD-RemixHD.avi": {
     "name": "Hugo 2011 AC3 720p BRRip XviD-RemixHD.avi",
@@ -1285,11 +1797,18 @@
       "http://www.imdb.com/title/tt0970179/",
       "http://www.imdb.com/title/tt1741598/",
       "http://www.imdb.com/title/tt2121515/",
-      "http://www.imdb.com/title/tt2698196/",
+      "http://www.imdb.com/title/tt2305435/",
       "http://www.imdb.com/title/tt2157974/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2425270784/tt0970179"
+    "cover": "/media/rm2425270784/tt0970179?ref_=tt_ov_i",
+    "id": "Hugo=Hugo 2011 AC3 720p BRRip XviD-RemixHD.avi",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "imdbRating": "7.6"
   },
   "How to Train Your Dragon=How.to.Train.Your.Dragon.2010.1080p.Bluray.DTS.x264-SHiTSoNy.mkv": {
     "name": "How.to.Train.Your.Dragon.2010.1080p.Bluray.DTS.x264-SHiTSoNy.mkv",
@@ -1304,11 +1823,17 @@
       "http://www.imdb.com/title/tt1621800/",
       "http://www.imdb.com/title/tt1621265/",
       "http://www.imdb.com/title/tt2542490/",
-      "http://www.imdb.com/title/tt2159351/",
-      "http://www.imdb.com/title/tt1799668/"
+      "http://www.imdb.com/title/tt1799668/",
+      "http://www.imdb.com/title/tt2159351/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3634793472/tt1621800"
+    "cover": "/media/rm3634793472/tt1621800?ref_=tt_ov_i",
+    "id": "How to Train Your Dragon=How.to.Train.Your.Dragon.2010.1080p.Bluray.DTS.x264-SHiTSoNy.mkv",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "imdbRating": "7.6"
   },
   "Independence Day=Independence Day 1080p.mkv": {
     "name": "Independence Day 1080p.mkv",
@@ -1320,13 +1845,21 @@
     "imdbUrl": "http://www.imdb.com/title/tt0116629/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0116629/",
-      "http://www.imdb.com/title/tt0292014/",
       "http://www.imdb.com/title/tt0357791/",
       "http://www.imdb.com/title/tt0361872/",
-      "http://www.imdb.com/title/tt1342384/"
+      "http://www.imdb.com/title/tt0616643/",
+      "http://www.imdb.com/title/tt0594861/"
     ],
     "year": "1996",
-    "cover": "/media/rm2780467968/tt0116629"
+    "cover": "/media/rm2780467968/tt0116629?ref_=tt_ov_i",
+    "id": "Independence Day=Independence Day 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": "6.8"
   },
   "Home=Home.1080p.x264.DTS.mkv": {
     "name": "Home.1080p.x264.DTS.mkv",
@@ -1338,13 +1871,21 @@
     "imdbUrl": "http://www.imdb.com/title/tt1014762/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1014762/",
-      "http://www.imdb.com/title/tt2597242/",
-      "http://www.imdb.com/title/tt1319569/",
-      "http://www.imdb.com/title/tt0256415/",
-      "http://www.imdb.com/title/tt0810922/"
+      "http://www.imdb.com/title/tt0489342/",
+      "http://www.imdb.com/title/tt1307064/",
+      "http://www.imdb.com/title/tt1347509/",
+      "http://www.imdb.com/title/tt1935859/"
     ],
     "year": "2009",
-    "cover": "/media/rm1570408448/tt1014762"
+    "cover": "/media/rm1570408448/tt1014762?ref_=tt_ov_i",
+    "id": "Home=Home.1080p.x264.DTS.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Documentary",
+      "Drama",
+      "Family"
+    ],
+    "imdbRating": "8.4"
   },
   "I Am Legend=I.Am.Legend.720p.BluRay.x264-REFiNED.mkv": {
     "name": "I.Am.Legend.720p.BluRay.x264-REFiNED.mkv",
@@ -1356,13 +1897,21 @@
     "imdbUrl": "http://www.imdb.com/title/tt0480249/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0480249/",
-      "http://www.imdb.com/title/tt0228413/",
       "http://www.imdb.com/title/tt1136279/",
       "http://www.imdb.com/title/tt1167498/",
-      "http://www.imdb.com/title/tt1168640/"
+      "http://www.imdb.com/title/tt1168640/",
+      "http://www.imdb.com/title/tt1127217/"
     ],
     "year": "2007",
-    "cover": "/media/rm3970142208/tt0480249"
+    "cover": "/media/rm3970142208/tt0480249?ref_=tt_ov_i",
+    "id": "I Am Legend=I.Am.Legend.720p.BluRay.x264-REFiNED.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "imdbRating": "7.1"
   },
   "Indiana Jones and the Temple of Doom=Indiana Jones and the Temple of Doom 1984.mkv": {
     "name": "Indiana Jones and the Temple of Doom 1984.mkv",
@@ -1370,7 +1919,8 @@
     "year": "1984",
     "title": "Indiana Jones and the Temple of Doom",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Indiana Jones and the Temple of Doom=Indiana Jones and the Temple of Doom 1984.mkv"
   },
   "Indiana Jones and the Last Crusade=Indiana Jones and the Last Crusade 1989.mkv": {
     "name": "Indiana Jones and the Last Crusade 1989.mkv",
@@ -1384,7 +1934,14 @@
       "http://www.imdb.com/title/tt0251138/",
       "http://www.imdb.com/title/tt1949375/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "Indiana Jones and the Last Crusade=Indiana Jones and the Last Crusade 1989.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": "7.6"
   },
   "Indiana Jones und das Königreich des Kristallschädels=Indiana Jones und das Königreich des Kristallschädels 720p.mkv": {
     "name": "Indiana Jones und das Königreich des Kristallschädels 720p.mkv",
@@ -1395,14 +1952,22 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0367882/",
     "year": "2008",
-    "cover": "/media/rm883857152/tt0367882"
+    "cover": "/media/rm883857152/tt0367882?ref_=tt_ov_i",
+    "id": "Indiana Jones und das Königreich des Kristallschädels=Indiana Jones und das Königreich des Kristallschädels 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "imdbRating": "6.3"
   },
   "I Am Legend-Alternative Ending Only=I Am Legend-Alternative Ending Only.avi": {
     "name": "I Am Legend-Alternative Ending Only.avi",
     "dir": "F:/Filme",
     "title": "I Am Legend-Alternative Ending Only",
     "tags": "",
-    "format": "avi"
+    "format": "avi",
+    "id": "I Am Legend-Alternative Ending Only=I Am Legend-Alternative Ending Only.avi"
   },
   "Indiana Jones And The Kingdom Of The Crystal Skull=Indiana.Jones.And.The.Kingdom.Of.The.Crystal.Skull.2008.1080p.DTS.mkv": {
     "name": "Indiana.Jones.And.The.Kingdom.Of.The.Crystal.Skull.2008.1080p.DTS.mkv",
@@ -1414,7 +1979,13 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0367882/",
     "yearConfirmed": true,
-    "cover": "/media/rm883857152/tt0367882?ref_=tt_ov_i"
+    "cover": "/media/rm883857152/tt0367882?ref_=tt_ov_i",
+    "id": "Indiana Jones And The Kingdom Of The Crystal Skull=Indiana.Jones.And.The.Kingdom.Of.The.Crystal.Skull.2008.1080p.DTS.mkv",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "imdbRating": "6.3"
   },
   "Insomnia=Insomnia.2002.BluRay.1080p.x264.DTS.dxva-xander.mkv": {
     "name": "Insomnia.2002.BluRay.1080p.x264.DTS.dxva-xander.mkv",
@@ -1428,10 +1999,18 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt0278504/",
       "http://www.imdb.com/title/tt0362540/",
-      "http://www.imdb.com/title/tt2050546/"
+      "http://www.imdb.com/title/tt2050546/",
+      "http://www.imdb.com/title/tt0491545/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm968399872/tt0278504"
+    "cover": "/media/rm968399872/tt0278504?ref_=tt_ov_i",
+    "id": "Insomnia=Insomnia.2002.BluRay.1080p.x264.DTS.dxva-xander.mkv",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": "7.2"
   },
   "Into The Wild=Into The Wild 720p ENG.mkv": {
     "name": "Into The Wild 720p ENG.mkv",
@@ -1443,13 +2022,21 @@
     "imdbUrl": "http://www.imdb.com/title/tt0758758/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0758758/",
+      "http://www.imdb.com/title/tt1224033/",
+      "http://www.imdb.com/title/tt1141651/",
       "http://www.imdb.com/title/tt1192158/",
-      "http://www.imdb.com/title/tt2202039/",
-      "http://www.imdb.com/title/tt1054487/",
       "http://www.imdb.com/title/tt1224033/"
     ],
     "year": "2007",
-    "cover": "/media/rm2115475456/tt0758758"
+    "cover": "/media/rm2115475456/tt0758758?ref_=tt_ov_i",
+    "id": "Into The Wild=Into The Wild 720p ENG.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "imdbRating": "8.2"
   },
   "Inglorious Basterds=Inglorious Basterds (1080p).mkv": {
     "name": "Inglorious Basterds (1080p).mkv",
@@ -1463,7 +2050,14 @@
       "http://www.imdb.com/title/tt1507733/",
       "http://www.imdb.com/title/tt2135175/"
     ],
-    "year": "2009"
+    "year": "2009",
+    "id": "Inglorious Basterds=Inglorious Basterds (1080p).mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Reality-TV",
+      "Talk-Show"
+    ],
+    "imdbRating": ""
   },
   "Kung Fu Panda=Kung.Fu.Panda.2.2011.German.DL.1080p.BluRay.x264-DETAiLS.mkv": {
     "name": "Kung.Fu.Panda.2.2011.German.DL.1080p.BluRay.x264-DETAiLS.mkv",
@@ -1472,7 +2066,8 @@
     "quality": "1080p",
     "title": "Kung Fu Panda",
     "tags": "2. German DL  BluRay x264-DETAiLS",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Kung Fu Panda=Kung.Fu.Panda.2.2011.German.DL.1080p.BluRay.x264-DETAiLS.mkv"
   },
   "Lara Croft Tomb Raider=Lara Croft Tomb Raider 2001 1080p.mkv": {
     "name": "Lara Croft Tomb Raider 2001 1080p.mkv",
@@ -1488,7 +2083,14 @@
       "http://www.imdb.com/title/tt1379203/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm118267392/tt0146316"
+    "cover": "/media/rm118267392/tt0146316?ref_=tt_ov_i",
+    "id": "Lara Croft Tomb Raider=Lara Croft Tomb Raider 2001 1080p.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": "5.6"
   },
   "IP Man=IP Man 720p.mkv": {
     "name": "IP Man 720p.mkv",
@@ -1506,7 +2108,15 @@
       "http://www.imdb.com/title/tt2352837/"
     ],
     "year": "2008",
-    "cover": "/media/rm447972096/tt1220719"
+    "cover": "/media/rm447972096/tt1220719?ref_=tt_ov_i",
+    "id": "IP Man=IP Man 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "imdbRating": "8.1"
   },
   "Life Of Brian=Life Of Brian 720p (1979).mkv": {
     "name": "Life Of Brian 720p (1979).mkv",
@@ -1515,7 +2125,8 @@
     "year": "1979",
     "title": "Life Of Brian",
     "tags": "()",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Life Of Brian=Life Of Brian 720p (1979).mkv"
   },
   "Leon=Leon.1994.1080p.BluRay.DTS..mkv": {
     "name": "Leon.1994.1080p.BluRay.DTS..mkv",
@@ -1531,7 +2142,14 @@
       "http://www.imdb.com/title/tt0987190/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1135651840/tt0110413"
+    "cover": "/media/rm1135651840/tt0110413?ref_=tt_ov_i",
+    "id": "Leon=Leon.1994.1080p.BluRay.DTS..mkv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": "8.6"
   },
   "Limitless=Limitless.2011.BluRay.1080p.mkv": {
     "name": "Limitless.2011.BluRay.1080p.mkv",
@@ -1548,7 +2166,14 @@
       "http://www.imdb.com/title/tt2125930/",
       "http://www.imdb.com/title/tt2133615/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "Limitless=Limitless.2011.BluRay.1080p.mkv",
+    "genres": [
+      "Short",
+      "Action",
+      "Adventure"
+    ],
+    "imdbRating": "7.7"
   },
   "Looney Tunes Coyote Falls=Looney.Tunes.Coyote.Falls.2010.720p.x264-CHD.mkv": {
     "name": "Looney.Tunes.Coyote.Falls.2010.720p.x264-CHD.mkv",
@@ -1557,7 +2182,8 @@
     "quality": "720p",
     "title": "Looney Tunes Coyote Falls",
     "tags": "x264-CHD",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Looney Tunes Coyote Falls=Looney.Tunes.Coyote.Falls.2010.720p.x264-CHD.mkv"
   },
   "Iron Man=Iron Man 720p (2008).mkv": {
     "name": "Iron Man 720p (2008).mkv",
@@ -1576,7 +2202,14 @@
       "http://www.imdb.com/title/tt0837143/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1544850432/tt0371746"
+    "cover": "/media/rm1544850432/tt0371746?ref_=tt_ov_i",
+    "id": "Iron Man=Iron Man 720p (2008).mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": "7.9"
   },
   "Matrix=Matrix (1999, 1080p, deutsch, englisch).mkv": {
     "name": "Matrix (1999, 1080p, deutsch, englisch).mkv",
@@ -1593,10 +2226,17 @@
       "http://www.imdb.com/title/tt0365467/",
       "http://www.imdb.com/title/tt0438231/",
       "http://www.imdb.com/title/tt0211096/",
-      "http://www.imdb.com/title/tt0594933/"
+      "http://www.imdb.com/title/tt1280363/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3412696576/tt0133093"
+    "cover": "/media/rm3412696576/tt0133093?ref_=tt_ov_i",
+    "id": "Matrix=Matrix (1999, 1080p, deutsch, englisch).mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": "8.7"
   },
   "Matrix Reloaded=Matrix Reloaded 1080p (2003).ts": {
     "name": "Matrix Reloaded 1080p (2003).ts",
@@ -1612,7 +2252,13 @@
       "http://www.imdb.com/title/tt1074193/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm872844288/tt0234215"
+    "cover": "/media/rm872844288/tt0234215?ref_=tt_ov_i",
+    "id": "Matrix Reloaded=Matrix Reloaded 1080p (2003).ts",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "imdbRating": "7.1"
   },
   "Matrix Revolutions=Matrix Revolutions (2003) - 1080p.mkv": {
     "name": "Matrix Revolutions (2003) - 1080p.mkv",
@@ -1628,7 +2274,14 @@
       "http://www.imdb.com/title/tt0594932/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2633932032/tt0242653"
+    "cover": "/media/rm2633932032/tt0242653?ref_=tt_ov_i",
+    "id": "Matrix Revolutions=Matrix Revolutions (2003) - 1080p.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": "6.6"
   },
   "Matrix Reloaded=Matrix.Reloaded.1080p.DTS.BluRay.x264.mkv": {
     "name": "Matrix.Reloaded.1080p.DTS.BluRay.x264.mkv",
@@ -1640,12 +2293,17 @@
     "imdbUrl": "http://www.imdb.com/title/tt0234215/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0234215/",
-      "http://www.imdb.com/title/tt1074193/",
-      "http://www.imdb.com/title/tt1830850/",
-      "http://www.imdb.com/title/tt2007246/"
+      "http://www.imdb.com/title/tt1074193/"
     ],
     "year": "2003",
-    "cover": "/media/rm872844288/tt0234215"
+    "cover": "/media/rm872844288/tt0234215?ref_=tt_ov_i",
+    "id": "Matrix Reloaded=Matrix.Reloaded.1080p.DTS.BluRay.x264.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "imdbRating": "7.1"
   },
   "Mercury Puzzle=Mercury Puzzle 1080p.mkv": {
     "name": "Mercury Puzzle 1080p.mkv",
@@ -1656,7 +2314,15 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0120749/",
     "year": "1998",
-    "cover": "/media/rm1794022656/tt0120749"
+    "cover": "/media/rm1794022656/tt0120749?ref_=tt_ov_i",
+    "id": "Mercury Puzzle=Mercury Puzzle 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": "5.9"
   },
   "Lord Of War=Lord Of War 1080p.mkv": {
     "name": "Lord Of War 1080p.mkv",
@@ -1674,7 +2340,15 @@
       "http://www.imdb.com/title/tt0091123/"
     ],
     "year": "2005",
-    "cover": "/media/rm1426035200/tt0399295"
+    "cover": "/media/rm1426035200/tt0399295?ref_=tt_ov_i",
+    "id": "Lord Of War=Lord Of War 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": "7.6"
   },
   "Moon=Moon (2009) 720p BDRip.mkv": {
     "name": "Moon (2009) 720p BDRip.mkv",
@@ -1693,7 +2367,13 @@
       "http://www.imdb.com/title/tt1231593/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1680837376/tt1182345"
+    "cover": "/media/rm1680837376/tt1182345?ref_=tt_ov_i",
+    "id": "Moon=Moon (2009) 720p BDRip.mkv",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "imdbRating": "8.0"
   },
   "Mr and Mrs Smith=Mr and Mrs Smith 1080p.mkv": {
     "name": "Mr and Mrs Smith 1080p.mkv",
@@ -1705,12 +2385,15 @@
     "imdbUrl": "http://www.imdb.com/title/tt0758713/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0758713/",
-      "http://www.imdb.com/title/tt2006794/",
-      "http://www.imdb.com/title/tt1349091/",
-      "http://www.imdb.com/title/tt0887614/",
-      "http://www.imdb.com/title/tt0804059/"
+      "http://www.imdb.com/title/tt0758713/"
     ],
-    "year": "2007"
+    "year": "2007",
+    "id": "Mr and Mrs Smith=Mr and Mrs Smith 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action"
+    ],
+    "imdbRating": "5.9"
   },
   "Nur noch 60 Sekunden=Nur noch 60 Sekunden 720p (2000).mkv": {
     "name": "Nur noch 60 Sekunden 720p (2000).mkv",
@@ -1722,7 +2405,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0187078/",
     "yearConfirmed": true,
-    "cover": "/media/rm2251462656/tt0187078"
+    "cover": "/media/rm2251462656/tt0187078?ref_=tt_ov_i",
+    "id": "Nur noch 60 Sekunden=Nur noch 60 Sekunden 720p (2000).mkv",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdbRating": "6.3"
   },
   "No Country For Old Man=No Country For Old Man 1080p.mkv": {
     "name": "No Country For Old Man 1080p.mkv",
@@ -1730,7 +2420,8 @@
     "quality": "1080p",
     "title": "No Country For Old Man",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "No Country For Old Man=No Country For Old Man 1080p.mkv"
   },
   "Midnight in Paris=Midnight.in.Paris.1080p.mkv": {
     "name": "Midnight.in.Paris.1080p.mkv",
@@ -1741,7 +2432,15 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt1605783/",
     "year": "2011",
-    "cover": "/media/rm2452601600/tt1605783"
+    "cover": "/media/rm2452601600/tt1605783?ref_=tt_ov_i",
+    "id": "Midnight in Paris=Midnight.in.Paris.1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "imdbRating": "7.7"
   },
   "Oldboy=Oldboy -1080p-.mkv": {
     "name": "Oldboy -1080p-.mkv",
@@ -1757,7 +2456,15 @@
       "http://www.imdb.com/title/tt1145468/"
     ],
     "year": "2003",
-    "cover": "/media/rm1299029248/tt0364569"
+    "cover": "/media/rm1299029248/tt0364569?ref_=tt_ov_i",
+    "id": "Oldboy=Oldboy -1080p-.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": "8.4"
   },
   "Once=Once.2006.720p.BluRay.x264.AC3-CMCT.mkv": {
     "name": "Once.2006.720p.BluRay.x264.AC3-CMCT.mkv",
@@ -1772,11 +2479,18 @@
       "http://www.imdb.com/title/tt0907657/",
       "http://www.imdb.com/title/tt0489247/",
       "http://www.imdb.com/title/tt0469810/",
-      "http://www.imdb.com/title/tt2016349/",
-      "http://www.imdb.com/title/tt0820911/"
+      "http://www.imdb.com/title/tt0820911/",
+      "http://www.imdb.com/title/tt2016349/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm112759552/tt0907657"
+    "cover": "/media/rm112759552/tt0907657?ref_=tt_ov_i",
+    "id": "Once=Once.2006.720p.BluRay.x264.AC3-CMCT.mkv",
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "imdbRating": "7.9"
   },
   "Keinohrhasen=Keinohrhasen 1080p.mkv": {
     "name": "Keinohrhasen 1080p.mkv",
@@ -1787,7 +2501,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0960790/",
     "year": "2007",
-    "cover": "/media/rm1289719808/tt0960790"
+    "cover": "/media/rm1289719808/tt0960790?ref_=tt_ov_i",
+    "id": "Keinohrhasen=Keinohrhasen 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "imdbRating": "6.7"
   },
   "Operation Kingdom=Operation Kingdom 720p.mkv": {
     "name": "Operation Kingdom 720p.mkv",
@@ -1798,7 +2519,15 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0431197/",
     "year": "2007",
-    "cover": "/media/rm4167013120/tt0431197"
+    "cover": "/media/rm4167013120/tt0431197?ref_=tt_ov_i",
+    "id": "Operation Kingdom=Operation Kingdom 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": "7.0"
   },
   "Pirates On Stranger Tides 4=Pirates On Stranger Tides 4 2011 1080p.mkv": {
     "name": "Pirates On Stranger Tides 4 2011 1080p.mkv",
@@ -1807,7 +2536,8 @@
     "quality": "1080p",
     "title": "Pirates On Stranger Tides 4",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Pirates On Stranger Tides 4=Pirates On Stranger Tides 4 2011 1080p.mkv"
   },
   "Penelope=Penelope 720p.mkv": {
     "name": "Penelope 720p.mkv",
@@ -1819,20 +2549,26 @@
     "imdbUrl": "http://www.imdb.com/title/tt0472160/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0472160/",
-      "http://www.imdb.com/title/tt0060818/",
-      "http://www.imdb.com/title/tt0173587/",
-      "http://www.imdb.com/title/tt1508367/",
-      "http://www.imdb.com/title/tt0981074/"
+      "http://www.imdb.com/title/tt0985304/"
     ],
     "year": "2006",
-    "cover": "/media/rm697077760/tt0472160"
+    "cover": "/media/rm697077760/tt0472160?ref_=tt_ov_i",
+    "id": "Penelope=Penelope 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "imdbRating": "6.8"
   },
   "Planet Terror - English=Planet Terror - English.ac3": {
     "name": "Planet Terror - English.ac3",
     "dir": "F:/Filme",
     "title": "Planet Terror - English",
     "tags": "",
-    "format": "ac3"
+    "format": "ac3",
+    "id": "Planet Terror - English=Planet Terror - English.ac3"
   },
   "Pineapple Express=Pineapple Express (2008) UNRATED BDRip 720p x264 - AdiT.mkv": {
     "name": "Pineapple Express (2008) UNRATED BDRip 720p x264 - AdiT.mkv",
@@ -1842,15 +2578,20 @@
     "title": "Pineapple Express",
     "tags": "() UNRATED  720p x264 - AdiT",
     "format": "mkv",
-    "imdbUrl": "http://www.imdb.com/title/tt1317503/",
+    "imdbUrl": "http://www.imdb.com/title/tt2303821/",
     "imdbUrls": [
-      "http://www.imdb.com/title/tt1317503/",
       "http://www.imdb.com/title/tt2303821/",
+      "http://www.imdb.com/title/tt1317503/",
       "http://www.imdb.com/title/tt1652244/",
       "http://www.imdb.com/title/tt1276879/",
       "http://www.imdb.com/title/tt1657673/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "Pineapple Express=Pineapple Express (2008) UNRATED BDRip 720p x264 - AdiT.mkv",
+    "genres": [
+      "Comedy"
+    ],
+    "imdbRating": ""
   },
   "Paul=Paul.2011.extended.1080p.x264.mkv": {
     "name": "Paul.2011.extended.1080p.x264.mkv",
@@ -1866,10 +2607,17 @@
       "http://www.imdb.com/title/tt1956594/",
       "http://www.imdb.com/title/tt1833001/",
       "http://www.imdb.com/title/tt2065503/",
-      "http://www.imdb.com/title/tt1599374/"
+      "http://www.imdb.com/title/tt1794779/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm4160193792/tt1092026"
+    "cover": "/media/rm4160193792/tt1092026?ref_=tt_ov_i",
+    "id": "Paul=Paul.2011.extended.1080p.x264.mkv",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "imdbRating": "7.0"
   },
   "Mission Impossible III=Mission.Impossible.III.1080p.mkv": {
     "name": "Mission.Impossible.III.1080p.mkv",
@@ -1884,7 +2632,15 @@
       "http://www.imdb.com/title/tt1109219/"
     ],
     "year": "2006",
-    "cover": "/media/rm2042924288/tt0317919"
+    "cover": "/media/rm2042924288/tt0317919?ref_=tt_ov_i",
+    "id": "Mission Impossible III=Mission.Impossible.III.1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "imdbRating": "6.8"
   },
   "Planet Terror=Planet Terror 720p (2007).mkv": {
     "name": "Planet Terror 720p (2007).mkv",
@@ -1896,7 +2652,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt1077258/",
     "yearConfirmed": true,
-    "cover": "/media/rm3590755840/tt1077258"
+    "cover": "/media/rm3590755840/tt1077258?ref_=tt_ov_i",
+    "id": "Planet Terror=Planet Terror 720p (2007).mkv",
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "imdbRating": "7.3"
   },
   "Rango=Rango.1080p.mkv": {
     "name": "Rango.1080p.mkv",
@@ -1908,13 +2671,21 @@
     "imdbUrl": "http://www.imdb.com/title/tt1192628/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1192628/",
-      "http://www.imdb.com/title/tt0061288/",
       "http://www.imdb.com/title/tt1842449/",
-      "http://www.imdb.com/title/tt0173105/",
-      "http://www.imdb.com/title/tt0133326/"
+      "http://www.imdb.com/title/tt1977527/",
+      "http://www.imdb.com/title/tt1857994/",
+      "http://www.imdb.com/title/tt2135095/"
     ],
     "year": "2011",
-    "cover": "/media/rm2940240896/tt1192628"
+    "cover": "/media/rm2940240896/tt1192628?ref_=tt_ov_i",
+    "id": "Rango=Rango.1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbRating": "7.3"
   },
   "Pulp Fiction=Pulp.Fiction.1994.OAR.HDTV.x264.1080p.DTS.mkv": {
     "name": "Pulp.Fiction.1994.OAR.HDTV.x264.1080p.DTS.mkv",
@@ -1926,7 +2697,13 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0110912/",
     "yearConfirmed": true,
-    "cover": "/media/rm3216480512/tt0110912"
+    "cover": "/media/rm3216480512/tt0110912?ref_=tt_ov_i",
+    "id": "Pulp Fiction=Pulp.Fiction.1994.OAR.HDTV.x264.1080p.DTS.mkv",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "imdbRating": "9.0"
   },
   "Puss in Boots=Puss in Boots 2011 AC3 720p.avi": {
     "name": "Puss in Boots 2011 AC3 720p.avi",
@@ -1939,12 +2716,18 @@
     "imdbUrl": "http://www.imdb.com/title/tt2769778/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt2769778/",
-      "http://www.imdb.com/title/tt2099216/",
-      "http://www.imdb.com/title/tt2204465/",
       "http://www.imdb.com/title/tt1779550/",
+      "http://www.imdb.com/title/tt2204465/",
+      "http://www.imdb.com/title/tt2099216/",
       "http://www.imdb.com/title/tt2692776/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "Puss in Boots=Puss in Boots 2011 AC3 720p.avi",
+    "genres": [
+      "Animation",
+      "Short"
+    ],
+    "imdbRating": ""
   },
   "Scarface=Scarface 720p.mkv": {
     "name": "Scarface 720p.mkv",
@@ -1956,13 +2739,18 @@
     "imdbUrl": "http://www.imdb.com/title/tt0086250/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0086250/",
-      "http://www.imdb.com/title/tt2066055/",
-      "http://www.imdb.com/title/tt0451192/",
-      "http://www.imdb.com/title/tt0395751/",
-      "http://www.imdb.com/title/tt0395749/"
+      "http://www.imdb.com/title/tt1589659/"
     ],
     "year": "1983",
-    "cover": "/media/rm4204637184/tt0086250"
+    "cover": "/media/rm4204637184/tt0086250?ref_=tt_ov_i",
+    "id": "Scarface=Scarface 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": "8.3"
   },
   "Rounders=Rounders.1998.1080p.Bluray.x264.Codres.mkv": {
     "name": "Rounders.1998.1080p.Bluray.x264.Codres.mkv",
@@ -1978,7 +2766,13 @@
       "http://www.imdb.com/title/tt1483018/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm730635520/tt0128442"
+    "cover": "/media/rm730635520/tt0128442?ref_=tt_ov_i",
+    "id": "Rounders=Rounders.1998.1080p.Bluray.x264.Codres.mkv",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": "7.3"
   },
   "Source Code=Source.Code.2011.1080P.Subs.mkv": {
     "name": "Source.Code.2011.1080P.Subs.mkv",
@@ -1994,7 +2788,14 @@
       "http://www.imdb.com/title/tt2135285/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3172041984/tt0945513"
+    "cover": "/media/rm3172041984/tt0945513?ref_=tt_ov_i",
+    "id": "Source Code=Source.Code.2011.1080P.Subs.mkv",
+    "genres": [
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "imdbRating": "7.5"
   },
   "Rise of the Planet of the Apes=Rise.of.the.Planet.of.the.Apes.2011.BluRay.1080p.DTS.2Audio.x264-CHD.mkv": {
     "name": "Rise.of.the.Planet.of.the.Apes.2011.BluRay.1080p.DTS.2Audio.x264-CHD.mkv",
@@ -2004,15 +2805,20 @@
     "title": "Rise of the Planet of the Apes",
     "tags": "BluRay  DTS 2Audio x264-CHD",
     "format": "mkv",
-    "imdbUrl": "http://www.imdb.com/title/tt2006432/",
+    "imdbUrl": "http://www.imdb.com/title/tt2050003/",
     "imdbUrls": [
-      "http://www.imdb.com/title/tt2006432/",
       "http://www.imdb.com/title/tt2050003/",
       "http://www.imdb.com/title/tt2000126/",
+      "http://www.imdb.com/title/tt2006432/",
       "http://www.imdb.com/title/tt2305451/",
       "http://www.imdb.com/title/tt2016621/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "Rise of the Planet of the Apes=Rise.of.the.Planet.of.the.Apes.2011.BluRay.1080p.DTS.2Audio.x264-CHD.mkv",
+    "genres": [
+      "Comedy"
+    ],
+    "imdbRating": ""
   },
   "repo men=repo.men.2010.unrated.1080p.bluray.x264-machd.mkv": {
     "name": "repo.men.2010.unrated.1080p.bluray.x264-machd.mkv",
@@ -2029,7 +2835,14 @@
       "http://www.imdb.com/title/tt1632332/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm4281175552/tt1053424"
+    "cover": "/media/rm4281175552/tt1053424?ref_=tt_ov_i",
+    "id": "repo men=repo.men.2010.unrated.1080p.bluray.x264-machd.mkv",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": "6.3"
   },
   "Shutter Island=Shutter.Island.2010.1080p.BluRay.mkv": {
     "name": "Shutter.Island.2010.1080p.BluRay.mkv",
@@ -2042,13 +2855,19 @@
     "imdbUrl": "http://www.imdb.com/title/tt1130884/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1130884/",
-      "http://www.imdb.com/title/tt2156155/",
       "http://www.imdb.com/title/tt2351817/",
+      "http://www.imdb.com/title/tt2156155/",
       "http://www.imdb.com/title/tt1629161/",
       "http://www.imdb.com/title/tt2135255/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2114422784/tt1130884"
+    "cover": "/media/rm2114422784/tt1130884?ref_=tt_ov_i",
+    "id": "Shutter Island=Shutter.Island.2010.1080p.BluRay.mkv",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": "8.0"
   },
   "Speed=Speed (1080p).mkv": {
     "name": "Speed (1080p).mkv",
@@ -2060,13 +2879,20 @@
     "imdbUrl": "http://www.imdb.com/title/tt0111257/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0111257/",
-      "http://www.imdb.com/title/tt0120179/",
-      "http://www.imdb.com/title/tt0811080/",
-      "http://www.imdb.com/title/tt2369135/",
-      "http://www.imdb.com/title/tt1042497/"
+      "http://www.imdb.com/title/tt2184233/",
+      "http://www.imdb.com/title/tt0108939/",
+      "http://www.imdb.com/title/tt1192089/",
+      "http://www.imdb.com/title/tt0484151/"
     ],
     "year": "1994",
-    "cover": "/media/rm3760954880/tt0111257"
+    "cover": "/media/rm3760954880/tt0111257?ref_=tt_ov_i",
+    "id": "Speed=Speed (1080p).mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "imdbRating": "7.2"
   },
   "Starwars Episode 1=Starwars Episode 1 720p.mkv": {
     "name": "Starwars Episode 1 720p.mkv",
@@ -2074,7 +2900,8 @@
     "quality": "720p",
     "title": "Starwars Episode 1",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Starwars Episode 1=Starwars Episode 1 720p.mkv"
   },
   "Ratatouille=Ratatouille 720p.mkv": {
     "name": "Ratatouille 720p.mkv",
@@ -2087,12 +2914,20 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt0382932/",
       "http://www.imdb.com/title/tt1230569/",
-      "http://www.imdb.com/title/tt1020698/",
+      "http://www.imdb.com/title/tt1154078/",
       "http://www.imdb.com/title/tt1055299/",
       "http://www.imdb.com/title/tt1084809/"
     ],
     "year": "2007",
-    "cover": "/media/rm937921792/tt0382932"
+    "cover": "/media/rm937921792/tt0382932?ref_=tt_ov_i",
+    "id": "Ratatouille=Ratatouille 720p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "imdbRating": "8.0"
   },
   "Starwars Episode 2=Starwars Episode 2 720p.mkv": {
     "name": "Starwars Episode 2 720p.mkv",
@@ -2100,7 +2935,8 @@
     "quality": "720p",
     "title": "Starwars Episode 2",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Starwars Episode 2=Starwars Episode 2 720p.mkv"
   },
   "Raiders of the Lost Ark=Raiders of the Lost Ark 1981 720p.mkv": {
     "name": "Raiders of the Lost Ark 1981 720p.mkv",
@@ -2114,10 +2950,16 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt0376109/",
       "http://www.imdb.com/title/tt1916982/",
-      "http://www.imdb.com/title/tt0146834/",
-      "http://www.imdb.com/title/tt0254543/"
+      "http://www.imdb.com/title/tt0254543/",
+      "http://www.imdb.com/title/tt0146834/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "Raiders of the Lost Ark=Raiders of the Lost Ark 1981 720p.mkv",
+    "genres": [
+      "Adventure",
+      "Family"
+    ],
+    "imdbRating": "7.2"
   },
   "Starwars Episode 3=Starwars Episode 3 1080p.ts": {
     "name": "Starwars Episode 3 1080p.ts",
@@ -2125,7 +2967,8 @@
     "quality": "1080p",
     "title": "Starwars Episode 3",
     "tags": "",
-    "format": "ts"
+    "format": "ts",
+    "id": "Starwars Episode 3=Starwars Episode 3 1080p.ts"
   },
   "Street Kings=Street Kings 720p (2008).mkv": {
     "name": "Street Kings 720p (2008).mkv",
@@ -2144,7 +2987,14 @@
       "http://www.imdb.com/title/tt1260426/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1355191808/tt0421073"
+    "cover": "/media/rm1355191808/tt0421073?ref_=tt_ov_i",
+    "id": "Street Kings=Street Kings 720p (2008).mkv",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": "6.8"
   },
   "The Apple Tree - A Tribute to Glitch Mob=The Apple Tree - A Tribute to Glitch Mob 1080p.mp4": {
     "name": "The Apple Tree - A Tribute to Glitch Mob 1080p.mp4",
@@ -2152,7 +3002,8 @@
     "quality": "1080p",
     "title": "The Apple Tree - A Tribute to Glitch Mob",
     "tags": "",
-    "format": "mp4"
+    "format": "mp4",
+    "id": "The Apple Tree - A Tribute to Glitch Mob=The Apple Tree - A Tribute to Glitch Mob 1080p.mp4"
   },
   "Sucker Punch=Sucker.Punch.2011.1080p.BluRay.x264-SECTOR7.mkv": {
     "name": "Sucker.Punch.2011.1080p.BluRay.x264-SECTOR7.mkv",
@@ -2166,12 +3017,19 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt0978764/",
       "http://www.imdb.com/title/tt2619130/",
-      "http://www.imdb.com/title/tt2106833/",
-      "http://www.imdb.com/title/tt2360143/",
-      "http://www.imdb.com/title/tt1962638/"
+      "http://www.imdb.com/title/tt1897355/",
+      "http://www.imdb.com/title/tt1962638/",
+      "http://www.imdb.com/title/tt2141166/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1362737664/tt0978764"
+    "cover": "/media/rm1362737664/tt0978764?ref_=tt_ov_i",
+    "id": "Sucker Punch=Sucker.Punch.2011.1080p.BluRay.x264-SECTOR7.mkv",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Thriller"
+    ],
+    "imdbRating": "6.0"
   },
   "Super=Super 1080p.mkv": {
     "name": "Super 1080p.mkv",
@@ -2183,13 +3041,21 @@
     "imdbUrl": "http://www.imdb.com/title/tt1512235/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1512235/",
-      "http://www.imdb.com/title/tt0475735/",
-      "http://www.imdb.com/title/tt1580428/",
-      "http://www.imdb.com/title/tt0465624/",
-      "http://www.imdb.com/title/tt0247745/"
+      "http://www.imdb.com/title/tt1684915/",
+      "http://www.imdb.com/title/tt0859635/",
+      "http://www.imdb.com/title/tt1152827/",
+      "http://www.imdb.com/title/tt1369584/"
     ],
     "year": "2010",
-    "cover": "/media/rm1075427840/tt1512235"
+    "cover": "/media/rm1075427840/tt1512235?ref_=tt_ov_i",
+    "id": "Super=Super 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "imdbRating": "6.8"
   },
   "The Big Lebowski=The Big Lebowski (1998, 1080p, deutsch, englisch).mkv": {
     "name": "The Big Lebowski (1998, 1080p, deutsch, englisch).mkv",
@@ -2207,7 +3073,13 @@
       "http://www.imdb.com/title/tt1229613/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm4254968832/tt0118715"
+    "cover": "/media/rm4254968832/tt0118715?ref_=tt_ov_i",
+    "id": "The Big Lebowski=The Big Lebowski (1998, 1080p, deutsch, englisch).mkv",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "imdbRating": "8.2"
   },
   "The Crow=The Crow 720p (1994).mkv": {
     "name": "The Crow 720p (1994).mkv",
@@ -2217,7 +3089,14 @@
     "title": "The Crow",
     "tags": "()",
     "format": "mkv",
-    "imdbUrl": "http://www.imdb.com/title/tt1340094/"
+    "imdbUrl": "http://www.imdb.com/title/tt1340094/",
+    "id": "The Crow=The Crow 720p (1994).mkv",
+    "genres": [
+      "Action",
+      "Crime",
+      "Fantasy"
+    ],
+    "imdbRating": ""
   },
   "The Fighters=The Fighters 720p (2008).mkv": {
     "name": "The Fighters 720p (2008).mkv",
@@ -2229,7 +3108,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt1023111/",
     "yearConfirmed": true,
-    "cover": "/media/rm3520960768/tt1023111"
+    "cover": "/media/rm3520960768/tt1023111?ref_=tt_ov_i",
+    "id": "The Fighters=The Fighters 720p (2008).mkv",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "imdbRating": "6.3"
   },
   "The Departed=The Departed 2006 BluRay 1080p ac3-LoNeWoLf.mkv": {
     "name": "The Departed 2006 BluRay 1080p ac3-LoNeWoLf.mkv",
@@ -2245,7 +3131,13 @@
       "http://www.imdb.com/title/tt0871147/",
       "http://www.imdb.com/title/tt2135277/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "The Departed=The Departed 2006 BluRay 1080p ac3-LoNeWoLf.mkv",
+    "genres": [
+      "Short",
+      "Mystery"
+    ],
+    "imdbRating": "5.0"
   },
   "The Rock=The Rock 1080p.mkv": {
     "name": "The Rock 1080p.mkv",
@@ -2257,13 +3149,19 @@
     "imdbUrl": "http://www.imdb.com/title/tt0117500/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0117500/",
-      "http://www.imdb.com/title/tt0258931/",
-      "http://www.imdb.com/title/tt1252380/",
-      "http://www.imdb.com/title/tt1213574/",
-      "http://www.imdb.com/title/tt1637652/"
+      "http://www.imdb.com/title/tt0122689/",
+      "http://www.imdb.com/title/tt0200529/"
     ],
     "year": "1996",
-    "cover": "/media/rm4177762560/tt0117500"
+    "cover": "/media/rm4177762560/tt0117500?ref_=tt_ov_i",
+    "id": "The Rock=The Rock 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "imdbRating": "7.3"
   },
   "The Karate Kid=The Karate Kid (2010) 1080P.X264.NL.SUBBED.Bradje.mkv": {
     "name": "The Karate Kid (2010) 1080P.X264.NL.SUBBED.Bradje.mkv",
@@ -2276,11 +3174,17 @@
     "imdbUrl": "http://www.imdb.com/title/tt1674782/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1674782/",
-      "http://www.imdb.com/title/tt1730151/",
       "http://www.imdb.com/title/tt1730126/",
+      "http://www.imdb.com/title/tt1730151/",
       "http://www.imdb.com/title/tt2266325/",
       "http://www.imdb.com/title/tt2133625/"
-    ]
+    ],
+    "id": "The Karate Kid=The Karate Kid (2010) 1080P.X264.NL.SUBBED.Bradje.mkv",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "imdbRating": ""
   },
   "The Other Boleyn Girl=The Other Boleyn Girl 2008 1080p.mkv": {
     "name": "The Other Boleyn Girl 2008 1080p.mkv",
@@ -2295,7 +3199,13 @@
       "http://www.imdb.com/title/tt1225034/",
       "http://www.imdb.com/title/tt1657674/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "The Other Boleyn Girl=The Other Boleyn Girl 2008 1080p.mkv",
+    "genres": [
+      "Reality-TV",
+      "Talk-Show"
+    ],
+    "imdbRating": ""
   },
   "The Way Back=The Way Back.mkv": {
     "name": "The Way Back.mkv",
@@ -2306,13 +3216,19 @@
     "imdbUrl": "http://www.imdb.com/title/tt1023114/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1023114/",
-      "http://www.imdb.com/title/tt1911653/",
-      "http://www.imdb.com/title/tt1727388/",
-      "http://www.imdb.com/title/tt0432855/",
-      "http://www.imdb.com/title/tt1058544/"
+      "http://www.imdb.com/title/tt1816788/",
+      "http://www.imdb.com/title/tt1858804/"
     ],
     "year": "2010",
-    "cover": "/media/rm2135590656/tt1023114"
+    "cover": "/media/rm2135590656/tt1023114?ref_=tt_ov_i",
+    "id": "The Way Back=The Way Back.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "imdbRating": "7.3"
   },
   "The Lion King=The Lion King 720p DTS.mkv": {
     "name": "The Lion King 720p DTS.mkv",
@@ -2324,12 +3240,20 @@
     "imdbUrl": "http://www.imdb.com/title/tt0323073/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0323073/",
-      "http://www.imdb.com/title/tt1775434/",
-      "http://www.imdb.com/title/tt0215933/",
-      "http://www.imdb.com/title/tt0215934/",
-      "http://www.imdb.com/title/tt1332665/"
+      "http://www.imdb.com/title/tt1332665/",
+      "http://www.imdb.com/title/tt0366742/",
+      "http://www.imdb.com/title/tt0245234/",
+      "http://www.imdb.com/title/tt0987874/"
     ],
-    "year": "1994"
+    "year": "1994",
+    "id": "The Lion King=The Lion King 720p DTS.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "imdbRating": "7.6"
   },
   "The Blues Brothers=The.Blues.Brothers.2000.1998.1080p.mkv": {
     "name": "The.Blues.Brothers.2000.1998.1080p.mkv",
@@ -2340,7 +3264,12 @@
     "tags": "1998",
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0423272/",
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "The Blues Brothers=The.Blues.Brothers.2000.1998.1080p.mkv",
+    "genres": [
+      "Documentary"
+    ],
+    "imdbRating": "7.0"
   },
   "The Smurfs=The.Smurfs.2011.1080p.mkv": {
     "name": "The.Smurfs.2011.1080p.mkv",
@@ -2358,7 +3287,13 @@
       "http://www.imdb.com/title/tt2111781/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2776871424/tt2062677"
+    "cover": "/media/rm2776871424/tt2062677?ref_=tt_ov_i",
+    "id": "The Smurfs=The.Smurfs.2011.1080p.mkv",
+    "genres": [
+      "Animation",
+      "Short"
+    ],
+    "imdbRating": "6.2"
   },
   "The Family Man=The.Family.Man.2000.1080p.BluRay.X264-AMIABLE.mkv": {
     "name": "The.Family.Man.2000.1080p.BluRay.X264-AMIABLE.mkv",
@@ -2367,7 +3302,8 @@
     "quality": "1080p",
     "title": "The Family Man",
     "tags": "BluRay X264-AMIABLE",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "The Family Man=The.Family.Man.2000.1080p.BluRay.X264-AMIABLE.mkv"
   },
   "The Book of Eli=The.Book.of.Eli.2010.German.AC3D.DL.1080p.BluRay.x264-HDA.mkv": {
     "name": "The.Book.of.Eli.2010.German.AC3D.DL.1080p.BluRay.x264-HDA.mkv",
@@ -2386,7 +3322,14 @@
       "http://www.imdb.com/title/tt2368467/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3578629632/tt1037705"
+    "cover": "/media/rm3578629632/tt1037705?ref_=tt_ov_i",
+    "id": "The Book of Eli=The.Book.of.Eli.2010.German.AC3D.DL.1080p.BluRay.x264-HDA.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "imdbRating": "6.8"
   },
   "The Ninth Gate=The.Ninth.Gate.1999.Bluray.1080p.DTS.x264-CtrlHD.mkv": {
     "name": "The.Ninth.Gate.1999.Bluray.1080p.DTS.x264-CtrlHD.mkv",
@@ -2395,7 +3338,8 @@
     "quality": "1080p",
     "title": "The Ninth Gate",
     "tags": "Bluray  DTS x264-CtrlHD",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "The Ninth Gate=The.Ninth.Gate.1999.Bluray.1080p.DTS.x264-CtrlHD.mkv"
   },
   "The Green Hornet=The.Green.Hornet.2011.1080p.MKV.AC3.DTS.Eng.NLSubs-DMT.mkv": {
     "name": "The.Green.Hornet.2011.1080p.MKV.AC3.DTS.Eng.NLSubs-DMT.mkv",
@@ -2408,13 +3352,20 @@
     "imdbUrl": "http://www.imdb.com/title/tt0990407/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0990407/",
-      "http://www.imdb.com/title/tt1914361/",
+      "http://www.imdb.com/title/tt2836316/",
       "http://www.imdb.com/title/tt1819129/",
       "http://www.imdb.com/title/tt2133624/",
-      "http://www.imdb.com/title/tt2836316/"
+      "http://www.imdb.com/title/tt1914361/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm4199056384/tt0990407"
+    "cover": "/media/rm4199056384/tt0990407?ref_=tt_ov_i",
+    "id": "The Green Hornet=The.Green.Hornet.2011.1080p.MKV.AC3.DTS.Eng.NLSubs-DMT.mkv",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "imdbRating": "5.9"
   },
   "The Talented Mr Ripley=The.Talented.Mr.Ripley.1999.PROPER.1080p.BluRay.X264-AMIABLE.mkv": {
     "name": "The.Talented.Mr.Ripley.1999.PROPER.1080p.BluRay.X264-AMIABLE.mkv",
@@ -2424,12 +3375,19 @@
     "title": "The Talented Mr Ripley",
     "tags": "PROPER  BluRay X264-AMIABLE",
     "format": "mkv",
-    "imdbUrl": "http://www.imdb.com/title/tt0373925/",
+    "imdbUrl": "http://www.imdb.com/title/tt0374261/",
     "imdbUrls": [
-      "http://www.imdb.com/title/tt0373925/",
-      "http://www.imdb.com/title/tt0374261/"
+      "http://www.imdb.com/title/tt0374261/",
+      "http://www.imdb.com/title/tt0373925/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "The Talented Mr Ripley=The.Talented.Mr.Ripley.1999.PROPER.1080p.BluRay.X264-AMIABLE.mkv",
+    "genres": [
+      "Documentary",
+      "Short",
+      "Music"
+    ],
+    "imdbRating": "5.9"
   },
   "The Son of No One=The.Son.of.No.One.1080p.mkv": {
     "name": "The.Son.of.No.One.1080p.mkv",
@@ -2444,7 +3402,15 @@
       "http://www.imdb.com/title/tt2692778/"
     ],
     "year": "2011",
-    "cover": "/media/rm1039777024/tt1535612"
+    "cover": "/media/rm1039777024/tt1535612?ref_=tt_ov_i",
+    "id": "The Son of No One=The.Son.of.No.One.1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": "5.1"
   },
   "the girl with the dragon tattoo=the.girl.with.the.dragon.tattoo.2011.720p.bluray.x264-sparks.mkv": {
     "name": "the.girl.with.the.dragon.tattoo.2011.720p.bluray.x264-sparks.mkv",
@@ -2454,15 +3420,20 @@
     "title": "the girl with the dragon tattoo",
     "tags": "bluray x264-sparks",
     "format": "mkv",
-    "imdbUrl": "http://www.imdb.com/title/tt2149197/",
+    "imdbUrl": "http://www.imdb.com/title/tt2114963/",
     "imdbUrls": [
+      "http://www.imdb.com/title/tt2114963/",
       "http://www.imdb.com/title/tt2149197/",
       "http://www.imdb.com/title/tt2145299/",
-      "http://www.imdb.com/title/tt2114963/",
       "http://www.imdb.com/title/tt2263239/",
       "http://www.imdb.com/title/tt2003902/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "the girl with the dragon tattoo=the.girl.with.the.dragon.tattoo.2011.720p.bluray.x264-sparks.mkv",
+    "genres": [
+      "News"
+    ],
+    "imdbRating": ""
   },
   "The Other Guys=The_Other_Guys_1080p.mkv": {
     "name": "The_Other_Guys_1080p.mkv",
@@ -2474,12 +3445,17 @@
     "imdbUrl": "http://www.imdb.com/title/tt2242825/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt2242825/",
-      "http://www.imdb.com/title/tt1710795/",
       "http://www.imdb.com/title/tt1721102/",
-      "http://www.imdb.com/title/tt0709195/",
+      "http://www.imdb.com/title/tt1710795/",
       "http://www.imdb.com/title/tt2135155/"
     ],
-    "year": "2010"
+    "year": "2010",
+    "id": "The Other Guys=The_Other_Guys_1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Comedy"
+    ],
+    "imdbRating": ""
   },
   "Tomb Raider The Cradle Of Life=Tomb.Raider.The.Cradle.Of.Life.1080p.mkv": {
     "name": "Tomb.Raider.The.Cradle.Of.Life.1080p.mkv",
@@ -2487,7 +3463,8 @@
     "quality": "1080p",
     "title": "Tomb Raider The Cradle Of Life",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Tomb Raider The Cradle Of Life=Tomb.Raider.The.Cradle.Of.Life.1080p.mkv"
   },
   "Tron Legacy=Tron Legacy (1080p, English).mkv": {
     "name": "Tron Legacy (1080p, English).mkv",
@@ -2499,13 +3476,21 @@
     "imdbUrl": "http://www.imdb.com/title/tt1104001/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1104001/",
-      "http://www.imdb.com/title/tt1980294/",
       "http://www.imdb.com/title/tt1852554/",
-      "http://www.imdb.com/title/tt1961642/",
-      "http://www.imdb.com/title/tt1806168/"
+      "http://www.imdb.com/title/tt1806168/",
+      "http://www.imdb.com/title/tt1799687/",
+      "http://www.imdb.com/title/tt1957586/"
     ],
     "year": "2010",
-    "cover": "/media/rm3240068608/tt1104001"
+    "cover": "/media/rm3240068608/tt1104001?ref_=tt_ov_i",
+    "id": "Tron Legacy=Tron Legacy (1080p, English).mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": "6.8"
   },
   "Tron=Tron.1982.HDTV.720p.x264.DL.AC3.mkv": {
     "name": "Tron.1982.HDTV.720p.x264.DL.AC3.mkv",
@@ -2524,7 +3509,14 @@
       "http://www.imdb.com/title/tt2129632/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3608058112/tt0084827"
+    "cover": "/media/rm3608058112/tt0084827?ref_=tt_ov_i",
+    "id": "Tron=Tron.1982.HDTV.720p.x264.DL.AC3.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": "6.7"
   },
   "Tucker and Dale vs Evil=Tucker and Dale vs Evil 2010 720p.mp4": {
     "name": "Tucker and Dale vs Evil 2010 720p.mp4",
@@ -2533,7 +3525,8 @@
     "quality": "720p",
     "title": "Tucker and Dale vs Evil",
     "tags": "",
-    "format": "mp4"
+    "format": "mp4",
+    "id": "Tucker and Dale vs Evil=Tucker and Dale vs Evil 2010 720p.mp4"
   },
   "X-Men United=X-Men.United.2003.1080p.BluRay.DTS.x264-FoRM.mkv": {
     "name": "X-Men.United.2003.1080p.BluRay.DTS.x264-FoRM.mkv",
@@ -2544,7 +3537,12 @@
     "tags": "BluRay DTS x264-FoRM",
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0594963/",
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "X-Men United=X-Men.United.2003.1080p.BluRay.DTS.x264-FoRM.mkv",
+    "genres": [
+      "Documentary"
+    ],
+    "imdbRating": "8.1"
   },
   "Watchmen – Die Wächter=Watchmen – Die Wächter (2009, 1080p, 1920x800, deutsch+sub, englisch, Bluray.x264).mkv": {
     "name": "Watchmen – Die Wächter (2009, 1080p, 1920x800, deutsch+sub, englisch, Bluray.x264).mkv",
@@ -2553,7 +3551,8 @@
     "quality": "1920x800",
     "title": "Watchmen – Die Wächter",
     "tags": "(, , 1920x800, deutsch+sub, englisch, Bluray x264)",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Watchmen – Die Wächter=Watchmen – Die Wächter (2009, 1080p, 1920x800, deutsch+sub, englisch, Bluray.x264).mkv"
   },
   "Unknown=Unknown 1080p.mkv": {
     "name": "Unknown 1080p.mkv",
@@ -2565,14 +3564,22 @@
     "imdbUrl": "http://www.imdb.com/title/tt1401152/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1401152/",
-      "http://www.imdb.com/title/tt0450340/",
-      "http://www.imdb.com/title/tt2402731/",
-      "http://www.imdb.com/title/tt1333050/",
-      "http://www.imdb.com/title/tt0018528/"
+      "http://www.imdb.com/title/tt2098640/",
+      "http://www.imdb.com/title/tt1965227/",
+      "http://www.imdb.com/title/tt1868059/",
+      "http://www.imdb.com/title/tt1956692/"
     ],
     "year": "2011",
-    "cover": "/media/rm383812608/tt1401152",
-    "coverLoaded": true
+    "cover": "/media/rm383812608/tt1401152?ref_=tt_ov_i",
+    "coverLoaded": true,
+    "id": "Unknown=Unknown 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": "6.9"
   },
   "Wall Street Money Never Sleeps=Wall.Street.Money.Never.Sleeps.2010.1080p.AC3.DTS.Eng.NLSubs-DMT.mkv": {
     "name": "Wall.Street.Money.Never.Sleeps.2010.1080p.AC3.DTS.Eng.NLSubs-DMT.mkv",
@@ -2582,15 +3589,20 @@
     "title": "Wall Street Money Never Sleeps",
     "tags": "AC3 DTS Eng NLSubs-DMT",
     "format": "mkv",
-    "imdbUrl": "http://www.imdb.com/title/tt2026361/",
+    "imdbUrl": "http://www.imdb.com/title/tt1733912/",
     "imdbUrls": [
-      "http://www.imdb.com/title/tt2026361/",
       "http://www.imdb.com/title/tt1733912/",
+      "http://www.imdb.com/title/tt2026361/",
       "http://www.imdb.com/title/tt1733402/",
-      "http://www.imdb.com/title/tt1734288/",
-      "http://www.imdb.com/title/tt2286993/"
+      "http://www.imdb.com/title/tt2286993/",
+      "http://www.imdb.com/title/tt1734288/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "Wall Street Money Never Sleeps=Wall.Street.Money.Never.Sleeps.2010.1080p.AC3.DTS.Eng.NLSubs-DMT.mkv",
+    "genres": [
+      "Documentary"
+    ],
+    "imdbRating": ""
   },
   "X-Men 3 - Der letzte Widerstand=X-Men 3 - Der letzte Widerstand (1080p).mkv": {
     "name": "X-Men 3 - Der letzte Widerstand (1080p).mkv",
@@ -2598,7 +3610,8 @@
     "quality": "1080p",
     "title": "X-Men 3 - Der letzte Widerstand",
     "tags": "()",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "X-Men 3 - Der letzte Widerstand=X-Men 3 - Der letzte Widerstand (1080p).mkv"
   },
   "War=War 1080p.mkv": {
     "name": "War 1080p.mkv",
@@ -2616,7 +3629,8 @@
       "http://www.imdb.com/title/tt0076759/"
     ],
     "year": "2007",
-    "cover": "/media/rm3311768320/tt0499556"
+    "cover": "/media/rm3311768320/tt0499556",
+    "id": "War=War 1080p.mkv"
   },
   "Your Highness=Your.Highness.2011.UNRATED.720p.BluRay.X264-AMIABLE.mkv": {
     "name": "Your.Highness.2011.UNRATED.720p.BluRay.X264-AMIABLE.mkv",
@@ -2629,13 +3643,20 @@
     "imdbUrl": "http://www.imdb.com/title/tt1240982/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1240982/",
+      "http://www.imdb.com/title/tt2141164/",
       "http://www.imdb.com/title/tt1896516/",
       "http://www.imdb.com/title/tt2125946/",
-      "http://www.imdb.com/title/tt2141164/",
-      "http://www.imdb.com/title/tt2133636/"
+      "http://www.imdb.com/title/tt2360159/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2077276672/tt1240982"
+    "cover": "/media/rm2077276672/tt1240982?ref_=tt_ov_i",
+    "id": "Your Highness=Your.Highness.2011.UNRATED.720p.BluRay.X264-AMIABLE.mkv",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "imdbRating": "5.5"
   },
   "Underworld Evolution=Underworld Evolution 720p.mkv": {
     "name": "Underworld Evolution 720p.mkv",
@@ -2649,7 +3670,10 @@
       "http://www.imdb.com/title/tt1979619/",
       "http://www.imdb.com/title/tt0401855/",
       "http://www.imdb.com/title/tt0770825/"
-    ]
+    ],
+    "id": "Underworld Evolution=Underworld Evolution 720p.mkv",
+    "genres": [],
+    "imdbRating": ""
   },
   "Wallstreet=Wallstreet (720p).mkv": {
     "name": "Wallstreet (720p).mkv",
@@ -2666,7 +3690,13 @@
       "http://www.imdb.com/title/tt2574064/",
       "http://www.imdb.com/title/tt0097505/"
     ],
-    "year": "1997"
+    "year": "1997",
+    "id": "Wallstreet=Wallstreet (720p).mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Documentary"
+    ],
+    "imdbRating": "7.7"
   },
   "Warrior=Warrior.2011.1080p.mkv": {
     "name": "Warrior.2011.1080p.mkv",
@@ -2681,11 +3711,17 @@
       "http://www.imdb.com/title/tt1291584/",
       "http://www.imdb.com/title/tt1623772/",
       "http://www.imdb.com/title/tt1845365/",
-      "http://www.imdb.com/title/tt2156931/",
-      "http://www.imdb.com/title/tt2153891/"
+      "http://www.imdb.com/title/tt2153891/",
+      "http://www.imdb.com/title/tt2097945/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3695229952/tt1291584"
+    "cover": "/media/rm3695229952/tt1291584?ref_=tt_ov_i",
+    "id": "Warrior=Warrior.2011.1080p.mkv",
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "imdbRating": "8.2"
   },
   "Watership Down=Watership.Down.1978.720p.mkv": {
     "name": "Watership.Down.1978.720p.mkv",
@@ -2694,7 +3730,8 @@
     "quality": "720p",
     "title": "Watership Down",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Watership Down=Watership.Down.1978.720p.mkv"
   },
   "World Invasion Battle Los Angeles=World.Invasion.Battle.Los.Angeles.1080p.BluRay.x264-HDW.mkv": {
     "name": "World.Invasion.Battle.Los.Angeles.1080p.BluRay.x264-HDW.mkv",
@@ -2705,7 +3742,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt1217613/",
     "year": "2011",
-    "cover": "/media/rm471893248/tt1217613"
+    "cover": "/media/rm471893248/tt1217613?ref_=tt_ov_i",
+    "id": "World Invasion Battle Los Angeles=World.Invasion.Battle.Los.Angeles.1080p.BluRay.x264-HDW.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "imdbRating": "5.8"
   },
   "X-Men=X-Men.2000.German.DTS.DL.1080p.BluRay.x264-SoW.mkv": {
     "name": "X-Men.2000.German.DTS.DL.1080p.BluRay.x264-SoW.mkv",
@@ -2720,18 +3764,26 @@
       "http://www.imdb.com/title/tt0120903/",
       "http://www.imdb.com/title/tt0247827/",
       "http://www.imdb.com/title/tt0254878/",
-      "http://www.imdb.com/title/tt0486053/",
-      "http://www.imdb.com/title/tt0594962/"
+      "http://www.imdb.com/title/tt0594962/",
+      "http://www.imdb.com/title/tt0486053/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm731881216/tt0120903"
+    "cover": "/media/rm731881216/tt0120903?ref_=tt_ov_i",
+    "id": "X-Men=X-Men.2000.German.DTS.DL.1080p.BluRay.x264-SoW.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": "7.4"
   },
   "X - Men 4 - Origins Wolverine=X - Men 4 - Origins Wolverine.mkv": {
     "name": "X - Men 4 - Origins Wolverine.mkv",
     "dir": "F:/Filme",
     "title": "X - Men 4 - Origins Wolverine",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "X - Men 4 - Origins Wolverine=X - Men 4 - Origins Wolverine.mkv"
   },
   "1 - Resident Evil=1 - Resident Evil (2002, 1080p, 1920x1080, deutsch+sub, englisch, Uncut.DTS-HD.BluRay.AVC.REMUX-HDS).mkv": {
     "name": "1 - Resident Evil (2002, 1080p, 1920x1080, deutsch+sub, englisch, Uncut.DTS-HD.BluRay.AVC.REMUX-HDS).mkv",
@@ -2741,7 +3793,8 @@
     "year": "1920x1080",
     "quality": "1080p",
     "tags": "(, , 1920x1080, deutsch+sub, englisch, Uncut DTS-HD BluRay AVC REMUX-HDS)",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "1 - Resident Evil=1 - Resident Evil (2002, 1080p, 1920x1080, deutsch+sub, englisch, Uncut.DTS-HD.BluRay.AVC.REMUX-HDS).mkv"
   },
   "12 Monkeys=12 Monkeys (1080p).mkv": {
     "name": "12 Monkeys (1080p).mkv",
@@ -2752,7 +3805,15 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0114746/",
     "year": "1995",
-    "cover": "/media/rm2979965952/tt0114746"
+    "cover": "/media/rm2979965952/tt0114746?ref_=tt_ov_i",
+    "id": "12 Monkeys=12 Monkeys (1080p).mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "imdbRating": "8.1"
   },
   "2 - Resident Evil  Apocalypse=2 - Resident Evil_ Apocalypse (2004, 1080p, 1920x1080, deutsch+sub, englisch, Uncut.DTS-HD.BluRay.AVC.REMUX-HDS).mkv": {
     "name": "2 - Resident Evil_ Apocalypse (2004, 1080p, 1920x1080, deutsch+sub, englisch, Uncut.DTS-HD.BluRay.AVC.REMUX-HDS).mkv",
@@ -2761,7 +3822,8 @@
     "quality": "1080p",
     "title": "2 - Resident Evil  Apocalypse",
     "tags": "(, , 1920x1080, deutsch+sub, englisch, Uncut DTS-HD BluRay AVC REMUX-HDS)",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "2 - Resident Evil  Apocalypse=2 - Resident Evil_ Apocalypse (2004, 1080p, 1920x1080, deutsch+sub, englisch, Uncut.DTS-HD.BluRay.AVC.REMUX-HDS).mkv"
   },
   "3 - Resident Evil  Extinction=3 - Resident Evil_ Extinction (2007, 1080p, 1920x1080, deutsch+sub, englisch, Uncut.DTS-HD.BluRay.AVC.REMUX-HDS).mkv": {
     "name": "3 - Resident Evil_ Extinction (2007, 1080p, 1920x1080, deutsch+sub, englisch, Uncut.DTS-HD.BluRay.AVC.REMUX-HDS).mkv",
@@ -2770,7 +3832,8 @@
     "quality": "1080p",
     "title": "3 - Resident Evil  Extinction",
     "tags": "(, , 1920x1080, deutsch+sub, englisch, Uncut DTS-HD BluRay AVC REMUX-HDS)",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "3 - Resident Evil  Extinction=3 - Resident Evil_ Extinction (2007, 1080p, 1920x1080, deutsch+sub, englisch, Uncut.DTS-HD.BluRay.AVC.REMUX-HDS).mkv"
   },
   "6 bullets=6.bullets.2012.1080p.mkv": {
     "name": "6.bullets.2012.1080p.mkv",
@@ -2782,7 +3845,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt1975249/",
     "yearConfirmed": true,
-    "cover": "/media/rm1050257920/tt1975249"
+    "cover": "/media/rm1050257920/tt1975249?ref_=tt_ov_i",
+    "id": "6 bullets=6.bullets.2012.1080p.mkv",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdbRating": "6.0"
   },
   "4 - Resident Evil  Afterlife=4 - Resident Evil_ Afterlife (2010, 1080p, 1920x1080, deutsch+sub, englisch, Uncut.DTS-HD.BluRay.AVC.REMUX-HDS).mkv": {
     "name": "4 - Resident Evil_ Afterlife (2010, 1080p, 1920x1080, deutsch+sub, englisch, Uncut.DTS-HD.BluRay.AVC.REMUX-HDS).mkv",
@@ -2791,7 +3861,8 @@
     "quality": "1080p",
     "title": "4 - Resident Evil  Afterlife",
     "tags": "(, , 1920x1080, deutsch+sub, englisch, Uncut DTS-HD BluRay AVC REMUX-HDS)",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "4 - Resident Evil  Afterlife=4 - Resident Evil_ Afterlife (2010, 1080p, 1920x1080, deutsch+sub, englisch, Uncut.DTS-HD.BluRay.AVC.REMUX-HDS).mkv"
   },
   "A Clockwork Orange=A Clockwork Orange (1971, dt+en).mkv": {
     "name": "A Clockwork Orange (1971, dt+en).mkv",
@@ -2800,7 +3871,8 @@
     "wellFormated": true,
     "year": "1971",
     "tags": "(, dt+en)",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "A Clockwork Orange=A Clockwork Orange (1971, dt+en).mkv"
   },
   "A Fistful Of Dollars=A Fistful Of Dollars (1080p).it.en.mkv": {
     "name": "A Fistful Of Dollars (1080p).it.en.mkv",
@@ -2817,7 +3889,13 @@
       "http://www.imdb.com/title/tt1816777/",
       "http://www.imdb.com/title/tt1134573/"
     ],
-    "year": "1989"
+    "year": "1989",
+    "id": "A Fistful Of Dollars=A Fistful Of Dollars (1080p).it.en.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "News"
+    ],
+    "imdbRating": ""
   },
   "Abraham Lincoln Vampire Hunter=Abraham.Lincoln.Vampire.Hunter.2012.1080p.mkv": {
     "name": "Abraham.Lincoln.Vampire.Hunter.2012.1080p.mkv",
@@ -2832,10 +3910,15 @@
       "http://www.imdb.com/title/tt2223872/",
       "http://www.imdb.com/title/tt2396396/",
       "http://www.imdb.com/title/tt2223546/",
-      "http://www.imdb.com/title/tt2198418/",
-      "http://www.imdb.com/title/tt2312538/"
+      "http://www.imdb.com/title/tt2312538/",
+      "http://www.imdb.com/title/tt2198418/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "Abraham Lincoln Vampire Hunter=Abraham.Lincoln.Vampire.Hunter.2012.1080p.mkv",
+    "genres": [
+      "Talk-Show"
+    ],
+    "imdbRating": ""
   },
   "American Reunion UNRATED=American.Reunion.UNRATED.720p.BluRay.X264-BLOW.mkv": {
     "name": "American.Reunion.UNRATED.720p.BluRay.X264-BLOW.mkv",
@@ -2843,7 +3926,8 @@
     "quality": "720p",
     "title": "American Reunion UNRATED",
     "tags": "BluRay X264-BLOW",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "American Reunion UNRATED=American.Reunion.UNRATED.720p.BluRay.X264-BLOW.mkv"
   },
   "Annie Hall=Annie.Hall.1977.720p.HDTV.x264.mkv": {
     "name": "Annie.Hall.1977.720p.HDTV.x264.mkv",
@@ -2852,7 +3936,8 @@
     "quality": "720p",
     "title": "Annie Hall",
     "tags": "HDTV x264",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Annie Hall=Annie.Hall.1977.720p.HDTV.x264.mkv"
   },
   "argo=argo.2012.1080p.bluray.x264-sparks.mkv": {
     "name": "argo.2012.1080p.bluray.x264-sparks.mkv",
@@ -2865,13 +3950,20 @@
     "imdbUrl": "http://www.imdb.com/title/tt1024648/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1024648/",
-      "http://www.imdb.com/title/tt2249090/",
       "http://www.imdb.com/title/tt2515524/",
       "http://www.imdb.com/title/tt2474748/",
-      "http://www.imdb.com/title/tt2615272/"
+      "http://www.imdb.com/title/tt2615272/",
+      "http://www.imdb.com/title/tt2249090/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1459334656/tt1024648"
+    "cover": "/media/rm1459334656/tt1024648?ref_=tt_ov_i",
+    "id": "argo=argo.2012.1080p.bluray.x264-sparks.mkv",
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "imdbRating": "7.9"
   },
   "Avatar=Avatar.2009.Collectors.Ext.Cut.1080p.BluRay.DTS.dxva.x264.D-Z0N3.mkv": {
     "name": "Avatar.2009.Collectors.Ext.Cut.1080p.BluRay.DTS.dxva.x264.D-Z0N3.mkv",
@@ -2890,7 +3982,14 @@
       "http://www.imdb.com/title/tt1851104/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm843615744/tt0499549"
+    "cover": "/media/rm843615744/tt0499549?ref_=tt_ov_i",
+    "id": "Avatar=Avatar.2009.Collectors.Ext.Cut.1080p.BluRay.DTS.dxva.x264.D-Z0N3.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": "8.0"
   },
   "Bad Ass=Bad.Ass.2012.1080p.BluRay.x264.DTS-HDC.mkv": {
     "name": "Bad.Ass.2012.1080p.BluRay.x264.DTS-HDC.mkv",
@@ -2908,7 +4007,13 @@
       "http://www.imdb.com/title/tt2289000/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1242740480/tt1928330"
+    "cover": "/media/rm1242740480/tt1928330?ref_=tt_ov_i",
+    "id": "Bad Ass=Bad.Ass.2012.1080p.BluRay.x264.DTS-HDC.mkv",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "imdbRating": "5.3"
   },
   "AVP Alien vs  Predator Urated=AVP Alien vs. Predator Urated [2004] Bluray.720p X264 dxva - PRESTiGE.mkv": {
     "name": "AVP Alien vs. Predator Urated [2004] Bluray.720p X264 dxva - PRESTiGE.mkv",
@@ -2917,7 +4022,8 @@
     "quality": "720p",
     "title": "AVP Alien vs  Predator Urated",
     "tags": "[] Bluray  X264 dxva - PRESTiGE",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "AVP Alien vs  Predator Urated=AVP Alien vs. Predator Urated [2004] Bluray.720p X264 dxva - PRESTiGE.mkv"
   },
   "Batman Begins=Batman Begins (2005, 1080p).mkv": {
     "name": "Batman Begins (2005, 1080p).mkv",
@@ -2932,12 +4038,19 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt0372784/",
       "http://www.imdb.com/title/tt0450392/",
-      "http://www.imdb.com/title/tt0485689/",
       "http://www.imdb.com/title/tt1074939/",
+      "http://www.imdb.com/title/tt0485689/",
       "http://www.imdb.com/title/tt0485593/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm955554048/tt0372784"
+    "cover": "/media/rm955554048/tt0372784?ref_=tt_ov_i",
+    "id": "Batman Begins=Batman Begins (2005, 1080p).mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "imdbRating": "8.3"
   },
   "Batman Year One=Batman.Year.One.2011.1080p.mkv": {
     "name": "Batman.Year.One.2011.1080p.mkv",
@@ -2953,7 +4066,14 @@
       "http://www.imdb.com/title/tt2098631/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm4257395200/tt1672723"
+    "cover": "/media/rm4257395200/tt1672723?ref_=tt_ov_i",
+    "id": "Batman Year One=Batman.Year.One.2011.1080p.mkv",
+    "genres": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "imdbRating": "7.2"
   },
   "batman the dark knight returns part=batman.the.dark.knight.returns.part.1.2012.1080p.mkv": {
     "name": "batman.the.dark.knight.returns.part.1.2012.1080p.mkv",
@@ -2962,7 +4082,8 @@
     "quality": "1080p",
     "title": "batman the dark knight returns part",
     "tags": "1.",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "batman the dark knight returns part=batman.the.dark.knight.returns.part.1.2012.1080p.mkv"
   },
   "battleship=battleship.2012.1080p.bluray.x264-sparks.mkv": {
     "name": "battleship.2012.1080p.bluray.x264-sparks.mkv",
@@ -2978,10 +4099,17 @@
       "http://www.imdb.com/title/tt2306461/",
       "http://www.imdb.com/title/tt2654588/",
       "http://www.imdb.com/title/tt0218029/",
-      "http://www.imdb.com/title/tt0219577/"
+      "http://www.imdb.com/title/tt0226059/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2235151104/tt1440129"
+    "cover": "/media/rm2235151104/tt1440129?ref_=tt_ov_i",
+    "id": "battleship=battleship.2012.1080p.bluray.x264-sparks.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": "5.9"
   },
   "Blue Valentine=Blue Valentine 1080p.mkv": {
     "name": "Blue Valentine 1080p.mkv",
@@ -2999,7 +4127,14 @@
       "http://www.imdb.com/title/tt2135293/"
     ],
     "year": "2010",
-    "cover": "/media/rm1232439040/tt1120985"
+    "cover": "/media/rm1232439040/tt1120985?ref_=tt_ov_i",
+    "id": "Blue Valentine=Blue Valentine 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": "7.4"
   },
   "Braveheart=Braveheart.1995.720p.BluRay.x264-SiNNERS.mkv": {
     "name": "Braveheart.1995.720p.BluRay.x264-SiNNERS.mkv",
@@ -3017,7 +4152,14 @@
       "http://www.imdb.com/title/tt1126487/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2390928384/tt0112573"
+    "cover": "/media/rm2390928384/tt0112573?ref_=tt_ov_i",
+    "id": "Braveheart=Braveheart.1995.720p.BluRay.x264-SiNNERS.mkv",
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "imdbRating": "8.4"
   },
   "Braveheart=Braveheart.mkv": {
     "name": "Braveheart.mkv",
@@ -3028,13 +4170,13 @@
     "imdbUrl": "http://www.imdb.com/title/tt0112573/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0112573/",
-      "http://www.imdb.com/title/tt0015643/",
-      "http://www.imdb.com/title/tt1775397/",
-      "http://www.imdb.com/title/tt0365492/",
-      "http://www.imdb.com/title/tt0325339/"
+      "http://www.imdb.com/title/tt1117449/",
+      "http://www.imdb.com/title/tt2256635/",
+      "http://www.imdb.com/title/tt1126487/"
     ],
     "year": "1995",
-    "cover": "/media/rm2390928384/tt0112573"
+    "cover": "/media/rm2390928384/tt0112573",
+    "id": "Braveheart=Braveheart.mkv"
   },
   "Broken Flowers=Broken.Flowers.2005.720p.BluRay.DTS.x264-CRiSC.mkv": {
     "name": "Broken.Flowers.2005.720p.BluRay.DTS.x264-CRiSC.mkv",
@@ -3046,8 +4188,15 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0412019/",
     "yearConfirmed": true,
-    "cover": "/media/rm2233572608/tt0412019",
-    "coverLoaded": true
+    "cover": "/media/rm2233572608/tt0412019?ref_=tt_ov_i",
+    "coverLoaded": true,
+    "id": "Broken Flowers=Broken.Flowers.2005.720p.BluRay.DTS.x264-CRiSC.mkv",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "imdbRating": "7.2"
   },
   "Cleanskin=Cleanskin.mkv": {
     "name": "Cleanskin.mkv",
@@ -3061,7 +4210,15 @@
       "http://www.imdb.com/title/tt2324809/"
     ],
     "year": "2012",
-    "cover": "/media/rm3214652928/tt1598873"
+    "cover": "/media/rm3214652928/tt1598873?ref_=tt_ov_i",
+    "id": "Cleanskin=Cleanskin.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": "6.2"
   },
   "City Of Ember=City Of Ember 2008 720p BluRay x264 RETEIL.mkv": {
     "name": "City Of Ember 2008 720p BluRay x264 RETEIL.mkv",
@@ -3077,7 +4234,14 @@
       "http://www.imdb.com/title/tt1299595/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2896466944/tt0970411"
+    "cover": "/media/rm2896466944/tt0970411?ref_=tt_ov_i",
+    "id": "City Of Ember=City Of Ember 2008 720p BluRay x264 RETEIL.mkv",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "imdbRating": "6.4"
   },
   "Burn After Reading=Burn After Reading (2008) [mkvonly].mkv": {
     "name": "Burn After Reading (2008) [mkvonly].mkv",
@@ -3094,7 +4258,14 @@
       "http://www.imdb.com/title/tt1657655/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm491558656/tt0887883"
+    "cover": "/media/rm491558656/tt0887883?ref_=tt_ov_i",
+    "id": "Burn After Reading=Burn After Reading (2008) [mkvonly].mkv",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": "7.0"
   },
   "Contraband=Contraband.mkv": {
     "name": "Contraband.mkv",
@@ -3105,13 +4276,14 @@
     "imdbUrl": "http://www.imdb.com/title/tt1524137/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1524137/",
-      "http://www.imdb.com/title/tt0032356/",
-      "http://www.imdb.com/title/tt2471940/",
-      "http://www.imdb.com/title/tt1910520/",
-      "http://www.imdb.com/title/tt0046872/"
+      "http://www.imdb.com/title/tt2125202/",
+      "http://www.imdb.com/title/tt2186105/",
+      "http://www.imdb.com/title/tt2317042/",
+      "http://www.imdb.com/title/tt2490492/"
     ],
     "year": "2012",
-    "cover": "/media/rm2630594560/tt1524137"
+    "cover": "/media/rm2630594560/tt1524137",
+    "id": "Contraband=Contraband.mkv"
   },
   "Cloud Atlas=Cloud.Atlas.2012 .BluRay.1080p.5.1CH.x264.Ganool.mkv": {
     "name": "Cloud.Atlas.2012 .BluRay.1080p.5.1CH.x264.Ganool.mkv",
@@ -3127,7 +4299,14 @@
       "http://www.imdb.com/title/tt2615538/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm910339584/tt1371111"
+    "cover": "/media/rm910339584/tt1371111?ref_=tt_ov_i",
+    "id": "Cloud Atlas=Cloud.Atlas.2012 .BluRay.1080p.5.1CH.x264.Ganool.mkv",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "imdbRating": "7.7"
   },
   "Colombiana=Colombiana.2011.HDRip.READNFO.XviD.AC3-BHP.avi": {
     "name": "Colombiana.2011.HDRip.READNFO.XviD.AC3-BHP.avi",
@@ -3144,7 +4323,14 @@
       "http://www.imdb.com/title/tt1956603/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1801108992/tt1657507"
+    "cover": "/media/rm1801108992/tt1657507?ref_=tt_ov_i",
+    "id": "Colombiana=Colombiana.2011.HDRip.READNFO.XviD.AC3-BHP.avi",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": "6.2"
   },
   "Daybreakers=Daybreakers 1080p.mkv": {
     "name": "Daybreakers 1080p.mkv",
@@ -3162,7 +4348,15 @@
       "http://www.imdb.com/title/tt1821065/"
     ],
     "year": "2009",
-    "cover": "/media/rm2432928000/tt0433362"
+    "cover": "/media/rm2432928000/tt0433362?ref_=tt_ov_i",
+    "id": "Daybreakers=Daybreakers 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "imdbRating": "6.5"
   },
   "Children of Men=Children of Men (BDrip 1080p ENG-ITA-FRA-GER-SPA - DTS) multisub x264 bluray (2006).mkv": {
     "name": "Children of Men (BDrip 1080p ENG-ITA-FRA-GER-SPA - DTS) multisub x264 bluray (2006).mkv",
@@ -3178,7 +4372,14 @@
       "http://www.imdb.com/title/tt2135135/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3042349568/tt0206634"
+    "cover": "/media/rm3042349568/tt0206634?ref_=tt_ov_i",
+    "id": "Children of Men=Children of Men (BDrip 1080p ENG-ITA-FRA-GER-SPA - DTS) multisub x264 bluray (2006).mkv",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "imdbRating": "7.9"
   },
   "Demolition Man=Demolition Man (1993, 720p, 1280x720, deutsch, englisch, x264.DD51).mkv": {
     "name": "Demolition Man (1993, 720p, 1280x720, deutsch, englisch, x264.DD51).mkv",
@@ -3195,7 +4396,14 @@
       "http://www.imdb.com/title/tt1950834/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3464075520/tt0106697"
+    "cover": "/media/rm3464075520/tt0106697?ref_=tt_ov_i",
+    "id": "Demolition Man=Demolition Man (1993, 720p, 1280x720, deutsch, englisch, x264.DD51).mkv",
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "imdbRating": "6.5"
   },
   "Dirty Harry=Dirty Harry.mkv": {
     "name": "Dirty Harry.mkv",
@@ -3213,7 +4421,8 @@
     ],
     "year": "1971",
     "cover": "/media/rm2603523072/tt0066999",
-    "coverLoaded": true
+    "coverLoaded": true,
+    "id": "Dirty Harry=Dirty Harry.mkv"
   },
   "Das fünfte Element=Das fünfte Element (1997, 1280x528, de-ac3, en-ac3).mkv": {
     "name": "Das fünfte Element (1997, 1280x528, de-ac3, en-ac3).mkv",
@@ -3225,7 +4434,8 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0119116/",
     "yearConfirmed": true,
-    "cover": "/media/rm850107904/tt0119116"
+    "cover": "/media/rm850107904/tt0119116",
+    "id": "Das fünfte Element=Das fünfte Element (1997, 1280x528, de-ac3, en-ac3).mkv"
   },
   "Equilibrium=Equilibrium.2002.1080p.BluRay.x264-AVCHD.mkv": {
     "name": "Equilibrium.2002.1080p.BluRay.x264-AVCHD.mkv",
@@ -3237,7 +4447,8 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0238380/",
     "yearConfirmed": true,
-    "cover": "/media/rm4126777088/tt0238380"
+    "cover": "/media/rm4126777088/tt0238380",
+    "id": "Equilibrium=Equilibrium.2002.1080p.BluRay.x264-AVCHD.mkv"
   },
   "Expendables=Expendables.1080p.mkv": {
     "name": "Expendables.1080p.mkv",
@@ -3249,13 +4460,14 @@
     "imdbUrl": "http://www.imdb.com/title/tt1320253/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1320253/",
-      "http://www.imdb.com/title/tt0244505/",
-      "http://www.imdb.com/title/tt1764651/",
       "http://www.imdb.com/title/tt2333784/",
-      "http://www.imdb.com/title/tt0095122/"
+      "http://www.imdb.com/title/tt1687890/",
+      "http://www.imdb.com/title/tt1734062/",
+      "http://www.imdb.com/title/tt1799680/"
     ],
     "year": "2010",
-    "cover": "/media/rm3711009280/tt1320253"
+    "cover": "/media/rm3711009280/tt1320253",
+    "id": "Expendables=Expendables.1080p.mkv"
   },
   "everybodys fine=everybodys.fine.2009.1080p.bluray.x264-brmp.mkv": {
     "name": "everybodys.fine.2009.1080p.bluray.x264-brmp.mkv",
@@ -3264,7 +4476,8 @@
     "quality": "1080p",
     "title": "everybodys fine",
     "tags": "bluray x264-brmp",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "everybodys fine=everybodys.fine.2009.1080p.bluray.x264-brmp.mkv"
   },
   "Few Words=Few Words.mkv": {
     "name": "Few Words.mkv",
@@ -3280,7 +4493,8 @@
       "http://www.imdb.com/title/tt0931588/",
       "http://www.imdb.com/title/tt2057891/"
     ],
-    "year": "2000"
+    "year": "2000",
+    "id": "Few Words=Few Words.mkv"
   },
   "Extremely Loud and Incredibly Close=Extremely.Loud.and.Incredibly.Close.2011.1080p.BluRay.X264-AMIABLE.mkv": {
     "name": "Extremely.Loud.and.Incredibly.Close.2011.1080p.BluRay.X264-AMIABLE.mkv",
@@ -3291,7 +4505,12 @@
     "tags": "BluRay X264-AMIABLE",
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt2692802/",
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "Extremely Loud and Incredibly Close=Extremely.Loud.and.Incredibly.Close.2011.1080p.BluRay.X264-AMIABLE.mkv",
+    "genres": [
+      "Talk-Show"
+    ],
+    "imdbRating": ""
   },
   "Fire With Fire=Fire.With.Fire.2012.BluRay.1080p.DTS.dxva.x264-FLAWL3SS.mkv": {
     "name": "Fire.With.Fire.2012.BluRay.1080p.DTS.dxva.x264-FLAWL3SS.mkv",
@@ -3311,7 +4530,8 @@
     ],
     "yearConfirmed": true,
     "cover": "/media/rm1279045376/tt1925431",
-    "coverLoaded": true
+    "coverLoaded": true,
+    "id": "Fire With Fire=Fire.With.Fire.2012.BluRay.1080p.DTS.dxva.x264-FLAWL3SS.mkv"
   },
   "Friends with Benefits=Friends.with.Benefits.2011.BluRay.720p.x264.DTS-HDChina.mkv": {
     "name": "Friends.with.Benefits.2011.BluRay.720p.x264.DTS-HDChina.mkv",
@@ -3329,7 +4549,8 @@
       "http://www.imdb.com/title/tt2305423/",
       "http://www.imdb.com/title/tt2581474/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "Friends with Benefits=Friends.with.Benefits.2011.BluRay.720p.x264.DTS-HDChina.mkv"
   },
   "Gamer=Gamer 1080p.mkv": {
     "name": "Gamer 1080p.mkv",
@@ -3341,13 +4562,21 @@
     "imdbUrl": "http://www.imdb.com/title/tt1034032/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1034032/",
-      "http://www.imdb.com/title/tt0262429/",
-      "http://www.imdb.com/title/tt0839831/",
-      "http://www.imdb.com/title/tt0447166/",
-      "http://www.imdb.com/title/tt1466565/"
+      "http://www.imdb.com/title/tt1838374/",
+      "http://www.imdb.com/title/tt1368488/",
+      "http://www.imdb.com/title/tt1347334/",
+      "http://www.imdb.com/title/tt1775409/"
     ],
     "year": "2009",
-    "cover": "/media/rm1878165504/tt1034032"
+    "cover": "/media/rm1878165504/tt1034032?ref_=tt_ov_i",
+    "id": "Gamer=Gamer 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "imdbRating": "5.7"
   },
   "Der Ghostwriter German AC3D DL=Der.Ghostwriter.German.AC3D.DL.1080p.Bluray.x264-HDW.mkv": {
     "name": "Der.Ghostwriter.German.AC3D.DL.1080p.Bluray.x264-HDW.mkv",
@@ -3355,7 +4584,8 @@
     "quality": "1080p",
     "title": "Der Ghostwriter German AC3D DL",
     "tags": "Bluray x264-HDW",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Der Ghostwriter German AC3D DL=Der.Ghostwriter.German.AC3D.DL.1080p.Bluray.x264-HDW.mkv"
   },
   "Footloose=Footloose.2011.1080p.BluRay.x264-RRH.mkv": {
     "name": "Footloose.2011.1080p.BluRay.x264-RRH.mkv",
@@ -3369,13 +4599,20 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt1068242/",
       "http://www.imdb.com/title/tt2069039/",
-      "http://www.imdb.com/title/tt2039590/",
+      "http://www.imdb.com/title/tt2083240/",
       "http://www.imdb.com/title/tt2324813/",
-      "http://www.imdb.com/title/tt2071115/"
+      "http://www.imdb.com/title/tt2039590/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm282573824/tt1068242",
-    "coverLoaded": true
+    "cover": "/media/rm282573824/tt1068242?ref_=tt_ov_i",
+    "coverLoaded": true,
+    "id": "Footloose=Footloose.2011.1080p.BluRay.x264-RRH.mkv",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "imdbRating": "5.5"
   },
   "Finding Nemo=Finding_Nemo_1080i.mkv": {
     "name": "Finding_Nemo_1080i.mkv",
@@ -3392,7 +4629,8 @@
       "http://www.imdb.com/title/tt1643048/",
       "http://www.imdb.com/title/tt0982595/"
     ],
-    "year": "2003"
+    "year": "2003",
+    "id": "Finding Nemo=Finding_Nemo_1080i.mkv"
   },
   "Final Fantasy Advent Children Complete=Final_Fantasy_Advent_Children_Complete_(2009)_[1080p,BluRay,x264,DTS]_-_THORA.mkv": {
     "name": "Final_Fantasy_Advent_Children_Complete_(2009)_[1080p,BluRay,x264,DTS]_-_THORA.mkv",
@@ -3401,7 +4639,8 @@
     "quality": "1080pBluRayx264DTS",
     "title": "Final Fantasy Advent Children Complete",
     "tags": "() [,BluRay,x264,DTS] -_THORA",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Final Fantasy Advent Children Complete=Final_Fantasy_Advent_Children_Complete_(2009)_[1080p,BluRay,x264,DTS]_-_THORA.mkv"
   },
   "Die Insel=Die Insel 1080p.mkv": {
     "name": "Die Insel 1080p.mkv",
@@ -3413,13 +4652,19 @@
     "imdbUrl": "http://www.imdb.com/title/tt0399201/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0399201/",
-      "http://www.imdb.com/title/tt0025308/",
-      "http://www.imdb.com/title/tt2414124/",
-      "http://www.imdb.com/title/tt1981053/",
-      "http://www.imdb.com/title/tt0003015/"
+      "http://www.imdb.com/title/tt0448965/",
+      "http://www.imdb.com/title/tt0401559/"
     ],
     "year": "2005",
-    "cover": "/media/rm1899072512/tt0399201"
+    "cover": "/media/rm1899072512/tt0399201?ref_=tt_ov_i",
+    "id": "Die Insel=Die Insel 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": "6.8"
   },
   "God Bless America=God.Bless.America.2011.720p.HDRiP.AC3-5.1.x264-SiC.mkv": {
     "name": "God.Bless.America.2011.720p.HDRiP.AC3-5.1.x264-SiC.mkv",
@@ -3431,7 +4676,8 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt1912398/",
     "yearConfirmed": true,
-    "cover": "/media/rm2887954688/tt1912398"
+    "cover": "/media/rm2887954688/tt1912398",
+    "id": "God Bless America=God.Bless.America.2011.720p.HDRiP.AC3-5.1.x264-SiC.mkv"
   },
   "GoldenEye=GoldenEye.1995.1080p.BluRay.X264-AMIABLE.mkv": {
     "name": "GoldenEye.1995.1080p.BluRay.X264-AMIABLE.mkv",
@@ -3447,7 +4693,8 @@
       "http://www.imdb.com/title/tt0934849/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm355239168/tt0113189"
+    "cover": "/media/rm355239168/tt0113189",
+    "id": "GoldenEye=GoldenEye.1995.1080p.BluRay.X264-AMIABLE.mkv"
   },
   "Grabbers=Grabbers.mkv": {
     "name": "Grabbers.mkv",
@@ -3464,7 +4711,8 @@
       "http://www.imdb.com/title/tt1458720/"
     ],
     "year": "2012",
-    "cover": "/media/rm566930688/tt1525366"
+    "cover": "/media/rm566930688/tt1525366",
+    "id": "Grabbers=Grabbers.mkv"
   },
   "Hancock=Hancock 1080p Extended Cut [AC3 ITA-ENG + SUB ITA-ENG].mkv": {
     "name": "Hancock 1080p Extended Cut [AC3 ITA-ENG + SUB ITA-ENG].mkv",
@@ -3482,7 +4730,8 @@
       "http://www.imdb.com/title/tt0124703/"
     ],
     "year": "2008",
-    "cover": "/media/rm871864576/tt0448157"
+    "cover": "/media/rm871864576/tt0448157",
+    "id": "Hancock=Hancock 1080p Extended Cut [AC3 ITA-ENG + SUB ITA-ENG].mkv"
   },
   "Haywire=Haywire.2011.720p.BluRay.X264-BLOW.mkv": {
     "name": "Haywire.2011.720p.BluRay.X264-BLOW.mkv",
@@ -3500,7 +4749,13 @@
       "http://www.imdb.com/title/tt2585862/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2398990336/tt1506999"
+    "cover": "/media/rm2398990336/tt1506999?ref_=tt_ov_i",
+    "id": "Haywire=Haywire.2011.720p.BluRay.X264-BLOW.mkv",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "imdbRating": "5.9"
   },
   "Hangover 2=Hangover 2 (2011, 704x288, deutsch, AC3.BDRip.XviD-RSG).avi": {
     "name": "Hangover 2 (2011, 704x288, deutsch, AC3.BDRip.XviD-RSG).avi",
@@ -3512,7 +4767,12 @@
     "format": "avi",
     "imdbUrl": "http://www.imdb.com/title/tt1411697/",
     "yearConfirmed": true,
-    "cover": "/media/rm3944266496/tt1411697"
+    "cover": "/media/rm3944266496/tt1411697?ref_=tt_ov_i",
+    "id": "Hangover 2=Hangover 2 (2011, 704x288, deutsch, AC3.BDRip.XviD-RSG).avi",
+    "genres": [
+      "Comedy"
+    ],
+    "imdbRating": "6.5"
   },
   "Hot Shots!=Hot.Shots!.1991.720p.HDTV.x264-shon3i.mkv": {
     "name": "Hot.Shots!.1991.720p.HDTV.x264-shon3i.mkv",
@@ -3528,7 +4788,8 @@
       "http://www.imdb.com/title/tt1896408/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3742143232/tt0102059"
+    "cover": "/media/rm3742143232/tt0102059",
+    "id": "Hot Shots!=Hot.Shots!.1991.720p.HDTV.x264-shon3i.mkv"
   },
   "Inception German+English DL=Inception German+English DL 1080p BluRay x264 - DECENT.mkv": {
     "name": "Inception German+English DL 1080p BluRay x264 - DECENT.mkv",
@@ -3536,7 +4797,8 @@
     "quality": "1080p",
     "title": "Inception German+English DL",
     "tags": "BluRay x264 - DECENT",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Inception German+English DL=Inception German+English DL 1080p BluRay x264 - DECENT.mkv"
   },
   "into the white=into.the.white.720p.rp.mkv": {
     "name": "into.the.white.720p.rp.mkv",
@@ -3548,11 +4810,11 @@
     "imdbUrl": "http://www.imdb.com/title/tt1876277/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1876277/",
-      "http://www.imdb.com/title/tt2013566/",
       "http://www.imdb.com/title/tt2557448/"
     ],
     "year": "2012",
-    "cover": "/media/rm2637865472/tt1876277"
+    "cover": "/media/rm2637865472/tt1876277",
+    "id": "into the white=into.the.white.720p.rp.mkv"
   },
   "Hick=Hick.2011.1080p.mkv": {
     "name": "Hick.2011.1080p.mkv",
@@ -3565,12 +4827,18 @@
     "imdbUrl": "http://www.imdb.com/title/tt1205558/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1205558/",
-      "http://www.imdb.com/title/tt2292800/",
       "http://www.imdb.com/title/tt1794585/",
-      "http://www.imdb.com/title/tt2354741/"
+      "http://www.imdb.com/title/tt2354741/",
+      "http://www.imdb.com/title/tt2292800/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1231861504/tt1205558"
+    "cover": "/media/rm1231861504/tt1205558?ref_=tt_ov_i",
+    "id": "Hick=Hick.2011.1080p.mkv",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "imdbRating": "5.3"
   },
   "Identity Thief=Identity.Thief.2013.720p.HDRip.XviD.AC3-SmY.avi": {
     "name": "Identity.Thief.2013.720p.HDRip.XviD.AC3-SmY.avi",
@@ -3588,7 +4856,8 @@
       "http://www.imdb.com/title/tt2726462/",
       "http://www.imdb.com/title/tt2789012/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "Identity Thief=Identity.Thief.2013.720p.HDRip.XviD.AC3-SmY.avi"
   },
   "Iron Sky=Iron Sky 1080p.mkv": {
     "name": "Iron Sky 1080p.mkv",
@@ -3604,7 +4873,8 @@
       "http://www.imdb.com/title/tt2740040/"
     ],
     "year": "2012",
-    "cover": "/media/rm4022315776/tt1034314"
+    "cover": "/media/rm4022315776/tt1034314",
+    "id": "Iron Sky=Iron Sky 1080p.mkv"
   },
   "James Bond - Quantum of Solace=James Bond - Quantum of Solace (2008) 1080p.mkv": {
     "name": "James Bond - Quantum of Solace (2008) 1080p.mkv",
@@ -3613,7 +4883,8 @@
     "quality": "1080p",
     "title": "James Bond - Quantum of Solace",
     "tags": "()",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "James Bond - Quantum of Solace=James Bond - Quantum of Solace (2008) 1080p.mkv"
   },
   "IMAX To The Arctic=IMAX.To.The.Arctic.2012.1080p.BluRay.x264-IGUANA.mkv": {
     "name": "IMAX.To.The.Arctic.2012.1080p.BluRay.x264-IGUANA.mkv",
@@ -3622,7 +4893,8 @@
     "quality": "1080p",
     "title": "IMAX To The Arctic",
     "tags": "BluRay x264-IGUANA",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "IMAX To The Arctic=IMAX.To.The.Arctic.2012.1080p.BluRay.x264-IGUANA.mkv"
   },
   "Human Traffic=Human.Traffic.1999.1080p.BluRay.x264-CiNEFiLE.mkv": {
     "name": "Human.Traffic.1999.1080p.BluRay.x264-CiNEFiLE.mkv",
@@ -3638,7 +4910,14 @@
       "http://www.imdb.com/title/tt0537327/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm779262976/tt0188674"
+    "cover": "/media/rm779262976/tt0188674?ref_=tt_ov_i",
+    "id": "Human Traffic=Human.Traffic.1999.1080p.BluRay.x264-CiNEFiLE.mkv",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "imdbRating": "6.7"
   },
   "Iron Man=Iron.Man.2.2010.RERiP.PROPER.1080p.BluRay.x264-HD4U.mkv": {
     "name": "Iron.Man.2.2010.RERiP.PROPER.1080p.BluRay.x264-HD4U.mkv",
@@ -3647,7 +4926,8 @@
     "quality": "1080p",
     "title": "Iron Man",
     "tags": "2. RERiP PROPER  BluRay x264-HD4U",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Iron Man=Iron.Man.2.2010.RERiP.PROPER.1080p.BluRay.x264-HD4U.mkv"
   },
   "James Bond 007 Goldfinger=James.Bond.007.Goldfinger.1964.720p.hdtv.x264-nbs.mkv": {
     "name": "James.Bond.007.Goldfinger.1964.720p.hdtv.x264-nbs.mkv",
@@ -3659,7 +4939,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0058150/",
     "yearConfirmed": true,
-    "cover": "/media/rm1865188608/tt0058150"
+    "cover": "/media/rm1865188608/tt0058150?ref_=tt_ov_i",
+    "id": "James Bond 007 Goldfinger=James.Bond.007.Goldfinger.1964.720p.hdtv.x264-nbs.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "imdbRating": "7.8"
   },
   "Saving Grace=Saving Grace [2000].avi": {
     "name": "Saving Grace [2000].avi",
@@ -3669,7 +4956,10 @@
     "tags": "[]",
     "format": "avi",
     "imdbUrl": "http://www.imdb.com/title/tt0239687/",
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "Saving Grace=Saving Grace [2000].avi",
+    "genres": [],
+    "imdbRating": ""
   },
   "James Bond 007 Die Another Day=James.Bond.007.Die.Another.Day.2002.BluRay.720p.DTS.German.DL.x264.mkv": {
     "name": "James.Bond.007.Die.Another.Day.2002.BluRay.720p.DTS.German.DL.x264.mkv",
@@ -3678,7 +4968,8 @@
     "quality": "720p",
     "title": "James Bond 007 Die Another Day",
     "tags": "BluRay  DTS German DL x264",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "James Bond 007 Die Another Day=James.Bond.007.Die.Another.Day.2002.BluRay.720p.DTS.German.DL.x264.mkv"
   },
   "Killing Them Softly=Killing Them Softly.mkv": {
     "name": "Killing Them Softly.mkv",
@@ -3695,7 +4986,8 @@
       "http://www.imdb.com/title/tt2622770/"
     ],
     "year": "2012",
-    "cover": "/media/rm1445898240/tt1764234"
+    "cover": "/media/rm1445898240/tt1764234",
+    "id": "Killing Them Softly=Killing Them Softly.mkv"
   },
   "jeff who lives at home=jeff.who.lives.at.home.2011.limited.1080p.bluray.x264-sparks.mkv": {
     "name": "jeff.who.lives.at.home.2011.limited.1080p.bluray.x264-sparks.mkv",
@@ -3704,7 +4996,8 @@
     "quality": "1080p",
     "title": "jeff who lives at home",
     "tags": "limited  bluray x264-sparks",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "jeff who lives at home=jeff.who.lives.at.home.2011.limited.1080p.bluray.x264-sparks.mkv"
   },
   "Looper=Looper.2012.1080p.Bluray.DTS-HD.X264.-BluEvo.mkv": {
     "name": "Looper.2012.1080p.Bluray.DTS-HD.X264.-BluEvo.mkv",
@@ -3717,14 +5010,21 @@
     "imdbUrl": "http://www.imdb.com/title/tt1276104/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1276104/",
-      "http://www.imdb.com/title/tt2417660/",
+      "http://www.imdb.com/title/tt2574332/",
       "http://www.imdb.com/title/tt2558546/",
       "http://www.imdb.com/title/tt2434824/",
-      "http://www.imdb.com/title/tt2574332/"
+      "http://www.imdb.com/title/tt2417660/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm439331072/tt1276104",
-    "coverLoaded": true
+    "cover": "/media/rm439331072/tt1276104?ref_=tt_ov_i",
+    "coverLoaded": true,
+    "id": "Looper=Looper.2012.1080p.Bluray.DTS-HD.X264.-BluEvo.mkv",
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "imdbRating": "7.6"
   },
   "Liar Liar=Liar_Liar_1997_1080p_HDDVD_x264-hV.mkv": {
     "name": "Liar_Liar_1997_1080p_HDDVD_x264-hV.mkv",
@@ -3734,13 +5034,20 @@
     "title": "Liar Liar",
     "tags": "HDDVD x264-hV",
     "format": "mkv",
-    "imdbUrl": "http://www.imdb.com/title/tt1482182/",
+    "imdbUrl": "http://www.imdb.com/title/tt0128318/",
     "imdbUrls": [
-      "http://www.imdb.com/title/tt1482182/",
       "http://www.imdb.com/title/tt0128318/",
+      "http://www.imdb.com/title/tt1482182/",
+      "http://www.imdb.com/title/tt0645693/",
       "http://www.imdb.com/title/tt0582443/",
-      "http://www.imdb.com/title/tt0645693/"
-    ]
+      "http://www.imdb.com/title/tt0951609/"
+    ],
+    "id": "Liar Liar=Liar_Liar_1997_1080p_HDDVD_x264-hV.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Thriller"
+    ],
+    "imdbRating": "3.2"
   },
   "James Bond 007 The World Is Not Enough=James.Bond.007.The.World.Is.Not.Enough.1999.720p.hdtv.x264.mkv": {
     "name": "James.Bond.007.The.World.Is.Not.Enough.1999.720p.hdtv.x264.mkv",
@@ -3749,7 +5056,8 @@
     "quality": "720p",
     "title": "James Bond 007 The World Is Not Enough",
     "tags": "hdtv x264",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "James Bond 007 The World Is Not Enough=James.Bond.007.The.World.Is.Not.Enough.1999.720p.hdtv.x264.mkv"
   },
   "Silent Hill Revelation=Silent Hill Revelation 2012 1080p x264.mkv": {
     "name": "Silent Hill Revelation 2012 1080p x264.mkv",
@@ -3761,7 +5069,8 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0938330/",
     "yearConfirmed": true,
-    "cover": "/media/rm2520362496/tt0938330"
+    "cover": "/media/rm2520362496/tt0938330",
+    "id": "Silent Hill Revelation=Silent Hill Revelation 2012 1080p x264.mkv"
   },
   "Life of Pi=Life.of.Pi.2012.1080p.BluRay.x264-SPARKS.mkv": {
     "name": "Life.of.Pi.2012.1080p.BluRay.x264-SPARKS.mkv",
@@ -3776,12 +5085,19 @@
       "http://www.imdb.com/title/tt0454876/",
       "http://www.imdb.com/title/tt2498948/",
       "http://www.imdb.com/title/tt2736478/",
-      "http://www.imdb.com/title/tt2736880/",
-      "http://www.imdb.com/title/tt2737206/"
+      "http://www.imdb.com/title/tt2737206/",
+      "http://www.imdb.com/title/tt2736880/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm763276032/tt0454876",
-    "coverLoaded": true
+    "cover": "/media/rm763276032/tt0454876?ref_=tt_ov_i",
+    "coverLoaded": true,
+    "id": "Life of Pi=Life.of.Pi.2012.1080p.BluRay.x264-SPARKS.mkv",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "imdbRating": "8.1"
   },
   "Mission Impossible-Ghost Protocol=Mission.Impossible-Ghost.Protocol.2011.BluRay.1080p.DTS.x264-CHD.mkv": {
     "name": "Mission.Impossible-Ghost.Protocol.2011.BluRay.1080p.DTS.x264-CHD.mkv",
@@ -3790,7 +5106,8 @@
     "quality": "1080p",
     "title": "Mission Impossible-Ghost Protocol",
     "tags": "BluRay  DTS x264-CHD",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Mission Impossible-Ghost Protocol=Mission.Impossible-Ghost.Protocol.2011.BluRay.1080p.DTS.x264-CHD.mkv"
   },
   "Madagascar 3.Europes Most Wanted=Madagascar.3.Europes.Most.Wanted.2012.DVDRip.XViD-PLAYNOW.avi": {
     "name": "Madagascar.3.Europes.Most.Wanted.2012.DVDRip.XViD-PLAYNOW.avi",
@@ -3799,7 +5116,8 @@
     "quality": "XViD-PLAYNOW",
     "title": "Madagascar 3.Europes Most Wanted",
     "tags": "XViD-PLAYNOW",
-    "format": "avi"
+    "format": "avi",
+    "id": "Madagascar 3.Europes Most Wanted=Madagascar.3.Europes.Most.Wanted.2012.DVDRip.XViD-PLAYNOW.avi"
   },
   "Marley=Marley.2012.VODRip.XviD-ViP3R.avi": {
     "name": "Marley.2012.VODRip.XviD-ViP3R.avi",
@@ -3818,7 +5136,8 @@
       "http://www.imdb.com/title/tt2379796/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1223079424/tt1183919"
+    "cover": "/media/rm1223079424/tt1183919",
+    "id": "Marley=Marley.2012.VODRip.XviD-ViP3R.avi"
   },
   "Lincoln=Lincoln.mkv": {
     "name": "Lincoln.mkv",
@@ -3836,14 +5155,16 @@
     ],
     "year": "2012",
     "cover": "/media/rm291022848/tt0443272",
-    "coverLoaded": true
+    "coverLoaded": true,
+    "id": "Lincoln=Lincoln.mkv"
   },
   "Oceans Thirteen=Oceans Thirteen.mkv": {
     "name": "Oceans Thirteen.mkv",
     "dir": "S:/Filme",
     "title": "Oceans Thirteen",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Oceans Thirteen=Oceans Thirteen.mkv"
   },
   "Octopussy=Octopussy.1983.1080p.BluRay.X264-AMIABLE.mkv": {
     "name": "Octopussy.1983.1080p.BluRay.X264-AMIABLE.mkv",
@@ -3855,7 +5176,14 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0086034/",
     "yearConfirmed": true,
-    "cover": "/media/rm2679355904/tt0086034"
+    "cover": "/media/rm2679355904/tt0086034?ref_=tt_ov_i",
+    "id": "Octopussy=Octopussy.1983.1080p.BluRay.X264-AMIABLE.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "imdbRating": "6.5"
   },
   "Men in Black=Men.in.Black.3.2012.1080p.BluRay.x264.DTS-HDC.mkv": {
     "name": "Men.in.Black.3.2012.1080p.BluRay.x264.DTS-HDC.mkv",
@@ -3865,14 +5193,16 @@
     "title": "Men in Black",
     "tags": "3.  BluRay x264 DTS-HDC",
     "format": "mkv",
-    "imdbUrl": "http://www.imdb.com/title/tt2283336/"
+    "imdbUrl": "http://www.imdb.com/title/tt2283336/",
+    "id": "Men in Black=Men.in.Black.3.2012.1080p.BluRay.x264.DTS-HDC.mkv"
   },
   "Oceans Twelve=Oceans Twelve.mkv": {
     "name": "Oceans Twelve.mkv",
     "dir": "S:/Filme",
     "title": "Oceans Twelve",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Oceans Twelve=Oceans Twelve.mkv"
   },
   "Oceans Eleven=Oceans Eleven.mkv": {
     "name": "Oceans Eleven.mkv",
@@ -3882,7 +5212,13 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0523489/",
     "year": "2007",
-    "cover": "/media/rm170693376/tt0523489"
+    "cover": "/media/rm170693376/tt0523489",
+    "id": "Oceans Eleven=Oceans Eleven.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": "7.6"
   },
   "Peter Gabriel So=Peter.Gabriel.So.2012.1080p.mkv": {
     "name": "Peter.Gabriel.So.2012.1080p.mkv",
@@ -3891,7 +5227,8 @@
     "quality": "1080p",
     "title": "Peter Gabriel So",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Peter Gabriel So=Peter.Gabriel.So.2012.1080p.mkv"
   },
   "Peter Gabriel So Bonus=Peter.Gabriel.So.Bonus.2012.1080p.mkv": {
     "name": "Peter.Gabriel.So.Bonus.2012.1080p.mkv",
@@ -3900,7 +5237,8 @@
     "quality": "1080p",
     "title": "Peter Gabriel So Bonus",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Peter Gabriel So Bonus=Peter.Gabriel.So.Bonus.2012.1080p.mkv"
   },
   "Project=Project.X.2012.EXTENDED.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv": {
     "name": "Project.X.2012.EXTENDED.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv",
@@ -3917,7 +5255,8 @@
       "http://www.imdb.com/title/tt1976009/",
       "http://www.imdb.com/title/tt1540011/",
       "http://www.imdb.com/title/tt1710622/"
-    ]
+    ],
+    "id": "Project=Project.X.2012.EXTENDED.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv"
   },
   "PROMETHEUS=PROMETHEUS.(2012).1080P.X264.NL.SUBBED.BRADJE.mkv": {
     "name": "PROMETHEUS.(2012).1080P.X264.NL.SUBBED.BRADJE.mkv",
@@ -3936,7 +5275,14 @@
       "http://www.imdb.com/title/tt2423916/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm430486784/tt1446714"
+    "cover": "/media/rm430486784/tt1446714?ref_=tt_ov_i",
+    "id": "PROMETHEUS=PROMETHEUS.(2012).1080P.X264.NL.SUBBED.BRADJE.mkv",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "imdbRating": "7.2"
   },
   "Resident Evil Damnation=Resident.Evil.Damnation.2012.1080p.mkv": {
     "name": "Resident.Evil.Damnation.2012.1080p.mkv",
@@ -3954,7 +5300,8 @@
       "http://www.imdb.com/title/tt2435756/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3645548544/tt1753496"
+    "cover": "/media/rm3645548544/tt1753496",
+    "id": "Resident Evil Damnation=Resident.Evil.Damnation.2012.1080p.mkv"
   },
   "Red Lights=Red.Lights.2012.1080p.BDRip.x264.AAC-26K.srt": {
     "name": "Red.Lights.2012.1080p.BDRip.x264.AAC-26K.srt",
@@ -3970,7 +5317,8 @@
       "http://www.imdb.com/title/tt2221680/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm4065178880/tt1748179"
+    "cover": "/media/rm4065178880/tt1748179",
+    "id": "Red Lights=Red.Lights.2012.1080p.BDRip.x264.AAC-26K.srt"
   },
   "seven psychopaths=seven.psychopaths.2012.720p.bluray.x264-sparks.mkv": {
     "name": "seven.psychopaths.2012.720p.bluray.x264-sparks.mkv",
@@ -3985,7 +5333,12 @@
       "http://www.imdb.com/title/tt2431476/",
       "http://www.imdb.com/title/tt2615120/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "seven psychopaths=seven.psychopaths.2012.720p.bluray.x264-sparks.mkv",
+    "genres": [
+      "Talk-Show"
+    ],
+    "imdbRating": ""
   },
   "Resident Evil Retribution=Resident.Evil.Retribution.2012.DVDRip-Lum1x-.avi": {
     "name": "Resident.Evil.Retribution.2012.DVDRip-Lum1x-.avi",
@@ -4002,8 +5355,15 @@
       "http://www.imdb.com/title/tt2530960/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm449620736/tt1855325",
-    "coverLoaded": true
+    "cover": "/media/rm449620736/tt1855325?ref_=tt_ov_i",
+    "coverLoaded": true,
+    "id": "Resident Evil Retribution=Resident.Evil.Retribution.2012.DVDRip-Lum1x-.avi",
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "imdbRating": "5.2"
   },
   "Red Lights=Red.Lights.2012.1080p.BDRip.x264.AAC-26K.mp4": {
     "name": "Red.Lights.2012.1080p.BDRip.x264.AAC-26K.mp4",
@@ -4019,7 +5379,8 @@
       "http://www.imdb.com/title/tt2221680/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm4065178880/tt1748179"
+    "cover": "/media/rm4065178880/tt1748179",
+    "id": "Red Lights=Red.Lights.2012.1080p.BDRip.x264.AAC-26K.mp4"
   },
   "Sherlock Holmes Spiel im Schatten German=Sherlock.Holmes.Spiel.im.Schatten.German.1080p.mkv": {
     "name": "Sherlock.Holmes.Spiel.im.Schatten.German.1080p.mkv",
@@ -4027,7 +5388,8 @@
     "quality": "1080p",
     "title": "Sherlock Holmes Spiel im Schatten German",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Sherlock Holmes Spiel im Schatten German=Sherlock.Holmes.Spiel.im.Schatten.German.1080p.mkv"
   },
   "Snow White and the Huntsman=Snow.White.and.the.Huntsman.2012.EXTENDED.1080p.BluRay.X264-AMIABLE.mkv": {
     "name": "Snow.White.and.the.Huntsman.2012.EXTENDED.1080p.BluRay.X264-AMIABLE.mkv",
@@ -4041,12 +5403,19 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt1735898/",
       "http://www.imdb.com/title/tt2699070/",
-      "http://www.imdb.com/title/tt2572402/",
       "http://www.imdb.com/title/tt2572490/",
-      "http://www.imdb.com/title/tt2572332/"
+      "http://www.imdb.com/title/tt2572402/",
+      "http://www.imdb.com/title/tt2572422/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3994923520/tt1735898"
+    "cover": "/media/rm3994923520/tt1735898?ref_=tt_ov_i",
+    "id": "Snow White and the Huntsman=Snow.White.and.the.Huntsman.2012.EXTENDED.1080p.BluRay.X264-AMIABLE.mkv",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "imdbRating": "6.2"
   },
   "Shooter=Shooter 1080p.mkv": {
     "name": "Shooter 1080p.mkv",
@@ -4058,13 +5427,21 @@
     "imdbUrl": "http://www.imdb.com/title/tt0822854/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt0822854/",
-      "http://www.imdb.com/title/tt2599878/",
-      "http://www.imdb.com/title/tt0096100/",
-      "http://www.imdb.com/title/tt0120121/",
-      "http://www.imdb.com/title/tt0425458/"
+      "http://www.imdb.com/title/tt1150018/",
+      "http://www.imdb.com/title/tt1414313/",
+      "http://www.imdb.com/title/tt1202755/",
+      "http://www.imdb.com/title/tt1739285/"
     ],
     "year": "2007",
-    "cover": "/media/rm735154944/tt0822854"
+    "cover": "/media/rm735154944/tt0822854?ref_=tt_ov_i",
+    "id": "Shooter=Shooter 1080p.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": "7.1"
   },
   "Silver Linings Playbook=Silver.Linings.Playbook.2012.1080p.mkv": {
     "name": "Silver.Linings.Playbook.2012.1080p.mkv",
@@ -4075,7 +5452,8 @@
     "tags": "",
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt2622752/",
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "Silver Linings Playbook=Silver.Linings.Playbook.2012.1080p.mkv"
   },
   "side by side=side.by.side.2012.limited.1080p.bluray.x264-geckos.mkv": {
     "name": "side.by.side.2012.limited.1080p.bluray.x264-geckos.mkv",
@@ -4089,12 +5467,17 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt2014338/",
       "http://www.imdb.com/title/tt1754497/",
+      "http://www.imdb.com/title/tt2443330/",
       "http://www.imdb.com/title/tt2304539/",
-      "http://www.imdb.com/title/tt2351750/",
-      "http://www.imdb.com/title/tt2443330/"
+      "http://www.imdb.com/title/tt2351750/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1531029504/tt2014338"
+    "cover": "/media/rm1531029504/tt2014338?ref_=tt_ov_i",
+    "id": "side by side=side.by.side.2012.limited.1080p.bluray.x264-geckos.mkv",
+    "genres": [
+      "Documentary"
+    ],
+    "imdbRating": "7.6"
   },
   "Star Trek  The Motion Picture=Star Trek_ The Motion Picture.mkv": {
     "name": "Star Trek_ The Motion Picture.mkv",
@@ -4109,7 +5492,8 @@
       "http://www.imdb.com/title/tt1877986/"
     ],
     "year": "2012",
-    "cover": "/media/rm2560409088/tt2124622"
+    "cover": "/media/rm2560409088/tt2124622",
+    "id": "Star Trek  The Motion Picture=Star Trek_ The Motion Picture.mkv"
   },
   "Skyfall=Skyfall.mkv": {
     "name": "Skyfall.mkv",
@@ -4120,27 +5504,30 @@
     "imdbUrl": "http://www.imdb.com/title/tt1074638/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1074638/",
-      "http://www.imdb.com/title/tt2484678/",
-      "http://www.imdb.com/title/tt2697744/",
+      "http://www.imdb.com/title/tt2482378/",
+      "http://www.imdb.com/title/tt2516988/",
       "http://www.imdb.com/title/tt2467360/",
-      "http://www.imdb.com/title/tt2525666/"
+      "http://www.imdb.com/title/tt2484678/"
     ],
     "year": "2012",
-    "cover": "/media/rm4112951552/tt1074638"
+    "cover": "/media/rm4112951552/tt1074638",
+    "id": "Skyfall=Skyfall.mkv"
   },
   "Star Trek  The Future Begins=Star Trek_ The Future Begins.mkv": {
     "name": "Star Trek_ The Future Begins.mkv",
     "dir": "S:/Filme",
     "title": "Star Trek  The Future Begins",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Star Trek  The Future Begins=Star Trek_ The Future Begins.mkv"
   },
   "The Color of Magic 2=The Color of Magic 2.mkv": {
     "name": "The Color of Magic 2.mkv",
     "dir": "S:/Filme",
     "title": "The Color of Magic 2",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "The Color of Magic 2=The Color of Magic 2.mkv"
   },
   "Taken=Taken.2.2012.1080p.REPACK.WEB-DL.DD5.1.H.264-BS.mkv": {
     "name": "Taken.2.2012.1080p.REPACK.WEB-DL.DD5.1.H.264-BS.mkv",
@@ -4154,10 +5541,17 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt2446042/",
       "http://www.imdb.com/title/tt0203971/",
-      "http://www.imdb.com/title/tt0221699/",
+      "http://www.imdb.com/title/tt0216066/",
       "http://www.imdb.com/title/tt0229583/",
-      "http://www.imdb.com/title/tt0216066/"
-    ]
+      "http://www.imdb.com/title/tt0203772/"
+    ],
+    "id": "Taken=Taken.2.2012.1080p.REPACK.WEB-DL.DD5.1.H.264-BS.mkv",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdbRating": ""
   },
   "The Hunger Games=The.Hunger.Games.2012.BluRay.1080p.DTS.x264-CHD.mkv": {
     "name": "The.Hunger.Games.2012.BluRay.1080p.DTS.x264-CHD.mkv",
@@ -4171,12 +5565,19 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt1392170/",
       "http://www.imdb.com/title/tt2263241/",
-      "http://www.imdb.com/title/tt2324161/",
       "http://www.imdb.com/title/tt2427488/",
-      "http://www.imdb.com/title/tt2327114/"
+      "http://www.imdb.com/title/tt2327114/",
+      "http://www.imdb.com/title/tt2187832/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2868031744/tt1392170"
+    "cover": "/media/rm2868031744/tt1392170?ref_=tt_ov_i",
+    "id": "The Hunger Games=The.Hunger.Games.2012.BluRay.1080p.DTS.x264-CHD.mkv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": "7.2"
   },
   "The Green Mile=The Green Mile (1999) BRRip 1080p H264 AC3 5.1 - MaryJane.mp4": {
     "name": "The Green Mile (1999) BRRip 1080p H264 AC3 5.1 - MaryJane.mp4",
@@ -4192,7 +5593,14 @@
       "http://www.imdb.com/title/tt0338255/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm946247936/tt0120689"
+    "cover": "/media/rm946247936/tt0120689?ref_=tt_ov_i",
+    "id": "The Green Mile=The Green Mile (1999) BRRip 1080p H264 AC3 5.1 - MaryJane.mp4",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "imdbRating": "8.5"
   },
   "The Time Machine=The Time Machine 2002 BRRip XvidHD 720p-NPW.avi": {
     "name": "The Time Machine 2002 BRRip XvidHD 720p-NPW.avi",
@@ -4208,17 +5616,25 @@
       "http://www.imdb.com/title/tt0338006/",
       "http://www.imdb.com/title/tt0404502/",
       "http://www.imdb.com/title/tt1181342/",
-      "http://www.imdb.com/title/tt0401830/"
+      "http://www.imdb.com/title/tt0594946/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm3136788736/tt0268695"
+    "cover": "/media/rm3136788736/tt0268695?ref_=tt_ov_i",
+    "id": "The Time Machine=The Time Machine 2002 BRRip XvidHD 720p-NPW.avi",
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Action"
+    ],
+    "imdbRating": "5.8"
   },
   "The Color of Magic 1=The Color of Magic 1.mkv": {
     "name": "The Color of Magic 1.mkv",
     "dir": "S:/Filme",
     "title": "The Color of Magic 1",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "The Color of Magic 1=The Color of Magic 1.mkv"
   },
   "Take This Waltz=Take.This.Waltz.2011.LIMITED.1080p.BluRay.X264-AMIABLE.mkv": {
     "name": "Take.This.Waltz.2011.LIMITED.1080p.BluRay.X264-AMIABLE.mkv",
@@ -4230,7 +5646,13 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt1592281/",
     "yearConfirmed": true,
-    "cover": "/media/rm1845737216/tt1592281"
+    "cover": "/media/rm1845737216/tt1592281?ref_=tt_ov_i",
+    "id": "Take This Waltz=Take.This.Waltz.2011.LIMITED.1080p.BluRay.X264-AMIABLE.mkv",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "imdbRating": "6.5"
   },
   "The Raid=The Raid.mkv": {
     "name": "The Raid.mkv",
@@ -4247,7 +5669,8 @@
       "http://www.imdb.com/title/tt2265171/"
     ],
     "year": "2011",
-    "cover": "/media/rm3635459584/tt1899353"
+    "cover": "/media/rm3635459584/tt1899353",
+    "id": "The Raid=The Raid.mkv"
   },
   "Ted=Ted.mkv": {
     "name": "Ted.mkv",
@@ -4258,13 +5681,20 @@
     "imdbUrl": "http://www.imdb.com/title/tt1637725/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1637725/",
-      "http://www.imdb.com/title/tt0159787/",
-      "http://www.imdb.com/title/tt0367127/",
-      "http://www.imdb.com/title/tt0096928/",
-      "http://www.imdb.com/title/tt0101452/"
+      "http://www.imdb.com/title/tt2637276/",
+      "http://www.imdb.com/title/tt1086064/",
+      "http://www.imdb.com/title/tt2559990/",
+      "http://www.imdb.com/title/tt2403568/"
     ],
     "year": "2012",
-    "cover": "/media/rm2455480832/tt1637725"
+    "cover": "/media/rm2455480832/tt1637725?ref_=tt_ov_i",
+    "id": "Ted=Ted.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "imdbRating": "7.1"
   },
   "The Man with the Iron Fists=The.Man.with.the.Iron.Fists.2012.UNRATED.720p.BluRay.X264-AMIABLE.mkv": {
     "name": "The.Man.with.the.Iron.Fists.2012.UNRATED.720p.BluRay.X264-AMIABLE.mkv",
@@ -4276,8 +5706,13 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt1258972/",
     "yearConfirmed": true,
-    "cover": "/media/rm3378358784/tt1258972",
-    "coverLoaded": true
+    "cover": "/media/rm3378358784/tt1258972?ref_=tt_ov_i",
+    "coverLoaded": true,
+    "id": "The Man with the Iron Fists=The.Man.with.the.Iron.Fists.2012.UNRATED.720p.BluRay.X264-AMIABLE.mkv",
+    "genres": [
+      "Action"
+    ],
+    "imdbRating": "5.5"
   },
   "The Raven=The.Raven.2012.720p.BluRay.x264-iNFAMOUS.mkv": {
     "name": "The.Raven.2012.720p.BluRay.x264-iNFAMOUS.mkv",
@@ -4292,11 +5727,17 @@
       "http://www.imdb.com/title/tt1486192/",
       "http://www.imdb.com/title/tt1694022/",
       "http://www.imdb.com/title/tt2407986/",
-      "http://www.imdb.com/title/tt2495684/",
+      "http://www.imdb.com/title/tt2346715/",
       "http://www.imdb.com/title/tt2233812/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1679537920/tt1486192"
+    "cover": "/media/rm1679537920/tt1486192?ref_=tt_ov_i",
+    "id": "The Raven=The.Raven.2012.720p.BluRay.x264-iNFAMOUS.mkv",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": "6.3"
   },
   "The Hunger Games=The.Hunger.Games.1080p.BluRay.X264-BLOW.mkv": {
     "name": "The.Hunger.Games.1080p.BluRay.X264-BLOW.mkv",
@@ -4314,7 +5755,8 @@
       "http://www.imdb.com/title/tt1951265/"
     ],
     "year": "2012",
-    "cover": "/media/rm2868031744/tt1392170"
+    "cover": "/media/rm2868031744/tt1392170",
+    "id": "The Hunger Games=The.Hunger.Games.1080p.BluRay.X264-BLOW.mkv"
   },
   "The Hobbit An Unexpected Journey=The.Hobbit.An.Unexpected.Journey.2012.1080p.BluRay.x264-SPARKS.mkv": {
     "name": "The.Hobbit.An.Unexpected.Journey.2012.1080p.BluRay.x264-SPARKS.mkv",
@@ -4332,7 +5774,8 @@
       "http://www.imdb.com/title/tt2582844/",
       "http://www.imdb.com/title/tt2642736/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "The Hobbit An Unexpected Journey=The.Hobbit.An.Unexpected.Journey.2012.1080p.BluRay.x264-SPARKS.mkv"
   },
   "The Dark Knight Rises=The.Dark.Knight.Rises.2012.iNTERNAL.1080p.BluRay.x264-DAA.mkv": {
     "name": "The.Dark.Knight.Rises.2012.iNTERNAL.1080p.BluRay.x264-DAA.mkv",
@@ -4345,13 +5788,20 @@
     "imdbUrl": "http://www.imdb.com/title/tt1345836/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1345836/",
-      "http://www.imdb.com/title/tt2290142/",
       "http://www.imdb.com/title/tt2253832/",
+      "http://www.imdb.com/title/tt2290146/",
       "http://www.imdb.com/title/tt2281718/",
       "http://www.imdb.com/title/tt2544698/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm834516224/tt1345836"
+    "cover": "/media/rm834516224/tt1345836?ref_=tt_ov_i",
+    "id": "The Dark Knight Rises=The.Dark.Knight.Rises.2012.iNTERNAL.1080p.BluRay.x264-DAA.mkv",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdbRating": "8.6"
   },
   "the devils double=the.devils.double.1080p.mkv": {
     "name": "the.devils.double.1080p.mkv",
@@ -4359,7 +5809,8 @@
     "quality": "1080p",
     "title": "the devils double",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "the devils double=the.devils.double.1080p.mkv"
   },
   "the bourne legacy=the.bourne.legacy.2012.1080p.bluray.x264-sparks.mkv": {
     "name": "the.bourne.legacy.2012.1080p.bluray.x264-sparks.mkv",
@@ -4370,7 +5821,13 @@
     "tags": "bluray x264-sparks",
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt2400902/",
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "the bourne legacy=the.bourne.legacy.2012.1080p.bluray.x264-sparks.mkv",
+    "genres": [
+      "Documentary",
+      "News"
+    ],
+    "imdbRating": ""
   },
   "the avengers=the.avengers.2012.1080p.bluray.dts.x264-publichd.mkv": {
     "name": "the.avengers.2012.1080p.bluray.dts.x264-publichd.mkv",
@@ -4384,12 +5841,17 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt0848228/",
       "http://www.imdb.com/title/tt2676344/",
-      "http://www.imdb.com/title/tt2155018/",
+      "http://www.imdb.com/title/tt2214762/",
       "http://www.imdb.com/title/tt2577784/",
-      "http://www.imdb.com/title/tt2214762/"
+      "http://www.imdb.com/title/tt2391953/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm127383040/tt0848228"
+    "cover": "/media/rm127383040/tt0848228?ref_=tt_ov_i",
+    "id": "the avengers=the.avengers.2012.1080p.bluray.dts.x264-publichd.mkv",
+    "genres": [
+      "Action"
+    ],
+    "imdbRating": "8.3"
   },
   "The Chronicles Of Riddick Unrated Director's Cut=The.Chronicles.Of.Riddick.Unrated.Director's.Cut.2004.BluRay.1080p.DTSMA.5.1.x264.dxva-FraMeSToR.mkv": {
     "name": "The.Chronicles.Of.Riddick.Unrated.Director's.Cut.2004.BluRay.1080p.DTSMA.5.1.x264.dxva-FraMeSToR.mkv",
@@ -4398,7 +5860,8 @@
     "quality": "1080p",
     "title": "The Chronicles Of Riddick Unrated Director's Cut",
     "tags": "BluRay  DTSMA 5.1 x264 dxva-FraMeSToR",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "The Chronicles Of Riddick Unrated Director's Cut=The.Chronicles.Of.Riddick.Unrated.Director's.Cut.2004.BluRay.1080p.DTSMA.5.1.x264.dxva-FraMeSToR.mkv"
   },
   "The Amazing Spider-Man=The.Amazing.Spider-Man.2012.1080p.BluRay.X264-AMIABLE.mkv": {
     "name": "The.Amazing.Spider-Man.2012.1080p.BluRay.X264-AMIABLE.mkv",
@@ -4417,7 +5880,8 @@
       "http://www.imdb.com/title/tt2255728/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm2110040832/tt0948470"
+    "cover": "/media/rm2110040832/tt0948470",
+    "id": "The Amazing Spider-Man=The.Amazing.Spider-Man.2012.1080p.BluRay.X264-AMIABLE.mkv"
   },
   "The Debt=The.Debt.2011.1080p.mkv": {
     "name": "The.Debt.2011.1080p.mkv",
@@ -4430,12 +5894,17 @@
     "imdbUrl": "http://www.imdb.com/title/tt1844075/",
     "imdbUrls": [
       "http://www.imdb.com/title/tt1844075/",
-      "http://www.imdb.com/title/tt2007370/",
-      "http://www.imdb.com/title/tt2023631/",
+      "http://www.imdb.com/title/tt2039659/",
       "http://www.imdb.com/title/tt2125938/",
-      "http://www.imdb.com/title/tt2141142/"
+      "http://www.imdb.com/title/tt2141142/",
+      "http://www.imdb.com/title/tt2090224/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "The Debt=The.Debt.2011.1080p.mkv",
+    "genres": [
+      "Documentary"
+    ],
+    "imdbRating": "6.7"
   },
   "the angels share=the.angels.share.mkv": {
     "name": "the.angels.share.mkv",
@@ -4445,7 +5914,15 @@
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0527687/",
     "year": "1996",
-    "cover": "/media/rm3605437696/tt0527687"
+    "cover": "/media/rm3605437696/tt0527687",
+    "id": "the angels share=the.angels.share.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": ""
   },
   "this boys life=this.boys.life.1993.1080p.bluray.x264-filmhd.mkv": {
     "name": "this.boys.life.1993.1080p.bluray.x264-filmhd.mkv",
@@ -4454,7 +5931,8 @@
     "quality": "1080p",
     "title": "this boys life",
     "tags": "bluray x264-filmhd",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "this boys life=this.boys.life.1993.1080p.bluray.x264-filmhd.mkv"
   },
   "The Secret World of Arrietty=The.Secret.World.of.Arrietty.2010.1080p.mkv": {
     "name": "The.Secret.World.of.Arrietty.2010.1080p.mkv",
@@ -4463,7 +5941,8 @@
     "quality": "1080p",
     "title": "The Secret World of Arrietty",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "The Secret World of Arrietty=The.Secret.World.of.Arrietty.2010.1080p.mkv"
   },
   "Thor=Thor 1080p.mkv": {
     "name": "Thor 1080p.mkv",
@@ -4481,7 +5960,8 @@
       "http://www.imdb.com/title/tt1792794/"
     ],
     "year": "2011",
-    "cover": "/media/rm136755968/tt0800369"
+    "cover": "/media/rm136755968/tt0800369",
+    "id": "Thor=Thor 1080p.mkv"
   },
   "The Living Daylights=The.Living.Daylights.1987.1080p.BluRay.X264-AMIABLE.mkv": {
     "name": "The.Living.Daylights.1987.1080p.BluRay.X264-AMIABLE.mkv",
@@ -4492,7 +5972,13 @@
     "tags": "BluRay X264-AMIABLE",
     "format": "mkv",
     "imdbUrl": "http://www.imdb.com/title/tt0924457/",
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "The Living Daylights=The.Living.Daylights.1987.1080p.BluRay.X264-AMIABLE.mkv",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "imdbRating": "4.7"
   },
   "Wanted=Wanted (2008, 1080p, 1920x816, deutsch+sub, DTS.BluRay.x264-MoreHD).mkv": {
     "name": "Wanted (2008, 1080p, 1920x816, deutsch+sub, DTS.BluRay.x264-MoreHD).mkv",
@@ -4512,7 +5998,8 @@
       "http://www.imdb.com/title/tt1262421/"
     ],
     "yearConfirmed": true,
-    "cover": "/media/rm1457690368/tt0493464"
+    "cover": "/media/rm1457690368/tt0493464",
+    "id": "Wanted=Wanted (2008, 1080p, 1920x816, deutsch+sub, DTS.BluRay.x264-MoreHD).mkv"
   },
   "War Of The Arrows=War.Of.The.Arrows.2011.1080p.BluRay.x264-SONiDO.mkv": {
     "name": "War.Of.The.Arrows.2011.1080p.BluRay.x264-SONiDO.mkv",
@@ -4521,7 +6008,8 @@
     "quality": "1080p",
     "title": "War Of The Arrows",
     "tags": "BluRay x264-SONiDO",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "War Of The Arrows=War.Of.The.Arrows.2011.1080p.BluRay.x264-SONiDO.mkv"
   },
   "WALL·E – Der Letzte räumt die Erde auf=WALL·E – Der Letzte räumt die Erde auf (2008, 720p, 1280x528, deutsch, englisch, Blu-ray.x264.RUD).mkv": {
     "name": "WALL·E – Der Letzte räumt die Erde auf (2008, 720p, 1280x528, deutsch, englisch, Blu-ray.x264.RUD).mkv",
@@ -4530,7 +6018,8 @@
     "quality": "720p",
     "title": "WALL·E – Der Letzte räumt die Erde auf",
     "tags": "(, , 1280x528, deutsch, englisch, Blu-ray x264 RUD)",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "WALL·E – Der Letzte räumt die Erde auf=WALL·E – Der Letzte räumt die Erde auf (2008, 720p, 1280x528, deutsch, englisch, Blu-ray.x264.RUD).mkv"
   },
   "X Night of Vengeance=X Night of Vengeance (2011, 1080p).mkv": {
     "name": "X Night of Vengeance (2011, 1080p).mkv",
@@ -4540,7 +6029,8 @@
     "year": "2011",
     "quality": "1080p",
     "tags": "(, )",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "X Night of Vengeance=X Night of Vengeance (2011, 1080p).mkv"
   },
   "Wächter der Nacht – Nochnoi Dozor=Wächter der Nacht – Nochnoi Dozor (2004, 1080p, 1920x1040, deutsch+sub, englisch, BluRay.x264-SightHD).mkv": {
     "name": "Wächter der Nacht – Nochnoi Dozor (2004, 1080p, 1920x1040, deutsch+sub, englisch, BluRay.x264-SightHD).mkv",
@@ -4549,7 +6039,8 @@
     "quality": "1080p",
     "title": "Wächter der Nacht – Nochnoi Dozor",
     "tags": "(, , 1920x1040, deutsch+sub, englisch, BluRay x264-SightHD)",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Wächter der Nacht – Nochnoi Dozor=Wächter der Nacht – Nochnoi Dozor (2004, 1080p, 1920x1040, deutsch+sub, englisch, BluRay.x264-SightHD).mkv"
   },
   "X-Men   First Class=X-Men _ First Class.mkv": {
     "name": "X-Men _ First Class.mkv",
@@ -4565,7 +6056,15 @@
       "http://www.imdb.com/title/tt1948218/",
       "http://www.imdb.com/title/tt1950465/"
     ],
-    "year": "2014"
+    "year": "2014",
+    "id": "X-Men   First Class=X-Men _ First Class.mkv",
+    "yearConfirmed": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": ""
   },
   "Wächter des Tages – Dnevnoi Dozor=Wächter des Tages – Dnevnoi Dozor (2006, 1080p, deutsch+sub, englisch, Directors Cut, BluRay.x264-SightHD).mkv": {
     "name": "Wächter des Tages – Dnevnoi Dozor (2006, 1080p, deutsch+sub, englisch, Directors Cut, BluRay.x264-SightHD).mkv",
@@ -4574,7 +6073,8 @@
     "quality": "1080p",
     "title": "Wächter des Tages – Dnevnoi Dozor",
     "tags": "(, , deutsch+sub, englisch, Directors Cut, BluRay x264-SightHD)",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Wächter des Tages – Dnevnoi Dozor=Wächter des Tages – Dnevnoi Dozor (2006, 1080p, deutsch+sub, englisch, Directors Cut, BluRay.x264-SightHD).mkv"
   },
   "Zero Dark Thirty=Zero Dark Thirty.mkv": {
     "name": "Zero Dark Thirty.mkv",
@@ -4592,7 +6092,8 @@
     ],
     "year": "2012",
     "cover": "/media/rm442150656/tt1790885",
-    "coverLoaded": true
+    "coverLoaded": true,
+    "id": "Zero Dark Thirty=Zero Dark Thirty.mkv"
   },
   "Weed Bandits=Weed.Bandits.2003.1080p.mkv": {
     "name": "Weed.Bandits.2003.1080p.mkv",
@@ -4601,7 +6102,8 @@
     "quality": "1080p",
     "title": "Weed Bandits",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "Weed Bandits=Weed.Bandits.2003.1080p.mkv"
   },
   "wreck-it ralph=wreck-it.ralph.2012.1080p.bluray.x264-sparks.mkv": {
     "name": "wreck-it.ralph.2012.1080p.bluray.x264-sparks.mkv",
@@ -4615,17 +6117,24 @@
     "imdbUrls": [
       "http://www.imdb.com/title/tt2503772/",
       "http://www.imdb.com/title/tt2622200/",
-      "http://www.imdb.com/title/tt2615570/",
       "http://www.imdb.com/title/tt2555808/",
+      "http://www.imdb.com/title/tt2615570/",
       "http://www.imdb.com/title/tt2498908/"
     ],
-    "yearConfirmed": true
+    "yearConfirmed": true,
+    "id": "wreck-it ralph=wreck-it.ralph.2012.1080p.bluray.x264-sparks.mkv",
+    "genres": [
+      "Short",
+      "Comedy"
+    ],
+    "imdbRating": ""
   },
   "X-Men  The Last Stand=X-Men_ The Last Stand.mkv": {
     "name": "X-Men_ The Last Stand.mkv",
     "dir": "S:/Filme",
     "title": "X-Men  The Last Stand",
     "tags": "",
-    "format": "mkv"
+    "format": "mkv",
+    "id": "X-Men  The Last Stand=X-Men_ The Last Stand.mkv"
   }
 }

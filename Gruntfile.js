@@ -4,20 +4,19 @@ module.exports = function (grunt) {
     pkg: grunt.file.readJSON('package.json'),
     simplemocha: {
       options: {
-        require: ['should'],
         reporter: 'spec',
         ui: 'bdd',
-        //timeout: 3000,
-        ignoreLeaks: true
+        timeout: 5000,
+        ignoreLeaks: false
       },
       scraper: {
-        src: "test/scraper.js"
+        src: "test/scraperTest.coffee"
       },
       server: {
         src: "test/server.js"
       }
     },
-    testacular: {
+    karma: {
       unit: {
         options: {
           configFile: 'config/karma.conf.js',
@@ -32,7 +31,7 @@ module.exports = function (grunt) {
       }
     },
     jshint: {
-      files: ["*.js", "apps/*/app/**/*.js", "apps/*/test/**/*.js"],
+      files: ["*.js", "app/js/**/*.js"],
       options: {
         /*jslint node: true, indent: 2, nomen: true, es5: true, vars: true */
         indent: 2,
@@ -91,8 +90,11 @@ module.exports = function (grunt) {
       }
     },
     watch: {
-      files: ['<%= jshint.files %>'],
-      tasks: ['jshint']
+      files: ['**/*.js'],
+      tasks: ['jshint', 'simplemocha'],
+      options: {
+        interval: 1000
+      }
     }
   });
 

@@ -21,4 +21,3 @@ describe 'FilmAlbum', ->
       $httpBackend.flush()
       films.should.have.length(4)
 
-

@@ -35,6 +35,8 @@ var dbFile = argv.file
   , directories = _.isArray(argv.directories) ? argv.directories : argv.directories ? [argv.directories] : null
   , database = new FilmDatabase();
 
+var databaseImport, databaseExport, scrape, scan;
+
 var rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout
@@ -62,7 +64,7 @@ function main() {
   if (argv.rename) {
     database.on('add', function (film) {
       rl.question('Rename file ' + film.name + " to " + film.filename() + "? (y/n): ", function (answer) {
-        if (answer == "y") {
+        if (answer === "y") {
           film.rename();
           console.log('Film renamed!');
         }

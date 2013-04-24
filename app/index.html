@@ -6,36 +6,67 @@
     <meta name="author" content="Phoscur">
     <title>Filmalbum</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/app.css"/>
     <link href="css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/app.css"/>
     <style type="text/css">
-        body {
-            padding-top: 60px;
-            padding-bottom: 40px;
+        html, body {
+            height: 100%;
+            overflow: hidden;
         }
 
-        .sidebar-nav {
-            padding: 9px 0;
+        .navbar-inner {
+            height: 40px;
         }
 
-        @media (max-width: 980px) {
-            /* Enable use of floated navbar text */
-            .navbar-text.pull-right {
-                float: none;
-                padding-left: 5px;
-                padding-right: 5px;
-            }
+        .padnavbar {
+            padding-top: 50px;
+            padding-bottom: 30px;
+        }
+
+        .scrollable {
+            height: 95%;
+            overflow: auto;
+        }
+
+        .max-height {
+            height: 100%;
+        }
+
+        .no-overflow {
+            overflow: hidden;
+        }
+
+        .film {
+
+        }
+
+        .film img {
+            height: 700px;
+            max-width: 500px;
+            border: 2px solid #333333;
+            box-shadow: 14px -7px 5px #CCCCCC;
+        }
+
+        .film-list {
+
+        }
+
+        .film-list-entry {
+            border-bottom: 1px solid #CCCCCC;
+        }
+
+        .film-list-entry a {
+            display: block;
+            color: #000000;
         }
     </style>
-    <link href="css/bootstrap-responsive.css" rel="stylesheet">
 
     <link rel="shortcut icon" href="img/favicon.png">
 </head>
-<body>
-
+<body ng-controller="PhilmsCtrl">
 <div class="navbar navbar-inverse navbar-fixed-top">
     <div class="navbar-inner">
-        <div class="container-fluid">
+        <div class="container">
             <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -48,8 +79,8 @@
                     Storing {{films.length}} films
                 </p>
                 <ul class="nav">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#about">About</a></li>
+                    <li ng-repeat="genre in genres" class="{{filteringGenres[genre]}}"><a href="#/filter/{{genre}}">{{genre}}</a>
+                    </li>
                 </ul>
             </div>
             <!--/.nav-collapse -->
@@ -57,19 +88,20 @@
     </div>
 </div>
 
-<div class="container-fluid">
-    <div class="row-fluid">
-        <div class="span3">
-            <div class="well sidebar-nav">
-                <ul class="nav nav-list">
-                    <li ng-repeat="film in films"><a href="#/film/{{film.id}}">{{film.title}}</a></li>
+<div class="container max-height no-overflow">
+    <div class="row max-height padnavbar">
+        <div class="span7">
+            <div ng-view></div>
+        </div>
+        <!--/span-->
+        <div class="span5 scrollable">
+            <div>
+                <ul class="unstyled film-list">
+                    <li class="film-list-entry" ng-repeat="film in films | orderBy:title"><a href="#/film/{{film.id}}">{{film.title}}</a>
+                    </li>
                 </ul>
             </div>
             <!--/.well -->
-        </div>
-        <!--/span-->
-        <div class="span9">
-            <div ng-view></div>
         </div>
         <!--/span-->
     </div>

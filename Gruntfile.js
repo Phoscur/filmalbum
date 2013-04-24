@@ -95,15 +95,24 @@ module.exports = function (grunt) {
       options: {
         interval: 1000
       }
+    },
+    regarde: {
+      livereload: {
+        files: ['app/**/*.*'],
+        tasks: ['livereload']
+      }
     }
   });
 
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-contrib-livereload');
+  grunt.loadNpmTasks('grunt-regarde');
   grunt.loadNpmTasks('grunt-karma');
   grunt.loadNpmTasks('grunt-simple-mocha');
 
   grunt.registerTask('test', ['jshint', 'karma']);
+  grunt.registerTask('live', ['livereload-start', 'regarde']);
 
   grunt.registerTask('default', ['jshint', 'simplemocha:scraper']);
 };

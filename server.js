@@ -2,6 +2,7 @@
 var fs = require("fs");
 var express = require("express");
 var FilmDatabase = require("./lib/FilmDatabase");
+var livereloadSnippet = require('grunt-contrib-livereload/lib/utils').livereloadSnippet;
 
 var app = express();
 var database = new FilmDatabase();
@@ -11,6 +12,7 @@ database.importFromFile("filme.json");
 console.log("Database composes", database.size(), "films");
 
 app.use(express.logger());
+app.use(livereloadSnippet);
 app.use(express.directory('./app'));
 app.use(express['static']('./app'));
 

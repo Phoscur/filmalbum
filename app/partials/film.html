@@ -1,0 +1,13 @@
+<div class="film">
+    <h1>{{film.title}}</h1>
+    <a href="{{film.imdbUrl}}" target="_blank">IMDb Rating: {{film.imdbRating}}</a>
+    <dl>
+        <dt>Genres</dt>
+        <dd>{{film.genres.join(', ')}}</dd>
+        <dt>Year</dt>
+        <dd>{{film.year}}</dd>
+        <dt>Filename</dt>
+        <dd>{{film.dir}}/{{film.name}}</dd>
+    </dl>
+    <img src="img/covers/{{film.title}}.jpg" title="Film cover" alt="Film cover"/>
+</div>

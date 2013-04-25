@@ -79,7 +79,8 @@
                     Storing {{films.length}} films
                 </p>
                 <ul class="nav">
-                    <li ng-repeat="genre in genres" class="{{filteringGenres[genre]}}"><a href="#/filter/{{genre}}">{{genre}}</a>
+                    <li ng-repeat="genre in genres" class="{{filteringGenres[genre]}}"><a
+                            ng-click="toggleGenreFilter(genre)">{{genre}}</a>
                     </li>
                 </ul>
             </div>
@@ -97,7 +98,8 @@
         <div class="span5 scrollable">
             <div>
                 <ul class="unstyled film-list">
-                    <li class="film-list-entry" ng-repeat="film in films | orderBy:title"><a href="#/film/{{film.id}}">{{film.title}}</a>
+                    <li class="film-list-entry" ng-repeat="film in filmsFiltered | orderBy:'title'"><a
+                            href="#/film/{{film.id}}">{{film.title}}</a>
                     </li>
                 </ul>
             </div>
@@ -113,6 +115,7 @@
 <!-- In production use:
 <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.6/angular.min.js"></script>
 -->
+<script src="lib/underscore.js"></script>
 <script src="lib/angular/angular.js"></script>
 <script src="lib/angular/angular-resource.js"></script>
 <script src="js/app.js"></script>

@@ -1,6 +1,5 @@
 'use strict';
 
-
 // Declare app level module which depends on filters, and services
 angular.module('philms', ['philms.services', 'philms.controllers'])
   .config(['$routeProvider', function ($routeProvider) {
@@ -9,7 +8,11 @@ angular.module('philms', ['philms.services', 'philms.controllers'])
     $routeProvider.otherwise({redirectTo: '/welcome'});
   }])
   .run(['$rootScope', 'database', function ($rootScope, database) {
-
-    $rootScope.films = database.getAll();
-
+    $rootScope.filmsWithIMDbRating = [];
+    $rootScope.films = database.getIndex(function (films) {
+      $rootScope.filmsWithIMDbRating = films.filter(function (film) {
+        return film.rating !== '0';
+      });
+      console.log('r', $rootScope);
+    });
   }]);

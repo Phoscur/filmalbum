@@ -4,7 +4,7 @@
 
 angular.module('philms.controllers', ['ng', 'philms.services', 'philms.filters'])
   .controller('PhilmsCtrl', ['$scope', '$filter', function ($scope, $filter) {
-    $scope.genres = ['Comedy', 'Sci-Fi', 'Thriller', 'Crime', 'Drama'];
+    $scope.genres = ['Comedy', 'Action', 'Thriller', 'Crime', 'Drama', 'Adventure', 'Sci-Fi', 'Fantasy'];
     $scope.filteringGenres = {
       //'Comedy': 'active'
     };
@@ -12,13 +12,12 @@ angular.module('philms.controllers', ['ng', 'philms.services', 'philms.filters']
     $scope.filmsFiltered = $scope.films;
     function filterFilms() {
       return $scope.genres.reduce(function (films, genre) {
-        console.log(genre, films);
-        if (!$scope.filteringGenres[genre]) return films;
-        return $filter('genreFilter')(films, genre);
+        return !$scope.filteringGenres[genre] ? films : $filter('genreFilter')(films, genre);
       }, $scope.films);
     }
 
     $scope.toggleGenreFilter = function (genre) {
+      $('.genre' + genre).toggleClass('active');
       if ($scope.filteringGenres[genre]) {
         $scope.filteringGenres[genre] = '';
       } else {

@@ -11,10 +11,22 @@ database.importFromFile("filme.json");
 
 console.log("Database composes", database.size(), "films");
 
-app.use(express.logger());
-app.use(livereloadSnippet);
+app.use(express.logger('dev'));
+//app.use(livereloadSnippet);
 app.use(express.directory('./app'));
 app.use(express['static']('./app'));
+
+var index = database.getAll(true).map(function (film) {
+  return {
+    id: film.id,
+    title: film.title,
+    genres: film.genres,
+    rating: film.imdbRating ? film.imdbRating : '0'
+  };
+})
+app.get('/filmIndex', function (req, res) {
+  res.send(index);
+});
 
 app.get('/films', function (req, res) {
   res.send(database.getAll(true));

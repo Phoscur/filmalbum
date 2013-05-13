@@ -2,7 +2,7 @@
 "use strict";
 
 var defaultImport = 'filme.json';
-var parallelLimit = 13;
+var parallelLimit = 100;
 
 var fs = require("fs")
   , readline = require("readline")

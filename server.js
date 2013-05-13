@@ -35,5 +35,5 @@ app.get('/film/:id', function (req, res) {
   res.send(database.get(req.params.id));
 });
 
-app.listen(8000);
-console.log('Listening on port 8000...');
+app.listen(80);
+console.log('Listening on port 80...');
